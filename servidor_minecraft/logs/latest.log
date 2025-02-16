@@ -6038,3 +6038,8 @@ Caused by: java.lang.NoSuchMethodError: 'void it.hurts.sskirillss.ramcompat.item
 [16Feb2025 22:25:15.507] [Server thread/INFO] [survive/]: Done syncing 15 biomes
 [16Feb2025 22:25:20.880] [Server thread/INFO] [ping-wheel/]: [Ping-Wheel] Channel update: Streeg11 -> Global
 [16Feb2025 22:25:20.930] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[16Feb2025 22:34:28.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [Deep Extraction]
+[16Feb2025 22:36:59.334] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@336437e7[id=<null>,name=inseminador,properties={},legacy=false] (/127.233.13.83:60985) lost connection: Disconnected
+[16Feb2025 22:37:15.829] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@38cc84b7[id=<null>,name=inseminador,properties={},legacy=false] (/127.233.13.83:33745) lost connection: Disconnected
+[16Feb2025 22:38:18.891] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@450f88d8[id=<null>,name=inseminador,properties={},legacy=false] (/127.233.13.83:53807) lost connection: Disconnected
+[16Feb2025 22:38:49.090] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@796b08b[id=<null>,name=inseminador,properties={},legacy=false] (/127.233.13.83:53447) lost connection: Disconnected

@@ -13226,5 +13226,77 @@
     },
     "done": true
   },
+  "undergarden:recipes/combat/utherium_boots": {
+    "criteria": {
+      "has_utherium_crystal": "2025-02-16 22:34:28 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/tools/utherium_pickaxe": {
+    "criteria": {
+      "has_utherium_crystal": "2025-02-16 22:34:28 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/mine_ore": {
+    "criteria": {
+      "has_utherium": "2025-02-16 22:34:28 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/combat/utherium_helmet": {
+    "criteria": {
+      "has_utherium_crystal": "2025-02-16 22:34:28 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/combat/utherium_leggings": {
+    "criteria": {
+      "has_utherium_crystal": "2025-02-16 22:34:28 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/tools/utherium_axe": {
+    "criteria": {
+      "has_utherium_crystal": "2025-02-16 22:34:28 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/combat/utherium_sword": {
+    "criteria": {
+      "has_utherium_crystal": "2025-02-16 22:34:28 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/utherium_knife": {
+    "criteria": {
+      "has_ingots/utherium": "2025-02-16 22:34:28 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/tools/utherium_shovel": {
+    "criteria": {
+      "has_utherium_crystal": "2025-02-16 22:34:28 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/combat/utherium_chestplate": {
+    "criteria": {
+      "has_utherium_crystal": "2025-02-16 22:34:28 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/tools/utherium_hoe": {
+    "criteria": {
+      "has_utherium_crystal": "2025-02-16 22:34:28 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/utherium_block": {
+    "criteria": {
+      "has_utherium_crystal": "2025-02-16 22:34:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
