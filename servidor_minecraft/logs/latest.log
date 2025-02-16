@@ -6673,3 +6673,87 @@ Caused by: java.lang.NoSuchMethodError: 'void it.hurts.sskirillss.ramcompat.item
 [16Feb2025 23:39:53.714] [Server thread/INFO] [survive/]: Removing Client (inseminador) From Survive Data Sync List
 [16Feb2025 23:40:36.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Streeg11 moved wrongly!
 [16Feb2025 23:42:00.876] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3663b280[id=<null>,name=inseminador,properties={},legacy=false] (/127.233.13.83:54663) lost connection: Disconnected
+[16Feb2025 23:42:13.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Piglin Brute
+[16Feb2025 23:42:13.763] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[16Feb2025 23:42:13.763] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[16Feb2025 23:42:13.764] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[16Feb2025 23:42:13.764] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[16Feb2025 23:42:13.765] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[16Feb2025 23:42:17.104] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 212
+[16Feb2025 23:42:17.141] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 213
+[16Feb2025 23:42:17.182] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 214
+[16Feb2025 23:42:17.358] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 215
+[16Feb2025 23:42:17.381] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 216
+[16Feb2025 23:42:17.382] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 217
+[16Feb2025 23:42:17.382] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 218
+[16Feb2025 23:42:17.553] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 219
+[16Feb2025 23:42:17.554] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 220
+[16Feb2025 23:42:17.555] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 221
+[16Feb2025 23:42:17.555] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 222
+[16Feb2025 23:42:17.628] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 223
+[16Feb2025 23:42:20.017] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 224
+[16Feb2025 23:42:20.062] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 225
+[16Feb2025 23:42:20.062] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 226
+[16Feb2025 23:42:20.141] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 227
+[16Feb2025 23:42:20.680] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: inseminador[/127.233.13.83:41019] logged in with entity id 46461 at (-876.6544410695201, 69.0, -4690.379202599238)
+[16Feb2025 23:42:20.735] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to inseminador
+[16Feb2025 23:42:20.736] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to inseminador
+[16Feb2025 23:42:20.736] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to inseminador
+[16Feb2025 23:42:20.736] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to inseminador
+[16Feb2025 23:42:20.737] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to inseminador
+[16Feb2025 23:42:20.739] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to inseminador
+[16Feb2025 23:42:20.739] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to inseminador
+[16Feb2025 23:42:20.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inseminador joined the game
+[16Feb2025 23:42:20.891] [Server thread/INFO] [Treasure Bags/]: Sending 9 bag types to inseminador
+[16Feb2025 23:42:20.916] [Server thread/INFO] [MapFrontiers/]: PlayerJoinedEvent done (65cd86da-a936-3577-a58b-85f9a5ba1c91)
+[16Feb2025 23:42:20.919] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: inseminador
+[16Feb2025 23:42:20.936] [Server thread/INFO] [Jade/]: Syncing config to inseminador (65cd86da-a936-3577-a58b-85f9a5ba1c91)
+[16Feb2025 23:42:21.224] [Server thread/INFO] [survive/]: Syncing All Data To Client (inseminador)
+[16Feb2025 23:42:21.225] [Server thread/INFO] [survive/]: Syncing Armor Data
+[16Feb2025 23:42:21.225] [Server thread/INFO] [survive/]: Done with Armors
+[16Feb2025 23:42:21.226] [Server thread/INFO] [survive/]: Syncing Fluid Data
+[16Feb2025 23:42:21.226] [Server thread/INFO] [survive/]: Done with Fluids
+[16Feb2025 23:42:21.226] [Server thread/INFO] [survive/]: Syncing Biome Data
+[16Feb2025 23:42:21.227] [Server thread/INFO] [survive/]: Done syncing 15 biomes
+[16Feb2025 23:42:24.970] [Server thread/INFO] [ping-wheel/]: [Ping-Wheel] Channel update: inseminador -> Global
+[16Feb2025 23:42:25.029] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[16Feb2025 23:42:25.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[16Feb2025 23:42:29.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Piglin Brute
+[16Feb2025 23:42:43.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2517ms or 50 ticks behind
+[16Feb2025 23:42:57.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was corrupted by Piglin Brute.
+[16Feb2025 23:42:57.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Piglin
+[16Feb2025 23:43:07.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Piglin Brute
+[16Feb2025 23:43:14.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: The difficulty has been set to Peaceful]
+[16Feb2025 23:43:55.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: The difficulty has been set to Hard]
+[16Feb2025 23:44:15.881] [Worker-Main-113/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[16Feb2025 23:44:15.885] [Worker-Main-113/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[16Feb2025 23:44:27.311] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[16Feb2025 23:45:27.748] [pool-19-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / blue_skies:village_crystal_dunes], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mesa_fortified], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_savanna_plateau], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mushroom], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / ctov:large/village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mountain_alpine]] from pos BlockPos{x=-1157, y=72, z=-4811}
+[16Feb2025 23:45:29.419] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1156, y=69, z=-4811} but found not block entity block Block{minecraft:stone_stairs}[facing=north,half=bottom,shape=straight,waterlogged=false] at location
+[16Feb2025 23:45:29.420] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone_stairs}[facing=north,half=bottom,shape=straight,waterlogged=false] but failed at location BlockPos{x=-1156, y=69, z=-4811}
+[16Feb2025 23:45:29.420] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1156, y=69, z=-4812} but found not block entity block Block{minecraft:stone} at location
+[16Feb2025 23:45:29.420] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-1156, y=69, z=-4812}
+[16Feb2025 23:45:29.420] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1157, y=72, z=-4810} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] at location
+[16Feb2025 23:45:29.420] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-1157, y=72, z=-4810}
+[16Feb2025 23:45:29.420] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1157, y=71, z=-4810} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[16Feb2025 23:45:29.420] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=-1157, y=71, z=-4810}
+[16Feb2025 23:45:29.421] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1157, y=72, z=-4812} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] at location
+[16Feb2025 23:45:29.421] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-1157, y=72, z=-4812}
+[16Feb2025 23:45:29.421] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1157, y=71, z=-4812} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[16Feb2025 23:45:29.421] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=-1157, y=71, z=-4812}
+[16Feb2025 23:45:29.671] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1157, y=72, z=-4811} but found not block entity block Block{minecraft:stripped_spruce_log}[axis=y] at location
+[16Feb2025 23:45:29.671] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stripped_spruce_log}[axis=y] but failed at location BlockPos{x=-1157, y=72, z=-4811}
+[16Feb2025 23:45:43.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Teleported Streeg11 to inseminador]
+[16Feb2025 23:46:04.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <inseminador> XDD
+[16Feb2025 23:46:08.085] [pool-19-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / blue_skies:village_slushlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / ctov:small/village_jungle], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / ctov:small/village_savanna_na]] from pos BlockPos{x=-1189, y=75, z=-5093}
+[16Feb2025 23:46:08.428] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1189, y=75, z=-5094} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] at location
+[16Feb2025 23:46:08.428] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-1189, y=75, z=-5094}
+[16Feb2025 23:46:08.430] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1189, y=74, z=-5094} but found not block entity block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] at location
+[16Feb2025 23:46:08.430] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] but failed at location BlockPos{x=-1189, y=74, z=-5094}
+[16Feb2025 23:46:08.539] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1189, y=75, z=-5093} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] at location
+[16Feb2025 23:46:08.539] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-1189, y=75, z=-5093}
+[16Feb2025 23:46:11.159] [Worker-Main-47/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[16Feb2025 23:48:30.815] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[16Feb2025 23:49:04.709] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[16Feb2025 23:49:30.115] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[16Feb2025 23:49:52.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind

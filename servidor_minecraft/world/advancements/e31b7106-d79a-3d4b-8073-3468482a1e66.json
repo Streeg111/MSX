@@ -11599,6 +11599,7 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-02-15 05:28:26 +0000",
       "minecraft:soul_sand_valley": "2025-02-15 05:24:22 +0000",
+      "minecraft:nether_wastes": "2025-02-16 23:40:31 +0000",
       "minecraft:basalt_deltas": "2025-02-15 00:12:13 +0000"
     },
     "done": false
@@ -13415,6 +13416,12 @@
   "iceandfire:recipes/tools/dragonbone_hoe": {
     "criteria": {
       "has_item": "2025-02-16 23:26:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-02-16 23:39:05 +0000"
     },
     "done": true
   },
