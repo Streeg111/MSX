@@ -6043,3 +6043,16 @@ Caused by: java.lang.NoSuchMethodError: 'void it.hurts.sskirillss.ramcompat.item
 [16Feb2025 22:37:15.829] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@38cc84b7[id=<null>,name=inseminador,properties={},legacy=false] (/127.233.13.83:33745) lost connection: Disconnected
 [16Feb2025 22:38:18.891] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@450f88d8[id=<null>,name=inseminador,properties={},legacy=false] (/127.233.13.83:53807) lost connection: Disconnected
 [16Feb2025 22:38:49.090] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@796b08b[id=<null>,name=inseminador,properties={},legacy=false] (/127.233.13.83:53447) lost connection: Disconnected
+[16Feb2025 22:41:36.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Streeg11> ASD+A
+[16Feb2025 22:41:53.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Streeg11 a server operator
+[16Feb2025 22:42:06.886] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1cac18[id=<null>,name=inseminador,properties={},legacy=false] (/127.233.13.83:38507) lost connection: Disconnected
+[16Feb2025 22:42:39.690] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@792a4176[id=<null>,name=inseminador,properties={},legacy=false] (/127.233.13.83:35193) lost connection: Disconnected
+[16Feb2025 22:44:13.502] [Worker-Main-79/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[16Feb2025 22:44:13.503] [Worker-Main-79/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[16Feb2025 22:44:13.504] [Worker-Main-79/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[16Feb2025 22:46:59.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Spectator Mode]
+[16Feb2025 22:47:11.185] [Worker-Main-116/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -463 0 776
+[16Feb2025 22:47:11.304] [Worker-Main-78/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -395 0 773
+[16Feb2025 22:47:23.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Survival Mode]
+[16Feb2025 22:49:19.629] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Shane the Wise'/18813, l='ServerLevel[world]', x=-514.30, y=50.00, z=564.93] died: Shane the Wise was scorched to death
+[16Feb2025 22:50:06.009] [Worker-Main-112/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -395 0 824
