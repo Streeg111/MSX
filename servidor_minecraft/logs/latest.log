@@ -4474,3 +4474,6 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [17Feb2025 18:40:40.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was pierced by Necromancer's icicle
 [17Feb2025 18:41:16.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was mauled by Necromancer's undead
 [17Feb2025 18:47:04.535] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-51, y=69, z=299} BlockPos{x=-51, y=69, z=300}
+[17Feb2025 19:30:23.693] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Rob'/8, l='ServerLevel[world]', x=18.09, y=63.00, z=184.02] died, message: 'Rob hit the ground too hard'
+[17Feb2025 19:30:23.694] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Rob'/8, l='ServerLevel[world]', x=18.09, y=63.00, z=184.02] died: Rob hit the ground too hard
+[17Feb2025 19:35:08.916] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-38, y=76, z=386}
