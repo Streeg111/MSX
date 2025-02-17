@@ -642,3 +642,12 @@ Caused by: java.lang.NoSuchMethodError: 'void it.hurts.sskirillss.ramcompat.item
 [17Feb2025 00:21:17.623] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 223
 [17Feb2025 00:21:18.782] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@40379d3[id=<null>,name=inseminador,properties={},legacy=false] (/127.233.13.83:53963) lost connection: Disconnected
 [17Feb2025 00:24:48.070] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WraithEntity['Darktouched Wraith'/60905, l='ServerLevel[world]', x=-44.09, y=87.00, z=385.11] died: Darktouched Wraith burned to death
+[17Feb2025 00:39:39.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set the time to 1000]
+[17Feb2025 00:40:21.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[17Feb2025 00:40:21.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist<--[HERE]
+[17Feb2025 00:40:22.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[17Feb2025 00:40:23.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lsit<--[HERE]
+[17Feb2025 00:40:24.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 10 players online: Streeg11
+[17Feb2025 00:40:25.528] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Streeg11 lost connection: Disconnected
+[17Feb2025 00:40:25.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 left the game
+[17Feb2025 00:40:25.529] [Server thread/INFO] [survive/]: Removing Client (Streeg11) From Survive Data Sync List
