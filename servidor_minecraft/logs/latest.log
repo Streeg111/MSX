@@ -651,3 +651,41 @@ Caused by: java.lang.NoSuchMethodError: 'void it.hurts.sskirillss.ramcompat.item
 [17Feb2025 00:40:25.528] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Streeg11 lost connection: Disconnected
 [17Feb2025 00:40:25.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 left the game
 [17Feb2025 00:40:25.529] [Server thread/INFO] [survive/]: Removing Client (Streeg11) From Survive Data Sync List
+[17Feb2025 00:43:58.179] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 212
+[17Feb2025 00:43:58.205] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 213
+[17Feb2025 00:43:58.246] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 214
+[17Feb2025 00:43:58.409] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 215
+[17Feb2025 00:43:58.450] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 216
+[17Feb2025 00:43:58.450] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 217
+[17Feb2025 00:43:58.450] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 218
+[17Feb2025 00:43:58.605] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 219
+[17Feb2025 00:43:58.646] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 220
+[17Feb2025 00:43:58.646] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 221
+[17Feb2025 00:43:58.646] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 222
+[17Feb2025 00:43:58.701] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 223
+[17Feb2025 00:43:59.058] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 224
+[17Feb2025 00:43:59.102] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 225
+[17Feb2025 00:43:59.102] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 226
+[17Feb2025 00:43:59.102] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 227
+[17Feb2025 00:43:59.728] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Streeg11[/127.101.128.65:42241] logged in with entity id 66313 at (-69.77714438003902, 76.0, 367.2350599769939)
+[17Feb2025 00:43:59.768] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Streeg11
+[17Feb2025 00:43:59.768] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Streeg11
+[17Feb2025 00:43:59.769] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Streeg11
+[17Feb2025 00:43:59.769] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Streeg11
+[17Feb2025 00:43:59.770] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Streeg11
+[17Feb2025 00:43:59.771] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Streeg11
+[17Feb2025 00:43:59.772] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Streeg11
+[17Feb2025 00:43:59.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 joined the game
+[17Feb2025 00:43:59.867] [Server thread/INFO] [Treasure Bags/]: Sending 9 bag types to Streeg11
+[17Feb2025 00:43:59.889] [Server thread/INFO] [MapFrontiers/]: PlayerJoinedEvent done (e31b7106-d79a-3d4b-8073-3468482a1e66)
+[17Feb2025 00:43:59.891] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Streeg11
+[17Feb2025 00:43:59.904] [Server thread/INFO] [Jade/]: Syncing config to Streeg11 (e31b7106-d79a-3d4b-8073-3468482a1e66)
+[17Feb2025 00:43:59.971] [Server thread/INFO] [survive/]: Syncing All Data To Client (Streeg11)
+[17Feb2025 00:43:59.971] [Server thread/INFO] [survive/]: Syncing Armor Data
+[17Feb2025 00:43:59.971] [Server thread/INFO] [survive/]: Done with Armors
+[17Feb2025 00:43:59.971] [Server thread/INFO] [survive/]: Syncing Fluid Data
+[17Feb2025 00:43:59.972] [Server thread/INFO] [survive/]: Done with Fluids
+[17Feb2025 00:43:59.972] [Server thread/INFO] [survive/]: Syncing Biome Data
+[17Feb2025 00:43:59.972] [Server thread/INFO] [survive/]: Done syncing 15 biomes
+[17Feb2025 00:44:06.832] [Server thread/INFO] [ping-wheel/]: [Ping-Wheel] Channel update: Streeg11 -> Global
+[17Feb2025 00:44:06.833] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
