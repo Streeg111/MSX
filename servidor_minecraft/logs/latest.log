@@ -4479,3 +4479,10 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [17Feb2025 19:35:08.916] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-38, y=76, z=386}
 [17Feb2025 19:53:37.842] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [17Feb2025 19:53:37.842] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[17Feb2025 21:14:26.995] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Harland'/31, l='ServerLevel[world]', x=30.88, y=63.00, z=191.70] died, message: 'Harland hit the ground too hard'
+[17Feb2025 21:14:26.995] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Harland'/31, l='ServerLevel[world]', x=30.88, y=63.00, z=191.70] died: Harland hit the ground too hard
+[17Feb2025 21:18:05.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [The alloy inert to magic]
+[17Feb2025 21:18:06.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [Forged in Flame]
+[17Feb2025 21:18:55.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [Mysterious Metal]
+[17Feb2025 21:18:56.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [What Now Is]
+[17Feb2025 21:18:56.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [A Little Hot Rod Red]
