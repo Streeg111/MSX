@@ -10555,6 +10555,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-02-16 23:48:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-02-16 23:48:45 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/acacia_palisade": {
+    "criteria": {
+      "has_log": "2025-02-16 23:48:45 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_acacia": {
     "criteria": {
       "has_planks": "2025-02-16 23:48:48 +0000"
@@ -10573,21 +10591,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-02-16 23:53:52 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/acacia_cupboard": {
     "criteria": {
       "has_acacia_cupboard": "2025-02-16 23:48:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-02-16 23:53:52 +0000"
     },
     "done": true
   },
@@ -10621,12 +10627,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_wood": {
-    "criteria": {
-      "has_log": "2025-02-16 23:48:45 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/acacia_pillar_trim": {
     "criteria": {
       "has_acacia_pillar_trim": "2025-02-16 23:48:48 +0000"
@@ -10657,21 +10657,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-02-16 23:53:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-02-16 23:48:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_planks": {
-    "criteria": {
-      "has_log": "2025-02-16 23:48:45 +0000"
     },
     "done": true
   },
@@ -10723,21 +10711,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/warped_planks": {
-    "criteria": {
-      "has_logs": "2025-02-16 23:53:56 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/acacia_bench": {
     "criteria": {
       "has_acacia_bench": "2025-02-16 23:48:48 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorative_blocks.general/acacia_palisade": {
-    "criteria": {
-      "has_log": "2025-02-16 23:48:45 +0000"
     },
     "done": true
   },
@@ -10777,9 +10753,255 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-02-16 23:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-02-16 23:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-02-16 23:53:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
       "has_smooth_sandstone": "2025-02-16 23:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-02-16 23:53:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_warped": {
+    "criteria": {
+      "has_the_recipe": "2025-02-17 00:02:04 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/warped_table": {
+    "criteria": {
+      "has_bamboo": "2025-02-17 00:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-17 00:02:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_table": {
+    "criteria": {
+      "has_warped_table": "2025-02-17 00:02:04 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/warped_support": {
+    "criteria": {
+      "has_plank": "2025-02-17 00:02:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_nightstand": {
+    "criteria": {
+      "has_warped_nightstand": "2025-02-17 00:02:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_bench": {
+    "criteria": {
+      "has_warped_bench": "2025-02-17 00:02:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_fancy_bed": {
+    "criteria": {
+      "has_warped_fancy_bed": "2025-02-17 00:02:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_warped": {
+    "criteria": {
+      "has_planks": "2025-02-17 00:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-17 00:02:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_side_table": {
+    "criteria": {
+      "has_warped_side_table": "2025-02-17 00:02:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_chair": {
+    "criteria": {
+      "has_warped_chair": "2025-02-17 00:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-17 00:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2025-02-17 00:02:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_dining_bench": {
+    "criteria": {
+      "has_warped_dining_bench": "2025-02-17 00:02:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_pillar_trim": {
+    "criteria": {
+      "has_warped_pillar_trim": "2025-02-17 00:02:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_desk": {
+    "criteria": {
+      "has_warped_desk": "2025-02-17 00:02:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_corner_trim": {
+    "criteria": {
+      "has_warped_corner_trim": "2025-02-17 00:02:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_couch": {
+    "criteria": {
+      "has_warped_couch": "2025-02-17 00:02:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_counter": {
+    "criteria": {
+      "has_warped_counter": "2025-02-17 00:02:04 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/warped_seat": {
+    "criteria": {
+      "has_plank": "2025-02-17 00:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-17 00:02:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_shelf": {
+    "criteria": {
+      "has_warped_shelf": "2025-02-17 00:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-02-17 00:02:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_cupboard": {
+    "criteria": {
+      "has_warped_cupboard": "2025-02-17 00:02:04 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_warped": {
+    "criteria": {
+      "has_planks": "2025-02-17 00:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-02-17 00:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-02-17 00:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-02-17 00:02:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_drawer": {
+    "criteria": {
+      "has_warped_drawer": "2025-02-17 00:02:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2025-02-17 00:02:21 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/regalium_block": {
+    "criteria": {
+      "has_regalium_crystal": "2025-02-17 00:06:29 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/mine_ore": {
+    "criteria": {
+      "has_regalium_crystal": "2025-02-17 00:06:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/falsite_block": {
+    "criteria": {
+      "has_item": "2025-02-17 00:07:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/get_falsite": {
+    "criteria": {
+      "obtain_material": "2025-02-17 00:07:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/falsite_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-02-17 00:07:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/star_emitter": {
+    "criteria": {
+      "has_item": "2025-02-17 00:07:49 +0000"
     },
     "done": true
   },

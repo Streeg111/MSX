@@ -13335,30 +13335,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_bone_wall": {
-    "criteria": {
-      "has_item": "2025-02-16 23:26:38 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_if_dragon": {
-    "criteria": {
-      "killed_fire_dragon": "2025-02-16 23:24:49 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/skull_to_bone_meal": {
-    "criteria": {
-      "has_item": "2025-02-16 23:26:39 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragon_bone_block": {
-    "criteria": {
-      "has_dragonbone": "2025-02-16 23:26:38 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
     "criteria": {
       "has_log": "2025-02-16 23:24:11 +0000"
@@ -13371,9 +13347,27 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-02-16 23:24:49 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonbone_sword_fire": {
     "criteria": {
       "has_item": "2025-02-16 23:26:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-02-16 23:26:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-02-16 23:26:38 +0000"
     },
     "done": true
   },
@@ -13383,21 +13377,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_stick": {
-    "criteria": {
-      "has_item": "2025-02-16 23:26:39 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/misc/dragon_flute": {
     "criteria": {
       "has_item": "2025-02-16 23:26:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/distract_piglin": {
-    "criteria": {
-      "distract_piglin": "2025-02-16 23:37:52 +0000"
     },
     "done": true
   },
@@ -13416,12 +13398,6 @@
   "iceandfire:recipes/tools/dragonbone_hoe": {
     "criteria": {
       "has_item": "2025-02-16 23:26:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2025-02-16 23:39:05 +0000"
     },
     "done": true
   },
@@ -13446,6 +13422,78 @@
   "iceandfire:recipes/tools/dragonbone_sword": {
     "criteria": {
       "has_item": "2025-02-16 23:26:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-02-16 23:26:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-02-16 23:26:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-02-16 23:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-02-16 23:39:05 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/dark_nether_star": {
+    "criteria": {
+      "has_nether_star": "2025-02-17 00:03:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-02-17 00:03:07 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/marshmallow_stick": {
+    "criteria": {
+      "has_sugar": "2025-02-17 00:05:47 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-02-17 00:05:47 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/players": {
+    "criteria": {
+      "modifier": "2025-02-17 00:03:08 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/modifier": {
+    "criteria": {
+      "modifier": "2025-02-17 00:03:08 +0000"
+    },
+    "done": true
+  },
+  "netherchested:recipes/decorations/nether_chest": {
+    "criteria": {
+      "has_nether_star": "2025-02-17 00:03:07 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/cave_pumpkin_pie": {
+    "criteria": {
+      "has_sugar": "2025-02-17 00:05:47 +0000"
     },
     "done": true
   },
