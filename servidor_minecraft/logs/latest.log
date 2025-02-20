@@ -4583,3 +4583,14 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [20Feb2025 01:20:56.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Ancient Knight
 [20Feb2025 01:21:05.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Ancient Knight
 [20Feb2025 01:21:14.785] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[20Feb2025 01:25:02.141] [Worker-Main-8/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 1228 0 -24
+[20Feb2025 01:25:19.704] [Worker-Main-8/WARN] [com.finndog.mns.MNSCommon/]: Moog's Nether Structures: Empty or nonexistent pool: mns:houses/warped_pool/side_pool which is being called from mns:warped_pool
+[20Feb2025 01:25:42.484] [Worker-Main-2/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 1388 0 26
+[20Feb2025 01:25:56.112] [Worker-Main-8/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 1407 0 32
+[20Feb2025 01:31:06.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Incomplete Wither
+[20Feb2025 01:31:45.893] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[20Feb2025 01:32:17.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Incomplete Wither
+[20Feb2025 01:32:40.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Incomplete Wither
+[20Feb2025 01:32:45.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: The difficulty has been set to Peaceful]
+[20Feb2025 01:32:54.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: The difficulty has been set to Hard]
+[20Feb2025 01:32:54.376] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
