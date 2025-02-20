@@ -4474,3 +4474,5 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [20Feb2025 21:11:15.238] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2343ms or 46 ticks behind
 [20Feb2025 21:11:16.780] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
 [20Feb2025 21:11:18.586] [Worker-Main-8/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -947 0 852
+[20Feb2025 21:16:58.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Incomplete Wither
+[20Feb2025 21:24:07.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [A Throwaway Joke]
