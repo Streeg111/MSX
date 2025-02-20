@@ -4502,3 +4502,31 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [20Feb2025 00:18:47.139] [Server thread/INFO] [survive/]: Done syncing 15 biomes
 [20Feb2025 00:18:54.601] [Server thread/INFO] [ping-wheel/]: [Ping-Wheel] Channel update: Streeg11 -> Global
 [20Feb2025 00:18:54.650] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[20Feb2025 00:33:03.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: The difficulty has been set to Hard]
+[20Feb2025 00:34:25.563] [Worker-Main-41/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[20Feb2025 00:34:25.564] [Worker-Main-41/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[20Feb2025 00:34:25.566] [Worker-Main-41/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[20Feb2025 00:34:58.464] [Worker-Main-9/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 192 0 496
+[20Feb2025 00:35:29.329] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=55, z=316} BlockPos{x=-2, y=54, z=315}
+[20Feb2025 00:35:29.386] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=55, z=316} BlockPos{x=-2, y=54, z=315}
+[20Feb2025 00:35:29.432] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=55, z=316} BlockPos{x=-2, y=54, z=315}
+[20Feb2025 00:35:29.480] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=55, z=316} BlockPos{x=-2, y=54, z=315}
+[20Feb2025 00:35:51.032] [Worker-Main-41/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 259 0 492
+[20Feb2025 00:36:03.968] [Worker-Main-41/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 277 0 87
+[20Feb2025 00:36:18.362] [Worker-Main-8/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 311 0 380
+[20Feb2025 00:36:26.154] [Worker-Main-8/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 326 0 263
+[20Feb2025 00:37:29.915] [Worker-Main-9/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 375 0 223
+[20Feb2025 00:37:29.944] [Worker-Main-8/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 368 0 179
+[20Feb2025 00:37:55.054] [Worker-Main-9/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 417 0 439
+[20Feb2025 00:38:34.587] [Worker-Main-9/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 491 0 288
+[20Feb2025 00:38:44.701] [Worker-Main-8/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 511 0 221
+[20Feb2025 00:38:44.935] [Worker-Main-8/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 509 0 434
+[20Feb2025 00:38:55.552] [Worker-Main-9/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 528 0 217
+[20Feb2025 00:39:01.432] [Worker-Main-41/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 550 0 142
+[20Feb2025 00:39:13.041] [Worker-Main-8/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 562 0 129
+[20Feb2025 00:39:32.860] [Worker-Main-9/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 558 0 533
+[20Feb2025 00:39:35.459] [Worker-Main-8/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 588 0 161
+[20Feb2025 00:39:41.057] [Worker-Main-8/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 613 0 405
+[20Feb2025 00:40:13.561] [Worker-Main-41/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 639 0 67
+[20Feb2025 00:41:01.552] [Worker-Main-41/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 675 0 273
+[20Feb2025 00:41:01.839] [Worker-Main-8/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 678 0 135
