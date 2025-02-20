@@ -14558,6 +14558,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-02-20 22:25:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-02-20 22:12:25 +0000"
@@ -14587,6 +14593,12 @@
       "shot_trident": "2025-02-20 21:24:07 +0000"
     },
     "done": true
+  },
+  "twilightforest:fiery_set": {
+    "criteria": {
+      "fiery_pick": "2025-02-20 22:26:06 +0000"
+    },
+    "done": false
   },
   "apotheotic_additions:affix/reforging_table": {
     "criteria": {
