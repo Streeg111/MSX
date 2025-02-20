@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "b510f09bd7d138abb634152d42e55f5f"
+	name: "Streeg#b510f09b"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
