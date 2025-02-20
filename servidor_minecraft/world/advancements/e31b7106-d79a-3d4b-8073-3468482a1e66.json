@@ -294,6 +294,7 @@
       "coniferous_forest": "2025-02-12 01:42:26 +0000",
       "spider_nest": "2025-02-13 00:38:18 +0000",
       "redwood_forest": "2025-02-12 01:36:46 +0000",
+      "visceral_heap": "2025-02-20 00:57:17 +0000",
       "seasonal_orchard": "2025-02-12 04:06:00 +0000",
       "dune_beach": "2025-02-12 01:13:53 +0000",
       "seasonal_forest": "2025-02-12 01:52:38 +0000",
@@ -14484,9 +14485,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-02-20 00:51:57 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
     "criteria": {
       "has_rose_quartz_chunk": "2025-02-20 00:43:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-20 00:51:57 +0000"
     },
     "done": true
   },

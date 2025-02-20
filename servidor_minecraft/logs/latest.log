@@ -4543,3 +4543,13 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [20Feb2025 00:50:30.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Piglin Brute
 [20Feb2025 00:50:37.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: The difficulty has been set to Peaceful]
 [20Feb2025 00:51:24.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: The difficulty has been set to Hard]
+[20Feb2025 00:53:19.045] [Worker-Main-41/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 907 0 352
+[20Feb2025 00:54:45.703] [Worker-Main-8/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 802 0 -101
+[20Feb2025 00:54:53.531] [Worker-Main-41/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 885 0 -121
+[20Feb2025 00:56:38.282] [Worker-Main-8/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 471 0 -155
+[20Feb2025 00:58:10.755] [Worker-Main-8/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 439 0 -111
+[20Feb2025 00:59:50.359] [Worker-Main-9/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 528 0 -248
+[20Feb2025 01:00:51.842] [Worker-Main-41/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 939 0 56
+[20Feb2025 01:02:13.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Streeg11> asd
+[20Feb2025 01:02:31.348] [Worker-Main-2/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 616 0 -257
+[20Feb2025 01:03:03.063] [Worker-Main-8/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 762 0 -302
