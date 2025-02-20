@@ -4478,3 +4478,7 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [20Feb2025 21:24:07.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [A Throwaway Joke]
 [20Feb2025 21:31:20.100] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
 [20Feb2025 21:32:35.403] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[20Feb2025 22:06:04.950] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[20Feb2025 22:08:04.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Creative Mode]
+[20Feb2025 22:08:18.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Survival Mode]
+[20Feb2025 22:15:41.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has completed the challenge [Forge Of The Gods]
