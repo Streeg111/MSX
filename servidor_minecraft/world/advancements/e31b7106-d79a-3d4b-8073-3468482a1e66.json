@@ -14484,5 +14484,11 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
+    "criteria": {
+      "has_rose_quartz_chunk": "2025-02-20 00:43:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
