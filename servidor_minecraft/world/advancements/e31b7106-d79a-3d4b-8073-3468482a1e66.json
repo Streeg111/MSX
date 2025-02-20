@@ -14552,6 +14552,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-02-20 22:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-02-20 22:12:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-02-20 20:50:28 +0000"
@@ -14564,9 +14576,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-02-20 22:12:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/throw_trident": {
     "criteria": {
       "shot_trident": "2025-02-20 21:24:07 +0000"
+    },
+    "done": true
+  },
+  "apotheotic_additions:affix/reforging_table": {
+    "criteria": {
+      "material": "2025-02-20 22:15:41 +0000"
     },
     "done": true
   },
