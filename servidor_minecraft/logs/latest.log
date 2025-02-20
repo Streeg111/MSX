@@ -4501,3 +4501,5 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [20Feb2025 22:39:41.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Creative Mode]
 [20Feb2025 22:42:01.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Survival Mode]
 [20Feb2025 22:53:02.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set the time to 13000]
+[20Feb2025 23:08:16.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [The Lapidary]
+[20Feb2025 23:10:23.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has reached the goal [Flawless Crystals]
