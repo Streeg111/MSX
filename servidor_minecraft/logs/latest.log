@@ -4529,3 +4529,10 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [20Feb2025 23:20:10.975] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=65, z=399} BlockPos{x=-7, y=64, z=399}
 [20Feb2025 23:20:11.027] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=65, z=399} BlockPos{x=-7, y=64, z=399}
 [20Feb2025 23:32:09.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-35, y=70, z=389} BlockPos{x=-35, y=69, z=396}
+[20Feb2025 23:37:56.843] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-11, y=65, z=399} BlockPos{x=-11, y=67, z=408}
+[20Feb2025 23:43:04.689] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-30, y=67, z=402} BlockPos{x=-29, y=69, z=401}
+[20Feb2025 23:44:22.588] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-35, y=68, z=401} BlockPos{x=-36, y=68, z=399}
+[20Feb2025 23:44:22.638] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-35, y=69, z=401} BlockPos{x=-36, y=68, z=399}
+[20Feb2025 23:47:33.389] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-23, y=65, z=408} BlockPos{x=-29, y=65, z=408}
+[20Feb2025 23:47:38.386] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-35, y=66, z=411} BlockPos{x=-33, y=63, z=411}
+[20Feb2025 23:47:38.685] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-34, y=65, z=410} BlockPos{x=-34, y=66, z=410}
