@@ -14485,6 +14485,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed_by": "2025-02-20 01:17:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
     "criteria": {
       "has_snout_armor_trim_smithing_template": "2025-02-20 00:51:57 +0000"

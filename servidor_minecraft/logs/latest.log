@@ -4553,3 +4553,33 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [20Feb2025 01:02:13.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Streeg11> asd
 [20Feb2025 01:02:31.348] [Worker-Main-2/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 616 0 -257
 [20Feb2025 01:03:03.063] [Worker-Main-8/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 762 0 -302
+[20Feb2025 01:03:39.910] [Worker-Main-8/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 528 0 -335
+[20Feb2025 01:05:41.277] [Worker-Main-8/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 617 0 -396
+[20Feb2025 01:07:20.391] [Worker-Main-96/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 1072 0 -87
+[20Feb2025 01:08:17.041] [Worker-Main-96/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 1145 0 -116
+[20Feb2025 01:08:31.835] [Worker-Main-8/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 755 0 -414
+[20Feb2025 01:08:53.681] [Worker-Main-2/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 1068 0 -442
+[20Feb2025 01:08:53.733] [Worker-Main-8/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 1079 0 -437
+[20Feb2025 01:08:54.016] [Worker-Main-8/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 791 0 -438
+[20Feb2025 01:11:07.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was doomed to fall by Piglin Brute
+[20Feb2025 01:11:34.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 fell from a high place
+[20Feb2025 01:12:26.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Creative Mode]
+[20Feb2025 01:12:33.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Survival Mode]
+[20Feb2025 01:12:48.610] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element bygonenether:catacomb took 22 ms
+[20Feb2025 01:17:12.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [Fetch Me Their Souls!]
+[20Feb2025 01:17:12.537] [Worker-Main-41/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 1320 0 -376
+[20Feb2025 01:17:12.650] [Worker-Main-96/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 1320 0 -478
+[20Feb2025 01:17:13.870] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[20Feb2025 01:17:35.914] [Worker-Main-8/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 1025 0 -505
+[20Feb2025 01:17:48.575] [Worker-Main-2/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 1364 0 -228
+[20Feb2025 01:17:56.463] [Worker-Main-41/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 1397 0 -462
+[20Feb2025 01:19:24.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Ancient Knight
+[20Feb2025 01:19:24.988] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[20Feb2025 01:19:24.988] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 10 is dual wielding: false
+[20Feb2025 01:19:24.988] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[20Feb2025 01:19:24.989] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[20Feb2025 01:19:24.989] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[20Feb2025 01:19:50.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 burned to death
+[20Feb2025 01:20:56.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Ancient Knight
+[20Feb2025 01:21:05.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Ancient Knight
+[20Feb2025 01:21:14.785] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
