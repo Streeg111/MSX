@@ -111,3 +111,5 @@
 [21Feb2025 02:33:46.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Streeg11> asd
 [21Feb2025 02:44:07.291] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=191, y=-22, z=660} BlockPos{x=192, y=-22, z=660}
 [21Feb2025 02:44:13.726] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Doomsday'/127808, l='ServerLevel[world]', x=192.70, y=-21.60, z=660.70] died: Doomsday was scorched to death by Streeg11 using [Infernal Infernal Infernal Tridente of Dexterity1 of Dexter of Dexterity]
+[21Feb2025 03:08:12.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [Draconic Evolution]
+[21Feb2025 03:09:50.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set the time to 13000]
