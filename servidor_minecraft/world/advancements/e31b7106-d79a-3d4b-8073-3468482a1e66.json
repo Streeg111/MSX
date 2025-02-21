@@ -2414,6 +2414,7 @@
       "minecraft:piglin_brute": "2025-02-15 20:47:23 +0000",
       "minecraft:creeper": "2025-02-12 00:59:05 +0000",
       "minecraft:evoker": "2025-02-12 22:55:31 +0000",
+      "minecraft:slime": "2025-02-21 01:16:56 +0000",
       "minecraft:phantom": "2025-02-14 23:46:29 +0000",
       "minecraft:zombified_piglin": "2025-02-15 00:22:17 +0000",
       "minecraft:witch": "2025-02-14 03:38:51 +0000",
@@ -14567,6 +14568,12 @@
   "apotheosis:affix/gem_cut": {
     "criteria": {
       "cut": "2025-02-20 23:08:16 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-02-21 01:21:17 +0000"
     },
     "done": true
   },

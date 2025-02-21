@@ -41,3 +41,6 @@
 [21Feb2025 00:43:47.725] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-35, y=68, z=394} BlockPos{x=-35, y=67, z=391}
 [21Feb2025 00:54:56.830] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-34, y=66, z=400} BlockPos{x=-35, y=68, z=398}
 [21Feb2025 01:04:06.798] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[21Feb2025 01:08:55.702] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[21Feb2025 01:14:05.922] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/103562, l='ServerLevel[world]', x=-154.35, y=58.85, z=398.78] died: Honeyed Archer suffocated in a wall
+[21Feb2025 01:21:17.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [Alex's Mobs]
