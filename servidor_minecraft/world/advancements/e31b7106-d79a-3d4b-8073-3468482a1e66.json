@@ -14553,6 +14553,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-02-21 01:46:45 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/eat_comfort_food": {
     "criteria": {
       "comfort": "2025-02-20 20:52:41 +0000"
@@ -14607,6 +14613,12 @@
     },
     "done": true
   },
+  "celestisynth:recipes/combat/crescentia": {
+    "criteria": {
+      "has_item": "2025-02-21 01:46:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-02-20 20:50:28 +0000"
@@ -14616,6 +14628,12 @@
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-02-20 20:50:28 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/lunar_scrap_smelting": {
+    "criteria": {
+      "has_item": "2025-02-21 01:46:24 +0000"
     },
     "done": true
   },
@@ -14712,6 +14730,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-02-21 01:34:04 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/lunar_scrap_blasting": {
+    "criteria": {
+      "has_item": "2025-02-21 01:46:24 +0000"
     },
     "done": true
   },
