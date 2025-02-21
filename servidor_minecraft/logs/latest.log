@@ -57,3 +57,53 @@
 [21Feb2025 02:02:07.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [A Seedy Place]
 [21Feb2025 02:03:09.771] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-39, y=73, z=394} BlockPos{x=-38, y=74, z=394}
 [21Feb2025 02:05:26.780] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-39, y=73, z=394} BlockPos{x=-39, y=76, z=394}
+[21Feb2025 02:20:26.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Streeg11> asd
+[21Feb2025 02:20:33.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 10 players online: Streeg11
+[21Feb2025 02:20:38.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 10 players online: Streeg11
+[21Feb2025 02:20:40.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Streeg11> as
+[21Feb2025 02:20:53.335] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Streeg11 lost connection: Disconnected
+[21Feb2025 02:20:53.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 left the game
+[21Feb2025 02:20:53.340] [Server thread/INFO] [survive/]: Removing Client (Streeg11) From Survive Data Sync List
+[21Feb2025 02:21:51.746] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 212
+[21Feb2025 02:21:51.923] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 213
+[21Feb2025 02:21:51.924] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 214
+[21Feb2025 02:21:51.925] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 215
+[21Feb2025 02:21:52.109] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 216
+[21Feb2025 02:21:52.147] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 217
+[21Feb2025 02:21:52.147] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 218
+[21Feb2025 02:21:52.147] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 219
+[21Feb2025 02:21:52.294] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 220
+[21Feb2025 02:21:52.295] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 221
+[21Feb2025 02:21:52.296] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 222
+[21Feb2025 02:21:52.296] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 223
+[21Feb2025 02:21:52.614] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 224
+[21Feb2025 02:21:52.615] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 225
+[21Feb2025 02:21:52.661] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 226
+[21Feb2025 02:21:52.702] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 227
+[21Feb2025 02:21:53.303] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Streeg11[/127.250.86.255:33133] logged in with entity id 122542 at (-30.145504950863224, 75.0, 397.10205610211875)
+[21Feb2025 02:21:53.390] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Streeg11
+[21Feb2025 02:21:53.393] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Streeg11
+[21Feb2025 02:21:53.396] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Streeg11
+[21Feb2025 02:21:53.396] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Streeg11
+[21Feb2025 02:21:53.398] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Streeg11
+[21Feb2025 02:21:53.402] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Streeg11
+[21Feb2025 02:21:53.402] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Streeg11
+[21Feb2025 02:21:53.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 joined the game
+[21Feb2025 02:21:53.547] [Server thread/INFO] [Treasure Bags/]: Sending 9 bag types to Streeg11
+[21Feb2025 02:21:53.582] [Server thread/INFO] [MapFrontiers/]: PlayerJoinedEvent done (e31b7106-d79a-3d4b-8073-3468482a1e66)
+[21Feb2025 02:21:53.590] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Streeg11
+[21Feb2025 02:21:53.613] [Server thread/INFO] [Jade/]: Syncing config to Streeg11 (e31b7106-d79a-3d4b-8073-3468482a1e66)
+[21Feb2025 02:21:53.689] [Server thread/INFO] [survive/]: Syncing All Data To Client (Streeg11)
+[21Feb2025 02:21:53.689] [Server thread/INFO] [survive/]: Syncing Armor Data
+[21Feb2025 02:21:53.690] [Server thread/INFO] [survive/]: Done with Armors
+[21Feb2025 02:21:53.690] [Server thread/INFO] [survive/]: Syncing Fluid Data
+[21Feb2025 02:21:53.690] [Server thread/INFO] [survive/]: Done with Fluids
+[21Feb2025 02:21:53.691] [Server thread/INFO] [survive/]: Syncing Biome Data
+[21Feb2025 02:21:53.691] [Server thread/INFO] [survive/]: Done syncing 15 biomes
+[21Feb2025 02:21:58.828] [Server thread/INFO] [ping-wheel/]: [Ping-Wheel] Channel update: Streeg11 -> Global
+[21Feb2025 02:21:58.830] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[21Feb2025 02:23:34.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [Local Brewery]
+[21Feb2025 02:25:06.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Creative Mode]
+[21Feb2025 02:25:14.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Survival Mode]
+[21Feb2025 02:25:48.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [They Have a Cave Troll!]
+[21Feb2025 02:26:02.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has reached the goal [This Belongs in a Museum]
