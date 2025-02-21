@@ -4551,3 +4551,4 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [20Feb2025 23:51:10.331] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-25, y=66, z=394} BlockPos{x=-27, y=66, z=392}
 [20Feb2025 23:51:10.385] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-25, y=66, z=394} BlockPos{x=-27, y=66, z=392}
 [20Feb2025 23:54:52.279] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-29, y=68, z=389} BlockPos{x=-37, y=66, z=389}
+[20Feb2025 23:59:23.534] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-41, y=65, z=397} BlockPos{x=-41, y=65, z=398}
