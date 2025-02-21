@@ -34,3 +34,9 @@
 [21Feb2025 00:38:22.379] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-36, y=67, z=393} BlockPos{x=-32, y=68, z=391}
 [21Feb2025 00:38:22.428] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-36, y=67, z=393} BlockPos{x=-32, y=68, z=391}
 [21Feb2025 00:38:22.480] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-36, y=67, z=393} BlockPos{x=-32, y=68, z=391}
+[21Feb2025 00:39:52.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Streeg11 moved wrongly!
+[21Feb2025 00:41:29.977] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-37, y=71, z=399} BlockPos{x=-38, y=71, z=400}
+[21Feb2025 00:42:33.430] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-44, y=68, z=395} BlockPos{x=-43, y=68, z=396}
+[21Feb2025 00:43:40.082] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-35, y=68, z=394} BlockPos{x=-35, y=67, z=394}
+[21Feb2025 00:43:47.725] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-35, y=68, z=394} BlockPos{x=-35, y=67, z=391}
+[21Feb2025 00:54:56.830] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-34, y=66, z=400} BlockPos{x=-35, y=68, z=398}
