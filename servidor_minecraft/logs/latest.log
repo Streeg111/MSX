@@ -113,3 +113,6 @@
 [21Feb2025 02:44:13.726] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Doomsday'/127808, l='ServerLevel[world]', x=192.70, y=-21.60, z=660.70] died: Doomsday was scorched to death by Streeg11 using [Infernal Infernal Infernal Tridente of Dexterity1 of Dexter of Dexterity]
 [21Feb2025 03:08:12.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [Draconic Evolution]
 [21Feb2025 03:09:50.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set the time to 13000]
+[21Feb2025 03:13:46.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Creative Mode]
+[21Feb2025 03:13:54.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Survival Mode]
+[21Feb2025 03:13:57.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has completed the challenge [Power Of The Sea]

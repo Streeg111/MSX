@@ -14881,6 +14881,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/consume_poseidons_breakfast": {
+    "criteria": {
+      "poseidons_breakfast": "2025-02-21 03:13:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-02-21 02:39:15 +0000"
@@ -15070,6 +15076,12 @@
   "forbidden_arcanus:recipes/building_blocks/tiled_polished_darkstone_bricks_from_darkstone_stonecutting": {
     "criteria": {
       "has_darkstone": "2025-02-21 02:31:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonsteel_weapon": {
+    "criteria": {
+      "sword": "2025-02-21 03:08:12 +0000"
     },
     "done": true
   },
