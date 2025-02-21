@@ -50,3 +50,10 @@
 [21Feb2025 01:35:49.627] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8, y=63, z=411} BlockPos{x=-10, y=66, z=411}
 [21Feb2025 01:43:00.035] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
 [21Feb2025 01:46:45.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [Alex's Caves]
+[21Feb2025 01:52:08.130] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=76, y=13, z=502} BlockPos{x=76, y=12, z=502}
+[21Feb2025 01:53:24.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [Flexible Schedule]
+[21Feb2025 01:57:32.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [Mine Turtle!]
+[21Feb2025 02:00:10.624] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-29, y=74, z=398} BlockPos{x=-24, y=76, z=380}
+[21Feb2025 02:02:07.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [A Seedy Place]
+[21Feb2025 02:03:09.771] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-39, y=73, z=394} BlockPos{x=-38, y=74, z=394}
+[21Feb2025 02:05:26.780] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-39, y=73, z=394} BlockPos{x=-39, y=76, z=394}

@@ -9186,6 +9186,7 @@
     "criteria": {
       "sugar_cane": "2025-02-12 22:42:21 +0000",
       "potato": "2025-02-14 03:26:30 +0000",
+      "nether_wart": "2025-02-21 02:02:07 +0000",
       "carrot": "2025-02-14 03:26:25 +0000"
     },
     "done": false
@@ -14565,6 +14566,18 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/smelting/arcane_crystal_dust_from_smelting": {
+    "criteria": {
+      "has_item": "2025-02-21 01:51:41 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/arcane_crystal_dust_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2025-02-21 01:51:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-21 01:34:04 +0000"
@@ -14625,6 +14638,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/blasting/arcane_crystal_dust_from_blasting": {
+    "criteria": {
+      "has_item": "2025-02-21 01:51:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-02-20 20:50:28 +0000"
@@ -14640,6 +14659,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-02-21 01:34:04 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/tools/lens_of_veritatis": {
+    "criteria": {
+      "has_arcane_crystal": "2025-02-21 01:51:41 +0000"
     },
     "done": true
   },
@@ -14703,9 +14728,21 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/arcane_crystal_block_from_arcane_crystal": {
+    "criteria": {
+      "has_arcane_crystal": "2025-02-21 01:51:41 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2025-02-21 01:33:58 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2025-02-21 01:53:24 +0000"
     },
     "done": true
   },
@@ -14715,9 +14752,27 @@
     },
     "done": true
   },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2025-02-21 01:57:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-02-21 01:50:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-02-21 01:34:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2025-02-21 02:02:07 +0000"
     },
     "done": true
   },
