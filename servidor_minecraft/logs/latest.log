@@ -5426,3 +5426,10 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [22Feb2025 23:24:45.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Streeg11> ranked dota
 [22Feb2025 23:24:47.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Streeg11> ahi toi
 [22Feb2025 23:26:16.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkShadow has completed the challenge [He Wasn't So Strong]
+[22Feb2025 23:30:18.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkShadow was slain by Incomplete Wither
+[22Feb2025 23:30:27.420] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/13055, l='ServerLevel[world]', x=-2.50, y=57.00, z=155.50]
+[22Feb2025 23:30:33.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Teleported DarkShadow to Streeg11]
+[22Feb2025 23:32:57.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkShadow has made the advancement [Epic!]
+[22Feb2025 23:35:57.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set the time to 13000]
+[22Feb2025 23:36:06.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkShadow has made the advancement [Sweet Dreams]
+[22Feb2025 23:37:21.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkShadow has made the advancement [Suit Up]
