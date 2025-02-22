@@ -303,9 +303,251 @@
     },
     "done": true
   },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-02-22 23:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-02-22 23:12:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2025-02-22 23:12:25 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-02-22 23:12:25 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/diving_armor": {
+    "criteria": {
+      "helmet": "2025-02-22 23:12:36 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/primordial_armor": {
+    "criteria": {
+      "pants": "2025-02-22 23:12:48 +0000",
+      "helmet": "2025-02-22 23:12:44 +0000",
+      "tunic": "2025-02-22 23:12:50 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-02-22 23:12:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_chainmail_chestplate": "2025-02-22 23:12:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2025-02-22 23:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_chainmail_chestplate": "2025-02-22 23:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-02-22 23:19:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-02-22 23:19:45 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-02-22 23:20:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_pickaxe_repairing": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-02-22 23:21:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-22 23:21:30 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-02-22 23:26:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-02-22 23:28:25 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2025-02-22 23:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-02-22 23:28:25 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/jelly_bottle": {
+    "criteria": {
+      "has_sweet_fruit": "2025-02-22 23:28:25 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2025-02-22 23:28:25 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/sinigang_no_ginger_citrus": {
+    "criteria": {
+      "has_ginger": "2025-02-22 23:28:25 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2025-02-22 23:28:25 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/architectscutter": {
+    "criteria": {
+      "has_log": "2025-02-22 23:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-02-22 23:28:25 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2025-02-22 23:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-22 23:28:25 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/oak_palisade": {
+    "criteria": {
+      "has_log": "2025-02-22 23:28:25 +0000"
+    },
+    "done": true
+  },
   "mutantmonsters:root": {
     "criteria": {
       "killed_by_something": "2025-02-22 23:30:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-02-22 23:30:18 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/assassin_necklace": {
+    "criteria": {
+      "has_bone": "2025-02-22 23:30:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-02-22 23:30:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-02-22 23:30:45 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/bone_quiver": {
+    "criteria": {
+      "has_bone": "2025-02-22 23:30:45 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-02-22 23:30:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2025-02-22 23:30:57 +0000"
+    },
+    "done": true
+  },
+  "georenouveau:recipes/misc/coal_geore_dowsing_rod": {
+    "criteria": {
+      "has_ore": "2025-02-22 23:30:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-02-22 23:30:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-02-22 23:32:43 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2025-02-22 23:32:57 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-02-22 23:32:57 +0000"
     },
     "done": true
   },
@@ -333,12 +575,6 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_leggings": "2025-02-22 23:12:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-02-22 23:33:27 +0000"
@@ -357,59 +593,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/apple_cider": {
-    "criteria": {
-      "has_apple": "2025-02-22 23:28:25 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/misc/assassin_necklace": {
-    "criteria": {
-      "has_bone": "2025-02-22 23:30:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_coal": "2025-02-22 23:30:57 +0000"
-    },
-    "done": true
-  },
-  "georenouveau:recipes/misc/coal_geore_dowsing_rod": {
-    "criteria": {
-      "has_ore": "2025-02-22 23:30:57 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/primordial_armor": {
-    "criteria": {
-      "pants": "2025-02-22 23:12:48 +0000",
-      "helmet": "2025-02-22 23:12:44 +0000",
-      "tunic": "2025-02-22 23:12:50 +0000"
-    },
-    "done": true
-  },
-  "naturescompass:natures_compass_sapling": {
-    "criteria": {
-      "has_recipe": "2025-02-22 23:28:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-02-22 23:33:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2025-02-22 23:28:25 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/iron_pickaxe_repairing": {
-    "criteria": {
-      "has_iron_pickaxe": "2025-02-22 23:21:30 +0000"
     },
     "done": true
   },
@@ -422,30 +608,6 @@
   "twilightforest:recipes/transportation/mining_boat": {
     "criteria": {
       "in_water": "2025-02-22 23:33:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_chainmail_chestplate": "2025-02-22 23:12:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-02-22 23:21:30 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/food/cooking/jelly_bottle": {
-    "criteria": {
-      "has_sweet_fruit": "2025-02-22 23:28:25 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/wooden": {
-    "criteria": {
-      "has_item": "2025-02-22 23:28:25 +0000"
     },
     "done": true
   },
@@ -464,12 +626,6 @@
   "aether_redux:recipes/transportation/fieldsproot_boat": {
     "criteria": {
       "in_water": "2025-02-22 23:33:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2025-02-22 23:30:45 +0000"
     },
     "done": true
   },
@@ -497,12 +653,6 @@
     },
     "done": true
   },
-  "aether:recipes/combat/chainmail_chestplate_repairing": {
-    "criteria": {
-      "has_chainmail_chestplate": "2025-02-22 23:12:52 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2025-02-22 23:33:27 +0000"
@@ -521,21 +671,9 @@
     },
     "done": true
   },
-  "aether:recipes/combat/diamond_boots_repairing": {
-    "criteria": {
-      "has_diamond_boots": "2025-02-22 23:32:57 +0000"
-    },
-    "done": true
-  },
   "undergarden:recipes/transportation/smogstem_boat": {
     "criteria": {
       "in_water": "2025-02-22 23:33:27 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/bone_broth": {
-    "criteria": {
-      "has_bone": "2025-02-22 23:30:45 +0000"
     },
     "done": true
   },
@@ -545,27 +683,9 @@
     },
     "done": true
   },
-  "apotheosis:affix/epic": {
-    "criteria": {
-      "sword": "2025-02-22 23:32:57 +0000"
-    },
-    "done": true
-  },
   "ancient_aether:recipes/transportation/highsproot_boat": {
     "criteria": {
       "in_water": "2025-02-22 23:33:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "bread": "2025-02-22 23:19:45 +0000"
-    },
-    "done": false
-  },
-  "delightful:recipes/food/cooking/sinigang_no_ginger_citrus": {
-    "criteria": {
-      "has_ginger": "2025-02-22 23:28:25 +0000"
     },
     "done": true
   },
@@ -587,63 +707,15 @@
     },
     "done": true
   },
-  "naturescompass:natures_compass": {
-    "criteria": {
-      "has_recipe": "2025-02-22 23:28:25 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
       "in_water": "2025-02-22 23:33:27 +0000"
     },
     "done": true
   },
-  "domum_ornamentum:recipes/tools/architectscutter": {
-    "criteria": {
-      "has_log": "2025-02-22 23:28:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2025-02-22 23:33:27 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/rare": {
-    "criteria": {
-      "sword": "2025-02-22 23:20:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2025-02-22 23:28:25 +0000"
-    },
-    "done": true
-  },
-  "naturescompass:natures_compass_log": {
-    "criteria": {
-      "has_log": "2025-02-22 23:28:25 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/combat/bone_quiver": {
-    "criteria": {
-      "has_bone": "2025-02-22 23:30:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2025-02-22 23:30:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2025-02-22 23:28:25 +0000"
     },
     "done": true
   },
@@ -665,18 +737,6 @@
     },
     "done": true
   },
-  "aether:recipes/combat/diamond_leggings_repairing": {
-    "criteria": {
-      "has_diamond_leggings": "2025-02-22 23:12:25 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorative_blocks.general/oak_palisade": {
-    "criteria": {
-      "has_log": "2025-02-22 23:28:25 +0000"
-    },
-    "done": true
-  },
   "aether_redux:recipes/transportation/blightwillow_boat": {
     "criteria": {
       "in_water": "2025-02-22 23:33:27 +0000"
@@ -689,45 +749,15 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/diving_armor": {
-    "criteria": {
-      "helmet": "2025-02-22 23:12:36 +0000"
-    },
-    "done": false
-  },
-  "apotheosis:affix/root": {
-    "criteria": {
-      "sword": "2025-02-22 23:11:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-02-22 23:19:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-02-22 23:33:27 +0000"
     },
     "done": true
   },
-  "apotheosis:affix/chests": {
-    "criteria": {
-      "sword": "2025-02-22 23:12:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-02-22 23:33:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coal_block": {
-    "criteria": {
-      "has_coal": "2025-02-22 23:30:57 +0000"
     },
     "done": true
   },
@@ -743,12 +773,6 @@
     },
     "done": true
   },
-  "apotheosis:affix/random": {
-    "criteria": {
-      "sword": "2025-02-22 23:12:25 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2025-02-22 23:33:27 +0000"
@@ -761,35 +785,47 @@
     },
     "done": true
   },
-  "apotheosis:affix/boss": {
-    "criteria": {
-      "sword": "2025-02-22 23:26:16 +0000"
-    },
-    "done": true
-  },
   "aether_redux:recipes/transportation/jellyshroom_boat": {
     "criteria": {
       "in_water": "2025-02-22 23:33:27 +0000"
     },
     "done": true
   },
-  "immersive_armors:recipes/misc/bone": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "has_item": "2025-02-22 23:30:45 +0000"
+      "slept_in_bed": "2025-02-22 23:36:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+  "aether:recipes/combat/iron_helmet_repairing": {
     "criteria": {
-      "has_chainmail_chestplate": "2025-02-22 23:12:52 +0000"
+      "has_iron_helmet": "2025-02-22 23:37:21 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "minecraft:story/obtain_armor": {
     "criteria": {
-      "minecraft:forest": "2025-02-22 23:32:43 +0000"
+      "iron_helmet": "2025-02-22 23:37:21 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2025-02-22 23:37:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2025-02-22 23:38:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_boots_repairing": {
+    "criteria": {
+      "has_iron_boots": "2025-02-22 23:39:17 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
