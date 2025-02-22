@@ -5351,3 +5351,49 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [22Feb2025 23:00:05.241] [Server thread/INFO] [survive/]: Done syncing 15 biomes
 [22Feb2025 23:00:08.848] [Server thread/INFO] [ping-wheel/]: [Ping-Wheel] Channel update: DarkShadow -> Global
 [22Feb2025 23:00:08.849] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[22Feb2025 23:07:45.994] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkShadow lost connection: Disconnected
+[22Feb2025 23:07:45.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkShadow left the game
+[22Feb2025 23:07:45.995] [Server thread/INFO] [survive/]: Removing Client (DarkShadow) From Survive Data Sync List
+[22Feb2025 23:10:21.885] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 212
+[22Feb2025 23:10:21.901] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 213
+[22Feb2025 23:10:21.901] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 214
+[22Feb2025 23:10:22.095] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 215
+[22Feb2025 23:10:22.096] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 216
+[22Feb2025 23:10:22.096] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 217
+[22Feb2025 23:10:22.297] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 218
+[22Feb2025 23:10:22.298] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 219
+[22Feb2025 23:10:22.299] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 220
+[22Feb2025 23:10:22.299] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 221
+[22Feb2025 23:10:22.300] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 222
+[22Feb2025 23:10:22.392] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 223
+[22Feb2025 23:10:22.938] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 224
+[22Feb2025 23:10:22.939] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 225
+[22Feb2025 23:10:22.943] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 226
+[22Feb2025 23:10:22.951] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 227
+[22Feb2025 23:10:23.554] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DarkShadow[/127.209.193.18:38561] logged in with entity id 8526 at (-43.13993244246764, 75.0, 386.1583623746276)
+[22Feb2025 23:10:23.606] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to DarkShadow
+[22Feb2025 23:10:23.606] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to DarkShadow
+[22Feb2025 23:10:23.607] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to DarkShadow
+[22Feb2025 23:10:23.607] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to DarkShadow
+[22Feb2025 23:10:23.608] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to DarkShadow
+[22Feb2025 23:10:23.610] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to DarkShadow
+[22Feb2025 23:10:23.610] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to DarkShadow
+[22Feb2025 23:10:23.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkShadow joined the game
+[22Feb2025 23:10:23.738] [Server thread/INFO] [Treasure Bags/]: Sending 9 bag types to DarkShadow
+[22Feb2025 23:10:23.761] [Server thread/INFO] [MapFrontiers/]: PlayerJoinedEvent done (554f5f3d-1fcb-3767-ac86-e6a353520e90)
+[22Feb2025 23:10:23.762] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: DarkShadow
+[22Feb2025 23:10:23.781] [Server thread/INFO] [Jade/]: Syncing config to DarkShadow (554f5f3d-1fcb-3767-ac86-e6a353520e90)
+[22Feb2025 23:10:23.855] [Server thread/INFO] [survive/]: Syncing All Data To Client (DarkShadow)
+[22Feb2025 23:10:23.855] [Server thread/INFO] [survive/]: Syncing Armor Data
+[22Feb2025 23:10:23.855] [Server thread/INFO] [survive/]: Done with Armors
+[22Feb2025 23:10:23.855] [Server thread/INFO] [survive/]: Syncing Fluid Data
+[22Feb2025 23:10:23.856] [Server thread/INFO] [survive/]: Done with Fluids
+[22Feb2025 23:10:23.856] [Server thread/INFO] [survive/]: Syncing Biome Data
+[22Feb2025 23:10:23.856] [Server thread/INFO] [survive/]: Done syncing 15 biomes
+[22Feb2025 23:10:27.795] [Server thread/INFO] [ping-wheel/]: [Ping-Wheel] Channel update: DarkShadow -> Global
+[22Feb2025 23:10:27.795] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[22Feb2025 23:11:37.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkShadow has made the advancement [Apothic Affixes]
+[22Feb2025 23:12:25.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkShadow has made the advancement [Cover Me with Diamonds]
+[22Feb2025 23:12:25.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkShadow has made the advancement [How'd You Get This?]
+[22Feb2025 23:12:48.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkShadow has made the advancement [I Found It Underground]
+[22Feb2025 23:12:50.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkShadow has made the advancement [Encino Man]
