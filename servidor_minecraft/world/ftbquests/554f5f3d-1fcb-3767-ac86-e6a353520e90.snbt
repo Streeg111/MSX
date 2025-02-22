@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "554f5f3d1fcb3767ac86e6a353520e90"
+	name: "DarkShadow#554f5f3d"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
