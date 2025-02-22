@@ -5265,3 +5265,48 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [22Feb2025 22:40:34.908] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6545ms or 130 ticks behind
 [22Feb2025 22:43:59.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
 [22Feb2025 22:44:01.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Streeg11> asd
+[22Feb2025 22:49:30.252] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/2526, l='ServerLevel[world]', x=-59.95, y=68.00, z=339.51] died: Honeyed Archer was slain by Streeg11 using [Infernal Infernal Infernal Tridente of Dexterity1 of Dexter of Dexterity]
+[22Feb2025 22:52:14.682] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/3140, l='ServerLevel[world]', x=-118.02, y=67.41, z=327.09] died: Undead Knight suffocated in a wall
+[22Feb2025 22:53:31.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set the time to 13000]
+[22Feb2025 22:53:40.068] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Sindy'/6, l='ServerLevel[world]', x=6.50, y=63.00, z=175.43] died, message: 'Sindy hit the ground too hard'
+[22Feb2025 22:53:40.068] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Sindy'/6, l='ServerLevel[world]', x=6.50, y=63.00, z=175.43] died: Sindy hit the ground too hard
+[22Feb2025 22:56:04.683] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 212
+[22Feb2025 22:56:04.690] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 213
+[22Feb2025 22:56:04.691] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 214
+[22Feb2025 22:56:04.691] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 215
+[22Feb2025 22:56:04.854] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 216
+[22Feb2025 22:56:04.855] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 217
+[22Feb2025 22:56:04.855] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 218
+[22Feb2025 22:56:04.856] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 219
+[22Feb2025 22:56:05.053] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 220
+[22Feb2025 22:56:05.054] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 221
+[22Feb2025 22:56:05.055] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 222
+[22Feb2025 22:56:05.055] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 223
+[22Feb2025 22:56:05.623] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 224
+[22Feb2025 22:56:05.624] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 225
+[22Feb2025 22:56:05.626] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 226
+[22Feb2025 22:56:05.629] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 227
+[22Feb2025 22:56:06.170] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DarkShadow[/127.209.193.18:60837] logged in with entity id 4671 at (15.5, 63.0, 197.5)
+[22Feb2025 22:56:06.235] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to DarkShadow
+[22Feb2025 22:56:06.235] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to DarkShadow
+[22Feb2025 22:56:06.236] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to DarkShadow
+[22Feb2025 22:56:06.236] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to DarkShadow
+[22Feb2025 22:56:06.238] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to DarkShadow
+[22Feb2025 22:56:06.240] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to DarkShadow
+[22Feb2025 22:56:06.240] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to DarkShadow
+[22Feb2025 22:56:06.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkShadow joined the game
+[22Feb2025 22:56:06.406] [Server thread/INFO] [Treasure Bags/]: Sending 9 bag types to DarkShadow
+[22Feb2025 22:56:06.470] [Server thread/INFO] [MapFrontiers/]: PlayerJoinedEvent done (554f5f3d-1fcb-3767-ac86-e6a353520e90)
+[22Feb2025 22:56:06.475] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: DarkShadow
+[22Feb2025 22:56:06.490] [Server thread/INFO] [Jade/]: Syncing config to DarkShadow (554f5f3d-1fcb-3767-ac86-e6a353520e90)
+[22Feb2025 22:56:06.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkShadow has made the advancement [Ice and Fire]
+[22Feb2025 22:56:06.644] [Server thread/INFO] [survive/]: Syncing All Data To Client (DarkShadow)
+[22Feb2025 22:56:06.644] [Server thread/INFO] [survive/]: Syncing Armor Data
+[22Feb2025 22:56:06.644] [Server thread/INFO] [survive/]: Done with Armors
+[22Feb2025 22:56:06.645] [Server thread/INFO] [survive/]: Syncing Fluid Data
+[22Feb2025 22:56:06.645] [Server thread/INFO] [survive/]: Done with Fluids
+[22Feb2025 22:56:06.645] [Server thread/INFO] [survive/]: Syncing Biome Data
+[22Feb2025 22:56:06.645] [Server thread/INFO] [survive/]: Done syncing 15 biomes
+[22Feb2025 22:56:09.827] [Server thread/INFO] [ping-wheel/]: [Ping-Wheel] Channel update: DarkShadow -> Global
+[22Feb2025 22:56:09.828] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[22Feb2025 22:56:27.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Teleported DarkShadow to Streeg11]
