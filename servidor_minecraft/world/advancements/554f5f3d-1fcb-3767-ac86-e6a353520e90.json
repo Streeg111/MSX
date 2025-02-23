@@ -896,9 +896,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-23 01:07:56 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/bow_repairing": {
     "criteria": {
       "has_bow": "2025-02-23 00:47:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-02-23 01:09:11 +0000"
     },
     "done": true
   },
@@ -1037,6 +1049,12 @@
   "handcrafted:recipes/misc/wood_cup": {
     "criteria": {
       "has_wood_cup": "2025-02-23 00:51:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-23 01:07:56 +0000"
     },
     "done": true
   },
@@ -1181,6 +1199,12 @@
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-02-23 00:50:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-02-23 01:07:56 +0000"
     },
     "done": true
   },
@@ -1337,6 +1361,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-02-23 00:52:55 +0000",
+      "minecraft:skeleton": "2025-02-23 01:12:06 +0000",
       "minecraft:zombie": "2025-02-23 00:44:15 +0000"
     },
     "done": false
@@ -1485,6 +1510,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-02-23 01:07:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-02-23 01:00:54 +0000"
@@ -1602,6 +1633,12 @@
   "handcrafted:recipes/misc/pufferfish_trophy": {
     "criteria": {
       "has_pufferfish_trophy": "2025-02-23 00:55:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-23 01:07:56 +0000"
     },
     "done": true
   },
