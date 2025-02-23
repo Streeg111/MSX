@@ -15260,9 +15260,27 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/misc/steeleaf_knife": {
+    "criteria": {
+      "has_steeleaf_ingot": "2025-02-23 00:42:13 +0000"
+    },
+    "done": true
+  },
   "quark:overlevel_enchant": {
     "criteria": {
       "overlevel_enchant": "2025-02-23 00:34:00 +0000"
+    },
+    "done": true
+  },
+  "umbral_skies:recipes/combat/steeleaf_gloves": {
+    "criteria": {
+      "has_item": "2025-02-23 00:42:13 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/steeleaf_block": {
+    "criteria": {
+      "has_item": "2025-02-23 00:42:13 +0000"
     },
     "done": true
   },

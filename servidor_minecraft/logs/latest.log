@@ -4,3 +4,55 @@
 [23Feb2025 00:29:47.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2120ms or 42 ticks behind
 [23Feb2025 00:32:38.293] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
 [23Feb2025 00:34:00.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [Limit Breaker]
+[23Feb2025 00:40:11.652] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 212
+[23Feb2025 00:40:11.808] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 213
+[23Feb2025 00:40:11.845] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 214
+[23Feb2025 00:40:11.846] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 215
+[23Feb2025 00:40:11.846] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 216
+[23Feb2025 00:40:11.998] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 217
+[23Feb2025 00:40:11.998] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 218
+[23Feb2025 00:40:11.999] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 219
+[23Feb2025 00:40:11.999] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 220
+[23Feb2025 00:40:12.180] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 221
+[23Feb2025 00:40:12.181] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 222
+[23Feb2025 00:40:12.181] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 223
+[23Feb2025 00:40:12.686] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 224
+[23Feb2025 00:40:12.687] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 225
+[23Feb2025 00:40:12.726] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 226
+[23Feb2025 00:40:12.727] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 227
+[23Feb2025 00:40:13.254] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DarkShadow[/127.209.193.18:60289] logged in with entity id 26570 at (-10.26184412998789, 72.0, 407.1957712698286)
+[23Feb2025 00:40:13.295] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to DarkShadow
+[23Feb2025 00:40:13.295] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to DarkShadow
+[23Feb2025 00:40:13.296] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to DarkShadow
+[23Feb2025 00:40:13.296] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to DarkShadow
+[23Feb2025 00:40:13.297] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to DarkShadow
+[23Feb2025 00:40:13.299] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to DarkShadow
+[23Feb2025 00:40:13.299] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to DarkShadow
+[23Feb2025 00:40:13.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkShadow joined the game
+[23Feb2025 00:40:13.402] [Server thread/INFO] [Treasure Bags/]: Sending 9 bag types to DarkShadow
+[23Feb2025 00:40:13.417] [Server thread/INFO] [MapFrontiers/]: PlayerJoinedEvent done (554f5f3d-1fcb-3767-ac86-e6a353520e90)
+[23Feb2025 00:40:13.420] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: DarkShadow
+[23Feb2025 00:40:13.437] [Server thread/INFO] [Jade/]: Syncing config to DarkShadow (554f5f3d-1fcb-3767-ac86-e6a353520e90)
+[23Feb2025 00:40:13.489] [Server thread/INFO] [survive/]: Syncing All Data To Client (DarkShadow)
+[23Feb2025 00:40:13.489] [Server thread/INFO] [survive/]: Syncing Armor Data
+[23Feb2025 00:40:13.490] [Server thread/INFO] [survive/]: Done with Armors
+[23Feb2025 00:40:13.490] [Server thread/INFO] [survive/]: Syncing Fluid Data
+[23Feb2025 00:40:13.490] [Server thread/INFO] [survive/]: Done with Fluids
+[23Feb2025 00:40:13.490] [Server thread/INFO] [survive/]: Syncing Biome Data
+[23Feb2025 00:40:13.490] [Server thread/INFO] [survive/]: Done syncing 15 biomes
+[23Feb2025 00:40:17.091] [Server thread/INFO] [ping-wheel/]: [Ping-Wheel] Channel update: DarkShadow -> Global
+[23Feb2025 00:40:17.091] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[23Feb2025 00:40:49.650] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1235, y=59, z=-65} BlockPos{x=1235, y=57, z=-66}
+[23Feb2025 00:42:27.103] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Teena'/8, l='ServerLevel[world]', x=6.79, y=63.00, z=228.70] died: Teena was slain by DarkShadow
+[23Feb2025 00:43:10.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DarkShadow> no te escucho
+[23Feb2025 00:43:22.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkShadow has made the advancement [You Are A Pirate]
+[23Feb2025 00:43:44.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DarkShadow> puedo caminar en el agua
+[23Feb2025 00:43:48.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Streeg11> :v
+[23Feb2025 00:43:50.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Streeg11> es por las botas
+[23Feb2025 00:43:50.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Streeg11> creo
+[23Feb2025 00:43:53.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Streeg11> q en breves nos tocara
+[23Feb2025 00:43:56.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Streeg11> escuche nuestro nombre
+[23Feb2025 00:44:15.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkShadow has made the advancement [Monster Hunter]
+[23Feb2025 00:44:40.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkShadow has made the advancement [Stone Age]
+[23Feb2025 00:45:15.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DarkShadow> ya toy en dota tambien uwu
+[23Feb2025 00:46:29.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkShadow has made the advancement [Not a Diamond]
