@@ -15260,6 +15260,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/food/cooked_municipal_monkfish_from_smelting_municipal_monkfish": {
+    "criteria": {
+      "has_item": "2025-02-23 00:53:32 +0000"
+    },
+    "done": true
+  },
   "twilightdelight:recipes/misc/steeleaf_knife": {
     "criteria": {
       "has_steeleaf_ingot": "2025-02-23 00:42:13 +0000"
@@ -15275,6 +15281,18 @@
   "umbral_skies:recipes/combat/steeleaf_gloves": {
     "criteria": {
       "has_item": "2025-02-23 00:42:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_municipal_monkfish_from_smoking_municipal_monkfish": {
+    "criteria": {
+      "has_item": "2025-02-23 00:53:32 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_municipal_monkfish_from_campfire_cooking_municipal_monkfish": {
+    "criteria": {
+      "has_item": "2025-02-23 00:53:32 +0000"
     },
     "done": true
   },
