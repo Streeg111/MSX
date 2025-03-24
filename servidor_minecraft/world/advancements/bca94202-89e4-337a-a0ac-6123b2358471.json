@@ -1552,7 +1552,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-03-24 19:03:32 +0000",
-      "minecraft:zombie": "2025-03-24 04:09:27 +0000"
+      "minecraft:skeleton": "2025-03-24 19:27:47 +0000",
+      "minecraft:zombie": "2025-03-24 04:09:27 +0000",
+      "minecraft:zombie_villager": "2025-03-24 19:28:31 +0000"
     },
     "done": false
   },
@@ -6167,6 +6169,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-03-24 19:31:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-03-24 19:11:47 +0000"
@@ -6176,6 +6184,18 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-03-24 19:11:47 +0000"
+    },
+    "done": true
+  },
+  "hybrid-aquatic:recipes/tools/barbed_hook": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-24 19:24:02 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/spruce_table": {
+    "criteria": {
+      "has_the_recipe": "2025-03-24 19:29:33 +0000"
     },
     "done": true
   },
@@ -6215,6 +6235,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/hammers/hammer_mace": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-24 19:24:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-03-24 19:11:47 +0000"
@@ -6224,6 +6250,12 @@
   "mcda:recipes/base_armors/snow_armor_chestplate": {
     "criteria": {
       "has_iron_chestplate": "2025-03-24 19:09:57 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/blackwood_shrub": {
+    "criteria": {
+      "has_blackwood_sapling": "2025-03-24 19:30:02 +0000"
     },
     "done": true
   },
@@ -6239,12 +6271,42 @@
     },
     "done": true
   },
+  "hybrid-aquatic:recipes/tools/magnetic_hook": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-24 19:24:02 +0000"
+    },
+    "done": true
+  },
   "artifality:artifact_all": {
     "criteria": {
       "lunar_crystal_wand": "2025-03-24 19:09:57 +0000",
       "hand_fan": "2025-03-24 19:10:45 +0000"
     },
     "done": false
+  },
+  "bewitchment:recipes/decorations/hedgewitch_wool": {
+    "criteria": {
+      "has_item": "2025-03-24 19:22:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-24 19:32:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/blackwood_button": {
+    "criteria": {
+      "has_blackwood_planks": "2025-03-24 19:30:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-24 19:22:34 +0000"
+    },
+    "done": true
   },
   "mcda:recipes/base_armors/mercenary_armor_boots": {
     "criteria": {
@@ -6264,6 +6326,18 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/besmirched_wool": {
+    "criteria": {
+      "has_item": "2025-03-24 19:22:34 +0000"
+    },
+    "done": true
+  },
+  "meadow:main/wool_collector": {
+    "criteria": {
+      "meadow:umbra_wool": "2025-03-24 19:22:34 +0000"
+    },
+    "done": false
+  },
   "variantshields:recipes/combat/oak_diamond_shield": {
     "criteria": {
       "has_diamond": "2025-03-24 19:11:47 +0000"
@@ -6282,9 +6356,27 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/alchemist_wool": {
+    "criteria": {
+      "has_item": "2025-03-24 19:22:34 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/crafting_items/phantom_bones_to_bonemeal": {
     "criteria": {
       "has_the_recipe": "2025-03-24 19:12:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "blackwood_log": "2025-03-24 19:29:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-24 19:24:02 +0000"
     },
     "done": true
   },
@@ -6297,6 +6389,18 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2025-03-24 19:01:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-03-24 19:29:33 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/misc/pet_bed": {
+    "criteria": {
+      "has_white_wool": "2025-03-24 19:22:34 +0000"
     },
     "done": true
   },
@@ -6318,6 +6422,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-03-24 19:29:33 +0000"
+    },
+    "done": true
+  },
   "variantshields:recipes/combat/crimson_diamond_shield": {
     "criteria": {
       "has_diamond": "2025-03-24 19:11:47 +0000"
@@ -6333,6 +6443,12 @@
   "mcda:recipes/base_armors/reinforced_mail_chestplate": {
     "criteria": {
       "has_iron_chestplate": "2025-03-24 19:09:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-24 19:22:34 +0000"
     },
     "done": true
   },
@@ -6372,9 +6488,27 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/snow_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-03-24 19:32:21 +0000"
+    },
+    "done": true
+  },
   "rpg_classes:obtain_fire_rune": {
     "criteria": {
       "runes": "2025-03-24 18:57:10 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blackwood_slab": {
+    "criteria": {
+      "has_blackwood_planks": "2025-03-24 19:30:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-24 19:32:02 +0000"
     },
     "done": true
   },
@@ -6414,9 +6548,21 @@
     },
     "done": true
   },
+  "animal_feeding_trough:recipes/decorations/feeding_trough": {
+    "criteria": {
+      "has_wood_slab": "2025-03-24 19:29:33 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/copy_cincinnasite_diamond_upgrade": {
     "criteria": {
       "has_diamond": "2025-03-24 19:11:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/blackwood_sign": {
+    "criteria": {
+      "has_blackwood_planks": "2025-03-24 19:30:24 +0000"
     },
     "done": true
   },
@@ -6450,6 +6596,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-24 19:31:10 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/highland_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-03-24 19:32:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-03-24 19:10:29 +0000"
@@ -6480,9 +6638,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-03-24 19:22:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/blackwood_fence": {
+    "criteria": {
+      "has_blackwood_planks": "2025-03-24 19:30:24 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/reinforced_mail_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-03-24 19:32:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2025-03-24 19:10:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-24 19:31:10 +0000"
     },
     "done": true
   },
@@ -6495,6 +6677,12 @@
   "mcda:recipes/base_armors/sweet_tooth_chestplate": {
     "criteria": {
       "has_diamond": "2025-03-24 19:11:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/blackwood_branch_from_blackwood_log": {
+    "criteria": {
+      "has_log": "2025-03-24 19:29:46 +0000"
     },
     "done": true
   },
@@ -6528,9 +6716,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-03-24 19:22:34 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mercenary_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-03-24 19:32:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-03-24 19:11:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-24 19:32:02 +0000"
     },
     "done": true
   },
@@ -6546,9 +6752,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-24 19:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-24 19:32:02 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/copy_netherite_upgrade": {
     "criteria": {
       "has_diamond": "2025-03-24 19:11:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/blackwood_trapdoor": {
+    "criteria": {
+      "has_blackwood_planks": "2025-03-24 19:30:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-03-24 19:22:34 +0000"
     },
     "done": true
   },
@@ -6564,15 +6794,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-03-24 19:31:10 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/spruce_table_slab": {
+    "criteria": {
+      "has_bamboo": "2025-03-24 19:29:33 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/schist/schist": {
     "criteria": {
       "has_item": "2025-03-24 19:02:52 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/blackwood_stairs": {
+    "criteria": {
+      "has_blackwood_planks": "2025-03-24 19:30:24 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/rhyolite/rhyolite": {
     "criteria": {
       "has_item": "2025-03-24 19:02:52 +0000"
+    },
+    "done": true
+  },
+  "illagerinvasion:recipes/misc/platinum_sheet": {
+    "criteria": {
+      "has_platinum_chunk": "2025-03-24 19:30:41 +0000"
     },
     "done": true
   },
@@ -6588,9 +6842,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/blackwood_pressure_plate": {
+    "criteria": {
+      "has_blackwood_planks": "2025-03-24 19:30:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/blackwood_fence_gate": {
+    "criteria": {
+      "has_blackwood_planks": "2025-03-24 19:30:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-03-24 19:10:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-24 19:32:02 +0000"
     },
     "done": true
   },
@@ -6618,15 +6890,33 @@
     },
     "done": true
   },
+  "mcdw:recipes/swords/sword_freezing_foil": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-24 19:24:02 +0000"
+    },
+    "done": true
+  },
   "variantshields:recipes/combat/acacia_diamond_shield": {
     "criteria": {
       "has_diamond": "2025-03-24 19:11:47 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/blackwood_wood": {
+    "criteria": {
+      "has_log": "2025-03-24 19:29:46 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/crafting_items/skeleton_skull_to_bonemeal": {
     "criteria": {
       "has_skeleton_skull": "2025-03-24 19:12:52 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2025-03-24 19:22:34 +0000"
     },
     "done": true
   },
@@ -6639,6 +6929,12 @@
   "rpg_classes:obtain_arcane_rune": {
     "criteria": {
       "runes": "2025-03-24 18:57:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/blackwood_door": {
+    "criteria": {
+      "has_blackwood_planks": "2025-03-24 19:30:24 +0000"
     },
     "done": true
   },
@@ -6696,6 +6992,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/blackwood_planks": {
+    "criteria": {
+      "has_logs": "2025-03-24 19:29:46 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-03-24 19:29:33 +0000"
+    },
+    "done": true
+  },
   "variantshields:recipes/combat/jungle_diamond_shield": {
     "criteria": {
       "has_diamond": "2025-03-24 19:11:47 +0000"
@@ -6708,9 +7016,27 @@
     },
     "done": true
   },
+  "galosphere:recipes/misc/silver_ingot_from_nuggets": {
+    "criteria": {
+      "has_silver_nugget": "2025-03-24 19:29:09 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2025-03-24 19:09:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-03-24 19:29:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-03-24 19:22:34 +0000"
     },
     "done": true
   },
