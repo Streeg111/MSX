@@ -7282,3 +7282,57 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_1
 [21:36:33] [Server thread/INFO]: [STDOUT]: null
 [21:36:35] [Server thread/INFO]: [STDOUT]: null
 [21:36:51] [Server thread/INFO]: [STDOUT]: null
+[21:37:00] [Server thread/INFO]: [STDOUT]: null
+[21:37:00] [Server thread/INFO]: [STDOUT]: null
+[21:37:00] [Server thread/INFO]: [STDOUT]: null
+[21:37:00] [Server thread/INFO]: [STDOUT]: null
+[21:37:00] [Server thread/INFO]: [STDOUT]: null
+[21:37:11] [Server thread/INFO]: [STDOUT]: null
+[21:37:11] [Server thread/INFO]: [STDOUT]: null
+[21:37:14] [Server thread/INFO]: [STDOUT]: class_1642['Zombie'/720660, l='ServerLevel[world]', x=-837.28, y=-16.00, z=-679.39]
+[21:37:24] [Server thread/INFO]: [STDOUT]: null
+[21:37:24] [Server thread/INFO]: [STDOUT]: null
+[21:37:24] [Server thread/INFO]: [STDOUT]: null
+[21:37:24] [Server thread/INFO]: [STDOUT]: null
+[21:37:24] [Server thread/INFO]: [STDOUT]: null
+[21:37:24] [Server thread/INFO]: [STDOUT]: null
+[21:37:24] [Server thread/INFO]: [STDOUT]: null
+[21:37:24] [Server thread/INFO]: [STDOUT]: null
+[21:37:24] [Server thread/INFO]: [STDOUT]: null
+[21:37:24] [Server thread/INFO]: [STDOUT]: null
+[21:37:24] [Server thread/INFO]: [STDOUT]: null
+[21:37:24] [Server thread/INFO]: [STDOUT]: null
+[21:37:24] [Server thread/INFO]: [STDOUT]: null
+[21:37:24] [Server thread/INFO]: [STDOUT]: null
+[21:37:24] [Server thread/WARN]: @Redirect conflict. Skipping redirector.mixins.json:net.minecraft.world.level.block.piston.PistonStructureResolverMixin from mod redirector->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin from mod lithium->@Redirect::removeAllocation()[Lnet/minecraft/class_2350; with priority 1000
+[21:37:24] [Server thread/INFO]: [STDOUT]: null
+[21:37:24] [Server thread/INFO]: [STDOUT]: null
+[21:37:24] [Server thread/INFO]: [STDOUT]: null
+[21:37:25] [Server thread/INFO]: [STDOUT]: null
+[21:37:28] [Server thread/INFO]: [STDOUT]: null
+[21:37:35] [Server thread/INFO]: MeRebornRekt has made the advancement [Cover Me with Diamonds]
+[21:37:35] [Server thread/INFO]: Purificador25 was slain by Zombie
+[21:37:38] [Server thread/INFO]: [STDOUT]: copyFrom?
+[21:37:38] [Server thread/INFO]: [STDOUT]: alive?
+[21:38:10] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Spectator Mode]
+[21:38:14] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Survival Mode]
+[21:38:20] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Spectator Mode]
+[21:38:30] [Server thread/INFO]: [MeRebornRekt: Teleported Purificador25 to MeRebornRekt]
+[21:38:40] [Server thread/INFO]: Purificador25 was slain by Corrupted Vindicator
+[21:38:42] [Server thread/INFO]: [STDOUT]: copyFrom?
+[21:38:42] [Server thread/INFO]: [STDOUT]: alive?
+[21:38:49] [Server thread/INFO]: [MeRebornRekt: Teleported Purificador25 to MeRebornRekt]
+[21:38:52] [Server thread/INFO]: [MeRebornRekt: The difficulty has been set to Peaceful]
+[21:38:54] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Survival Mode]
+[21:39:09] [Server thread/INFO]: MeRebornRekt has made the advancement [Isn't It Iron Pick]
+[21:40:28] [Server thread/INFO]: Purificador25 claimed a grave belonging to Purificador25 at -837, -17, -678, minecraft:overworld
+[21:40:46] [Server thread/INFO]: Purificador25 has made the advancement [The Beginning of An Adventure]
+[21:40:46] [Server thread/INFO]: Purificador25 has made the advancement [Need A Map?]
+[21:41:58] [Server thread/INFO]: <Purificador25> xaero-waypoint:CASA:C:-524:127:26:14:false:0:Internal-overworld-waypoints
+[21:43:15] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Spectator Mode]
+[21:43:24] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Survival Mode]
+[21:43:34] [Server thread/INFO]: [MeRebornRekt: The difficulty has been set to Hard]
+[21:44:04] [Server thread/INFO]: MeRebornRekt has made the advancement [Gilded Expansions]
+[21:45:39] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Spectator Mode]
+[21:45:45] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Survival Mode]
+[21:45:57] [Server thread/INFO]: MeRebornRekt has made the advancement [Pseudo Archaeologist]

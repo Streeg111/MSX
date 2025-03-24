@@ -6753,6 +6753,12 @@
     },
     "done": true
   },
+  "dramaticdoors:recipes/redstone/short_dark_iron_door": {
+    "criteria": {
+      "has_items": "2025-03-24 21:39:21 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/birch_support": {
     "criteria": {
       "has_plank": "2025-03-24 19:58:03 +0000"
@@ -6954,6 +6960,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-24 21:05:48 +0000"
+    },
+    "done": true
+  },
+  "dramaticdoors:recipes/redstone/tall_dark_iron_door": {
+    "criteria": {
+      "has_items": "2025-03-24 21:39:21 +0000"
     },
     "done": true
   },
@@ -8169,6 +8181,12 @@
     },
     "done": true
   },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2025-03-24 21:40:46 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/mercenary_armor_helmet": {
     "criteria": {
       "has_iron_helmet": "2025-03-24 19:29:42 +0000"
@@ -8683,6 +8701,12 @@
   "variantshields:recipes/combat/birch_diamond_shield": {
     "criteria": {
       "has_diamond": "2025-03-24 19:11:57 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "lost_eye": "2025-03-24 21:40:46 +0000"
     },
     "done": true
   },

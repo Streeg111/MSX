@@ -6359,6 +6359,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-03-24 21:37:35 +0000"
+    },
+    "done": true
+  },
   "slayersbeasts:recipes/transportation/redwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-24 20:31:59 +0000"
@@ -6500,6 +6506,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-03-24 19:52:52 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_perl_to_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-03-24 21:35:43 +0000"
     },
     "done": true
   },
@@ -6738,9 +6750,21 @@
     },
     "done": true
   },
+  "dramaticdoors:recipes/redstone/short_dark_iron_door": {
+    "criteria": {
+      "has_items": "2025-03-24 21:37:28 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/redwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-24 20:31:59 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_eye_amber": {
+    "criteria": {
+      "has_ender_pearl": "2025-03-24 21:35:43 +0000"
     },
     "done": true
   },
@@ -6984,6 +7008,12 @@
     },
     "done": true
   },
+  "adventurez:recipes/ender_flute_recipe": {
+    "criteria": {
+      "got_the_ender_pearl": "2025-03-24 21:35:43 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wood_cup": {
     "criteria": {
       "has_wood_cup": "2025-03-24 19:29:33 +0000"
@@ -7026,6 +7056,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-03-24 21:39:09 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/reinforced_mail_boots": {
     "criteria": {
       "has_iron_boots": "2025-03-24 19:01:38 +0000"
@@ -7035,6 +7071,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-24 19:41:01 +0000"
+    },
+    "done": true
+  },
+  "dramaticdoors:recipes/redstone/tall_dark_iron_door": {
+    "criteria": {
+      "has_items": "2025-03-24 21:37:28 +0000"
     },
     "done": true
   },
@@ -7422,6 +7464,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-03-24 21:35:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-03-24 19:32:02 +0000"
@@ -7611,6 +7659,12 @@
   "mcdw:recipes/hammers/hammer_flail": {
     "criteria": {
       "has_chain": "2025-03-24 20:44:02 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/waystone": {
+    "criteria": {
+      "has_item": "2025-03-24 21:35:43 +0000"
     },
     "done": true
   },
@@ -7998,6 +8052,12 @@
     },
     "done": true
   },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2025-03-24 21:35:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-03-24 19:41:35 +0000"
@@ -8091,6 +8151,12 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-03-24 19:55:11 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/bomb": {
+    "criteria": {
+      "has_item": "2025-03-24 21:38:17 +0000"
     },
     "done": true
   },
@@ -8280,6 +8346,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_pearl_to_dust": {
+    "criteria": {
+      "has_item.minecraft.ender_pearl": "2025-03-24 21:35:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-24 21:20:12 +0000"
@@ -8430,6 +8502,12 @@
     },
     "done": true
   },
+  "inmis:gilded_backpack": {
+    "criteria": {
+      "backpack": "2025-03-24 21:44:04 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/socotra_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-24 20:31:59 +0000"
@@ -8475,6 +8553,12 @@
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-24 19:52:52 +0000"
+    },
+    "done": true
+  },
+  "inmis:recipes/bejeweled_backpack": {
+    "criteria": {
+      "has_gilded_backpack": "2025-03-24 21:44:04 +0000"
     },
     "done": true
   },
@@ -8571,6 +8655,12 @@
   "slayersbeasts:recipes/transportation/aspen_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-24 20:31:59 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_spider": {
+    "criteria": {
+      "has_core_specification_item": "2025-03-24 21:35:41 +0000"
     },
     "done": true
   },
@@ -8826,6 +8916,12 @@
     },
     "done": true
   },
+  "fwaystones:recipes/abyss_watcher": {
+    "criteria": {
+      "has_ender_pearl": "2025-03-24 21:35:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-24 20:31:59 +0000"
@@ -8961,6 +9057,12 @@
   "variantshields:recipes/combat/acacia_diamond_shield": {
     "criteria": {
       "has_diamond": "2025-03-24 19:11:47 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-03-24 21:40:02 +0000"
     },
     "done": true
   },
