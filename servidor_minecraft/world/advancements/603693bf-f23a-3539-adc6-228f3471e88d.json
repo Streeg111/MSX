@@ -547,6 +547,7 @@
       "minecraft:creeper": "2025-03-24 04:34:42 +0000",
       "minecraft:evoker": "2025-03-24 19:11:34 +0000",
       "minecraft:witch": "2025-03-24 19:11:27 +0000",
+      "minecraft:cave_spider": "2025-03-24 21:17:22 +0000",
       "minecraft:vex": "2025-03-24 19:11:28 +0000",
       "minecraft:zombie": "2025-03-24 04:09:29 +0000",
       "minecraft:zombie_villager": "2025-03-24 18:51:07 +0000"
@@ -6227,6 +6228,12 @@
     },
     "done": true
   },
+  "meadow:recipes/wooden_bucket": {
+    "criteria": {
+      "has_planks": "2025-03-24 21:05:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2025-03-24 19:33:20 +0000"
@@ -6377,6 +6384,12 @@
     },
     "done": true
   },
+  "bakery:recipes/cabinet": {
+    "criteria": {
+      "has_oak_planks": "2025-03-24 21:05:48 +0000"
+    },
+    "done": true
+  },
   "inmis:baby_backpack": {
     "criteria": {
       "backpack": "2025-03-24 19:58:13 +0000"
@@ -6386,6 +6399,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
       "has_deepslate_bricks": "2025-03-24 20:57:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-03-24 21:06:45 +0000"
     },
     "done": true
   },
@@ -6443,6 +6462,12 @@
     },
     "done": true
   },
+  "more_rpg_content:witcher_sword": {
+    "criteria": {
+      "items": "2025-03-24 21:10:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-03-24 20:10:24 +0000"
@@ -6482,6 +6507,12 @@
   "handcrafted:recipes/misc/white_sheet": {
     "criteria": {
       "has_white_sheet": "2025-03-24 18:54:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_drawer": {
+    "criteria": {
+      "has_oak_drawer": "2025-03-24 21:05:48 +0000"
     },
     "done": true
   },
@@ -6533,6 +6564,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_perl_to_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-03-24 21:21:38 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/birch_wine_rack_small": {
     "criteria": {
       "has_birch_planks": "2025-03-24 19:58:03 +0000"
@@ -6576,6 +6613,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_shelf": {
+    "criteria": {
+      "has_oak_shelf": "2025-03-24 21:05:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-03-24 19:25:56 +0000"
@@ -6612,6 +6655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-03-24 21:05:48 +0000"
+    },
+    "done": true
+  },
   "artifality:artifact_all": {
     "criteria": {
       "lunar_crystal_wand": "2025-03-24 19:12:13 +0000",
@@ -6638,9 +6687,21 @@
     },
     "done": true
   },
+  "meadow:recipes/patched_bed": {
+    "criteria": {
+      "has_planks": "2025-03-24 21:05:48 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_white_wool": "2025-03-24 18:54:45 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/oak_table": {
+    "criteria": {
+      "has_bamboo": "2025-03-24 21:05:48 +0000"
     },
     "done": true
   },
@@ -6665,6 +6726,12 @@
   "nova_structures:adventure/find_tavern": {
     "criteria": {
       "nova_structures:tavern_spruce": "2025-03-24 19:25:00 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/rolling_pin": {
+    "criteria": {
+      "has_oak_planks": "2025-03-24 21:05:48 +0000"
     },
     "done": true
   },
@@ -6698,9 +6765,21 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_eye_amber": {
+    "criteria": {
+      "has_ender_pearl": "2025-03-24 21:21:38 +0000"
+    },
+    "done": true
+  },
   "illagerinvasion:recipes/misc/hallowed_gem": {
     "criteria": {
       "has_unusual_dust_and_illusionary_dust": "2025-03-24 19:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-03-24 21:05:48 +0000"
     },
     "done": true
   },
@@ -6788,9 +6867,21 @@
     },
     "done": true
   },
+  "meadow:recipes/umbra_bed": {
+    "criteria": {
+      "has_oak_planks": "2025-03-24 21:05:48 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/alchemist_wool": {
     "criteria": {
       "has_item": "2025-03-24 18:54:45 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/wall_cabinet": {
+    "criteria": {
+      "has_oak_planks": "2025-03-24 21:05:48 +0000"
     },
     "done": true
   },
@@ -6803,6 +6894,12 @@
   "mcda:recipes/crafting_items/phantom_bones_to_bonemeal": {
     "criteria": {
       "has_the_recipe": "2025-03-24 19:02:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_counter": {
+    "criteria": {
+      "has_oak_counter": "2025-03-24 21:05:48 +0000"
     },
     "done": true
   },
@@ -6836,6 +6933,12 @@
     },
     "done": true
   },
+  "adventurez:recipes/ender_flute_recipe": {
+    "criteria": {
+      "got_the_ender_pearl": "2025-03-24 21:21:38 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/basket": {
     "criteria": {
       "has_wheat": "2025-03-24 18:54:42 +0000"
@@ -6845,6 +6948,12 @@
   "clutter:recipes/misc/pet_bed": {
     "criteria": {
       "has_white_wool": "2025-03-24 18:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-24 21:05:48 +0000"
     },
     "done": true
   },
@@ -6950,6 +7059,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_bench": {
+    "criteria": {
+      "has_oak_bench": "2025-03-24 21:05:48 +0000"
+    },
+    "done": true
+  },
   "inmis:frayed_backpack": {
     "criteria": {
       "backpack": "2025-03-24 20:00:26 +0000"
@@ -7052,6 +7167,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_couch": {
+    "criteria": {
+      "has_oak_couch": "2025-03-24 21:05:48 +0000"
+    },
+    "done": true
+  },
   "variantshields:recipes/combat/cherry_diamond_shield": {
     "criteria": {
       "has_diamond": "2025-03-24 19:11:57 +0000"
@@ -7100,6 +7221,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_chair": {
+    "criteria": {
+      "has_oak_chair": "2025-03-24 21:05:48 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/snow_armor_helmet": {
     "criteria": {
       "has_iron_helmet": "2025-03-24 19:29:42 +0000"
@@ -7121,6 +7248,12 @@
   "variantshields:recipes/combat/acacia_golden_shield": {
     "criteria": {
       "has_gold_ingot": "2025-03-24 18:55:44 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/wooden_flower_pot": {
+    "criteria": {
+      "has_oak_planks": "2025-03-24 21:05:48 +0000"
     },
     "done": true
   },
@@ -7202,6 +7335,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-24 21:05:48 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/dark_iron": {
+    "criteria": {
+      "dark_iron": "2025-03-24 21:20:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-24 19:58:03 +0000"
@@ -7211,6 +7356,18 @@
   "decorative_blocks:recipes/decorative_blocks.general/cherry_palisade": {
     "criteria": {
       "has_log": "2025-03-24 19:10:40 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/oak_wine_rack_big": {
+    "criteria": {
+      "has_oak_planks": "2025-03-24 21:05:48 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_cupboard": {
+    "criteria": {
+      "has_oak_cupboard": "2025-03-24 21:05:48 +0000"
     },
     "done": true
   },
@@ -7268,6 +7425,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/tools/waystone": {
+    "criteria": {
+      "has_item": "2025-03-24 21:21:38 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_tile_small_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-03-24 19:52:13 +0000"
@@ -7322,6 +7485,12 @@
     },
     "done": true
   },
+  "bakery:recipes/brick_counter": {
+    "criteria": {
+      "has_oak_planks": "2025-03-24 21:05:48 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/copy_cincinnasite_diamond_upgrade": {
     "criteria": {
       "has_diamond": "2025-03-24 19:11:57 +0000"
@@ -7343,6 +7512,12 @@
   "mythicmetals:carmot_staff_template": {
     "criteria": {
       "beckers_secret_recipe": "2025-03-24 19:28:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_nightstand": {
+    "criteria": {
+      "has_oak_nightstand": "2025-03-24 21:05:48 +0000"
     },
     "done": true
   },
@@ -7400,6 +7575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-03-24 21:05:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-03-24 18:55:44 +0000"
@@ -7454,6 +7635,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_fancy_bed": {
+    "criteria": {
+      "has_oak_fancy_bed": "2025-03-24 21:05:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-03-24 19:58:03 +0000"
@@ -7484,9 +7671,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_table": {
+    "criteria": {
+      "has_oak_table": "2025-03-24 21:05:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-03-24 18:55:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_corner_trim": {
+    "criteria": {
+      "has_oak_corner_trim": "2025-03-24 21:05:48 +0000"
     },
     "done": true
   },
@@ -7505,6 +7704,12 @@
   "mcda:recipes/unique_armors/ember_robe_leggings": {
     "criteria": {
       "has_evocation_robe_leggings": "2025-03-24 20:12:55 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/highland_bed": {
+    "criteria": {
+      "has_planks": "2025-03-24 21:05:48 +0000"
     },
     "done": true
   },
@@ -7616,6 +7821,12 @@
     },
     "done": true
   },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2025-03-24 21:21:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-03-24 19:58:03 +0000"
@@ -7631,6 +7842,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-24 20:57:03 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/oak_support": {
+    "criteria": {
+      "has_plank": "2025-03-24 21:05:48 +0000"
     },
     "done": true
   },
@@ -7706,9 +7923,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_dining_bench": {
+    "criteria": {
+      "has_oak_dining_bench": "2025-03-24 21:05:48 +0000"
+    },
+    "done": true
+  },
   "dimensional_traders:recipes/decorations/end_trader_stall": {
     "criteria": {
       "has_top_slab": "2025-03-24 19:52:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-24 21:05:48 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_desk": {
+    "criteria": {
+      "has_oak_desk": "2025-03-24 21:05:48 +0000"
     },
     "done": true
   },
@@ -7787,6 +8022,12 @@
   "graveyard:graveyard/kill_graveyard_mob": {
     "criteria": {
       "ghoul": "2025-03-24 18:51:58 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_pearl_to_dust": {
+    "criteria": {
+      "has_item.minecraft.ender_pearl": "2025-03-24 21:21:38 +0000"
     },
     "done": true
   },
@@ -7901,6 +8142,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-03-24 19:11:57 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/chocolate_box": {
+    "criteria": {
+      "has_oak_planks": "2025-03-24 21:05:48 +0000"
     },
     "done": true
   },
@@ -8079,6 +8326,18 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/oak_seat": {
+    "criteria": {
+      "has_plank": "2025-03-24 21:05:48 +0000"
+    },
+    "done": true
+  },
+  "genshinstrument:recipes/windsong_lyre": {
+    "criteria": {
+      "has_main": "2025-03-24 21:05:48 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-03-24 19:11:57 +0000"
@@ -8115,6 +8374,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-24 21:05:48 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/unique_armors/gilded_glory_leggings": {
     "criteria": {
       "has_upgrade_item": "2025-03-24 19:11:34 +0000"
@@ -8127,9 +8392,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-03-24 21:05:48 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_obsidian_claymore": {
     "criteria": {
       "has_obsidian": "2025-03-24 19:52:13 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/street_sign": {
+    "criteria": {
+      "has_oak_planks": "2025-03-24 21:05:48 +0000"
     },
     "done": true
   },
@@ -8160,6 +8437,12 @@
   "handcrafted:recipes/misc/white_cushion": {
     "criteria": {
       "has_white_cushion": "2025-03-24 18:54:45 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/drawer": {
+    "criteria": {
+      "has_oak_planks": "2025-03-24 21:05:48 +0000"
     },
     "done": true
   },
@@ -8199,6 +8482,12 @@
     },
     "done": true
   },
+  "fwaystones:recipes/abyss_watcher": {
+    "criteria": {
+      "has_ender_pearl": "2025-03-24 21:21:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-03-24 20:57:28 +0000"
@@ -8211,9 +8500,27 @@
     },
     "done": true
   },
+  "meadow:recipes/wooly_bed": {
+    "criteria": {
+      "has_oak_planks": "2025-03-24 21:05:48 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/tray": {
+    "criteria": {
+      "has_oak_planks": "2025-03-24 21:05:48 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/sweet_tooth_leggings": {
     "criteria": {
       "has_diamond": "2025-03-24 19:11:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-03-24 21:05:48 +0000"
     },
     "done": true
   },
@@ -8226,6 +8533,12 @@
   "handcrafted:recipes/misc/birch_dining_bench": {
     "criteria": {
       "has_birch_dining_bench": "2025-03-24 19:58:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_pillar_trim": {
+    "criteria": {
+      "has_oak_pillar_trim": "2025-03-24 21:05:48 +0000"
     },
     "done": true
   },
@@ -8343,6 +8656,12 @@
     },
     "done": true
   },
+  "variantshields:recipes/combat/oak_wood_shield": {
+    "criteria": {
+      "has_plank": "2025-03-24 21:05:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2025-03-24 20:08:46 +0000"
@@ -8367,6 +8686,12 @@
     },
     "done": true
   },
+  "meadow:recipes/flecked_bed": {
+    "criteria": {
+      "has_planks": "2025-03-24 21:05:48 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_bench": {
     "criteria": {
       "has_birch_bench": "2025-03-24 19:58:03 +0000"
@@ -8382,6 +8707,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-03-24 20:57:28 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/oak_wine_rack_small": {
+    "criteria": {
+      "has_oak_planks": "2025-03-24 21:05:48 +0000"
     },
     "done": true
   },
@@ -8412,6 +8743,12 @@
   "mcda:recipes/base_armors/snow_armor_leggings": {
     "criteria": {
       "has_iron_leggings": "2025-03-24 19:01:02 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_side_table": {
+    "criteria": {
+      "has_oak_side_table": "2025-03-24 21:05:48 +0000"
     },
     "done": true
   },

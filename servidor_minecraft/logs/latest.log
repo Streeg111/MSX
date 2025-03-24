@@ -7150,3 +7150,94 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [20:57:44] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Spectator Mode]
 [20:58:01] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Survival Mode]
 [21:00:58] [Server thread/INFO]: Purificador25 has made the advancement [Taking from the Dead]
+[21:06:45] [Server thread/INFO]: Purificador25 has made the advancement [Cover Me with Diamonds]
+[21:07:30] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Spectator Mode]
+[21:07:36] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Survival Mode]
+[21:09:27] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Spectator Mode]
+[21:09:46] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Survival Mode]
+[21:10:37] [Server thread/INFO]: Purificador25 has made the advancement [Monsterslayer!]
+[21:10:43] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Spectator Mode]
+[21:10:51] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Survival Mode]
+[21:11:09] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Creative Mode]
+[21:11:11] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Spectator Mode]
+[21:11:17] [Server thread/INFO]: [MeRebornRekt: The difficulty has been set to Hard]
+[21:11:59] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Survival Mode]
+[21:12:04] [Server thread/INFO]: MeRebornRekt has made the advancement [A crafter that runs on cells...]
+[21:12:31] [Server thread/INFO]: MeRebornRekt has made the advancement [Love the serenity...]
+[21:12:31] [Server thread/WARN]: MeRebornRekt moved too quickly! 1.7164275322406342,41.5,-12.8647583982162
+[21:12:42] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-103, y=29, z=83} but found not block entity block Block{minecraft:air} at location
+[21:12:42] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location class_2338{x=-103, y=29, z=83}
+[21:12:43] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-105, y=76, z=43} but found not block entity block Block{minecraft:air} at location
+[21:12:43] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location class_2338{x=-105, y=76, z=43}
+[21:12:57] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=39, y=67, z=203} but found not block entity block Block{minecraft:air} at location
+[21:12:57] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location class_2338{x=39, y=67, z=203}
+[21:12:59] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=168, y=174, z=-156} but found not block entity block Block{minecraft:air} at location
+[21:12:59] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location class_2338{x=168, y=174, z=-156}
+[21:14:08] [Server thread/INFO]: MeRebornRekt was slain by Mutated Bat
+[21:14:10] [Server thread/INFO]: [STDOUT]: copyFrom?
+[21:14:10] [Server thread/INFO]: [STDOUT]: alive?
+[21:14:35] [Server thread/INFO]: MeRebornRekt claimed a grave belonging to MeRebornRekt at -23, 64, 4, minecells:promenade
+[21:16:01] [Server thread/INFO]: MeRebornRekt was slain by Leaping Zombie
+[21:16:02] [Server thread/INFO]: [STDOUT]: copyFrom?
+[21:16:02] [Server thread/INFO]: [STDOUT]: alive?
+[21:16:25] [Server thread/INFO]: MeRebornRekt claimed a grave belonging to MeRebornRekt at -86, 64, 5, minecells:promenade
+[21:17:22] [Server thread/INFO]: Named entity class_1549['Arag the Lurker'/67624, l='ServerLevel[world]', x=-853.35, y=-15.00, z=-749.52] died: Arag the Lurker was slain by Purificador25
+[21:18:03] [Server thread/INFO]: <Purificador25> xaero-waypoint:XP:X:-840:-15:-683:2:false:0:Internal-overworld-waypoints
+[21:18:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2454ms or 49 ticks behind
+[21:19:47] [Server thread/INFO]: [MeRebornRekt: Teleported MeRebornRekt to Purificador25]
+[21:19:47] [Server thread/INFO]: MeRebornRekt has made the advancement [Into Darkness]
+[21:20:00] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Creative Mode]
+[21:20:07] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Survival Mode]
+[21:20:27] [Server thread/INFO]: Purificador25 has made the advancement [Iron, but dark]
+[21:21:48] [Server thread/INFO]: MeRebornRekt has made the advancement [Taking from the Dead]
+[21:21:53] [Server thread/INFO]: MeRebornRekt was slain by Wraith
+[21:21:54] [Server thread/INFO]: [STDOUT]: copyFrom?
+[21:21:54] [Server thread/INFO]: [STDOUT]: alive?
+[21:21:58] [Server thread/INFO]: [MeRebornRekt: Teleported MeRebornRekt to Purificador25]
+[21:22:05] [Server thread/WARN]: Purificador25 moved wrongly!
+[21:22:17] [Server thread/INFO]: MeRebornRekt claimed a grave belonging to MeRebornRekt at -857, -12, -783, minecraft:overworld
+[21:22:19] [Server thread/INFO]: MeRebornRekt was slain by Wraith
+[21:22:20] [Server thread/INFO]: [STDOUT]: copyFrom?
+[21:22:20] [Server thread/INFO]: [STDOUT]: alive?
+[21:22:29] [Server thread/INFO]: MeRebornRekt claimed a grave belonging to MeRebornRekt at -857, -12, -783, minecraft:overworld
+[21:22:33] [Server thread/INFO]: MeRebornRekt has made the advancement [Iron, but dark]
+[21:24:17] [Server thread/INFO]: MeRebornRekt was slain by Corrupted Vindicator
+[21:24:19] [Server thread/INFO]: [STDOUT]: copyFrom?
+[21:24:19] [Server thread/INFO]: [STDOUT]: alive?
+[21:24:40] [Server thread/INFO]: MeRebornRekt claimed a grave belonging to MeRebornRekt at -805, -13, -741, minecraft:overworld
+[21:25:29] [Server thread/INFO]: MeRebornRekt was slain by Wraith
+[21:25:30] [Server thread/WARN]: Neruina caught an exception, see below for cause
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_19538()" because "$$0" is null
+	at net.minecraft.class_1297.method_5858(class_1297.java:1579) ~[server-intermediary.jar:?]
+	at chronosacaria.mcdar.goals.FollowSummonerGoal.method_6266(FollowSummonerGoal.java:41) ~[mcdar-4.0.3.jar:?]
+	at net.minecraft.class_4135.method_6266(class_4135.java:27) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1355.method_6275(class_1355.java:85) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6023(class_1308.java:771) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_6007(class_1309.java:2673) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6007(class_1308.java:550) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1439.method_6007(class_1439.java:121) ~[server-intermediary.jar:?]
+	at chronosacaria.mcdar.entities.GolemKitGolemEntity.method_6007(GolemKitGolemEntity.java:68) ~[mcdar-4.0.3.jar:?]
+	at net.minecraft.class_1309.method_5773(class_1309.java:2419) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_5773(class_1308.java:351) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.observable$track(class_3218.java:19754) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.redirect$fch000$observable$onTickNonPassenger(class_3218.java:19770) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18762(class_3218.java:739) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.mixinextras$bridge$accept$190(class_1937.java) ~[server-intermediary.jar:?]
+	at com.bawnorton.neruina.handler.TickHandler.safelyTickEntities(TickHandler.java:91) ~[neruina-fabric-2.0.0-beta.10+1.20.1.jar:?]
+	at net.minecraft.class_1937.wrapOperation$fam000$neruina$catchTickingEntities$notTheCauseOfTickLag(class_1937.java:11048) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_18472(class_1937.java:480) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_31420(class_3218.java:385) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5574.method_31791(class_5574.java:54) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18765(class_3218.java:353) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:897) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:25:30] [Server thread/INFO]: [STDOUT]: copyFrom?
+[21:25:30] [Server thread/INFO]: [STDOUT]: alive?
+[21:25:34] [Server thread/INFO]: [MeRebornRekt: Teleported MeRebornRekt to -804.500000, -13.000000, -737.500000]
+[21:25:44] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Spectator Mode]
+[21:25:51] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Survival Mode]
+[21:25:52] [Server thread/INFO]: MeRebornRekt claimed a grave belonging to MeRebornRekt at -821, -13, -736, minecraft:overworld
