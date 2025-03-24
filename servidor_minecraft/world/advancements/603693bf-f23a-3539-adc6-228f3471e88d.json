@@ -6215,6 +6215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-03-24 19:33:20 +0000"
+    },
+    "done": true
+  },
   "fwaystones:recipes/void_totem": {
     "criteria": {
       "has_totem_of_undying": "2025-03-24 19:11:34 +0000"
@@ -6323,9 +6329,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-24 19:32:55 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/soul_daggers/soul_dagger_truthseeker_vanilla_sword": {
     "criteria": {
       "has_base": "2025-03-24 19:09:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-03-24 19:33:47 +0000"
     },
     "done": true
   },
@@ -6353,6 +6371,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/obsidian_witch_altar": {
+    "criteria": {
+      "has_item": "2025-03-24 19:52:13 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/white_sheet": {
     "criteria": {
       "has_white_sheet": "2025-03-24 18:54:45 +0000"
@@ -6374,6 +6398,12 @@
   "regions_unexplored:recipes/decorations/cherry_shrub": {
     "criteria": {
       "has_cherry_sapling": "2025-03-24 19:08:23 +0000"
+    },
+    "done": true
+  },
+  "phantasm:recipes/building_blocks/polished_obsidian": {
+    "criteria": {
+      "has_obsidian": "2025-03-24 19:52:13 +0000"
     },
     "done": true
   },
@@ -6463,6 +6493,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-03-24 19:50:05 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_white_wool": "2025-03-24 18:54:45 +0000"
@@ -6496,6 +6532,24 @@
   "mcdw:recipes/spears/spear_fortune": {
     "criteria": {
       "has_gold_ingot": "2025-03-24 18:55:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-03-24 19:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-24 19:32:55 +0000"
+    },
+    "done": true
+  },
+  "illagerinvasion:recipes/misc/hallowed_gem": {
+    "criteria": {
+      "has_unusual_dust_and_illusionary_dust": "2025-03-24 19:46:05 +0000"
     },
     "done": true
   },
@@ -6559,6 +6613,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-03-24 19:52:13 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/alchemist_wool": {
     "criteria": {
       "has_item": "2025-03-24 18:54:45 +0000"
@@ -6574,6 +6634,12 @@
   "variantshields:recipes/combat/oak_golden_shield": {
     "criteria": {
       "has_gold_ingot": "2025-03-24 18:55:44 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/infusion_pedestal": {
+    "criteria": {
+      "has_obsidian": "2025-03-24 19:52:13 +0000"
     },
     "done": true
   },
@@ -6640,6 +6706,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2025-03-24 18:55:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_stairs_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-03-24 19:52:13 +0000"
     },
     "done": true
   },
@@ -6727,6 +6799,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/birch_palisade": {
+    "criteria": {
+      "has_log": "2025-03-24 19:50:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2025-03-24 19:10:40 +0000"
@@ -6736,6 +6814,12 @@
   "handcrafted:recipes/misc/dripstone_corner_trim": {
     "criteria": {
       "has_dripstone_corner_trim": "2025-03-24 19:23:29 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-03-24 19:52:13 +0000"
     },
     "done": true
   },
@@ -6829,6 +6913,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-24 19:32:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-03-24 19:52:13 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_sinister": {
+    "criteria": {
+      "has_obsidian": "2025-03-24 19:52:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-24 19:32:55 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/evocation_robe_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-03-24 18:55:44 +0000"
@@ -6892,6 +7000,12 @@
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-03-24 19:29:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_small_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-03-24 19:52:13 +0000"
     },
     "done": true
   },
@@ -7015,9 +7129,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-03-24 19:50:05 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_iron_sword_var": {
     "criteria": {
       "has_iron_sword": "2025-03-24 19:09:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-24 19:32:55 +0000"
     },
     "done": true
   },
@@ -7036,6 +7162,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-03-24 18:54:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_slab_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-03-24 19:52:13 +0000"
     },
     "done": true
   },
@@ -7123,6 +7255,12 @@
     },
     "done": false
   },
+  "dimensional_traders:recipes/decorations/end_trader_stall": {
+    "criteria": {
+      "has_top_slab": "2025-03-24 19:52:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2025-03-24 19:25:56 +0000"
@@ -7147,6 +7285,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-24 19:52:13 +0000"
+    },
+    "done": true
+  },
   "davespotioneering:recipes/brewing/reinforced_cauldron": {
     "criteria": {
       "has_gold": "2025-03-24 18:55:44 +0000"
@@ -7165,6 +7309,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_tile_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-03-24 19:52:13 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/pie_crust": {
     "criteria": {
       "has_wheat": "2025-03-24 18:54:42 +0000"
@@ -7174,6 +7324,12 @@
   "graveyard:graveyard/kill_graveyard_mob": {
     "criteria": {
       "ghoul": "2025-03-24 18:51:58 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_highland": {
+    "criteria": {
+      "has_core_specification_item": "2025-03-24 19:33:20 +0000"
     },
     "done": true
   },
@@ -7219,6 +7375,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-24 19:32:55 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/mercenary_armor_leggings": {
     "criteria": {
       "has_iron_leggings": "2025-03-24 19:01:02 +0000"
@@ -7240,6 +7402,12 @@
   "betterend:recipes/misc/gold_chandelier": {
     "criteria": {
       "has_gold_ingot": "2025-03-24 18:55:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-24 19:32:55 +0000"
     },
     "done": true
   },
@@ -7273,6 +7441,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-24 19:32:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-03-24 19:08:23 +0000"
@@ -7291,6 +7465,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_glass_smelting": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-03-24 19:52:13 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/cheese_tart": {
     "criteria": {
       "has_wheat": "2025-03-24 18:54:42 +0000"
@@ -7305,9 +7485,22 @@
   },
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
-      "killed_evoker": "2025-03-24 19:11:34 +0000"
+      "killed_evoker": "2025-03-24 19:11:34 +0000",
+      "killed_illusioner": "2025-03-24 19:45:38 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-24 19:32:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-24 19:32:55 +0000"
+    },
+    "done": true
   },
   "betterend:recipes/misc/copy_netherite_upgrade": {
     "criteria": {
@@ -7318,6 +7511,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-03-24 18:54:45 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-03-24 19:52:13 +0000"
     },
     "done": true
   },
@@ -7348,6 +7547,18 @@
   "mcda:recipes/unique_armors/gilded_glory_leggings": {
     "criteria": {
       "has_upgrade_item": "2025-03-24 19:11:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-03-24 19:50:56 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_obsidian_claymore": {
+    "criteria": {
+      "has_obsidian": "2025-03-24 19:52:13 +0000"
     },
     "done": true
   },
@@ -7393,9 +7604,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-24 19:32:55 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/sweet_tooth_leggings": {
     "criteria": {
       "has_diamond": "2025-03-24 19:11:57 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-03-24 19:52:13 +0000"
     },
     "done": true
   },
@@ -7405,9 +7628,27 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_tile": {
+    "criteria": {
+      "has_obsidian": "2025-03-24 19:52:13 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/crafting_items/skeleton_skull_to_bonemeal": {
     "criteria": {
       "has_the_recipe": "2025-03-24 19:02:24 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2025-03-24 19:45:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
+    "criteria": {
+      "has_log": "2025-03-24 19:50:05 +0000"
     },
     "done": true
   },
@@ -7540,6 +7781,18 @@
   "mcda:recipes/unique_armors/royal_guard_armor_leggings": {
     "criteria": {
       "has_upgrade_item": "2025-03-24 19:11:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-03-24 19:52:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-24 19:32:55 +0000"
     },
     "done": true
   },

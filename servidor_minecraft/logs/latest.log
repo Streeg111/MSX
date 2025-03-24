@@ -6955,3 +6955,21 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [19:31:56] [Server thread/INFO]: Purificador25 has made the advancement [Novice Spellcaster]
 [19:32:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2827ms or 56 ticks behind
 [19:32:10] [Server thread/INFO]: [MeRebornRekt: Teleported Purificador25 to MeRebornRekt]
+[19:36:10] [Server thread/INFO]: MeRebornRekt has made the advancement [Ice Bucket Challenge]
+[19:41:35] [Server thread/INFO]: MeRebornRekt has made the advancement [Ol' Betsy]
+[19:45:38] [Server thread/INFO]: Purificador25 has made the advancement [World of illusion]
+[19:46:36] [Server thread/WARN]: Purificador25 moved too quickly! 4.901622885924098,3.2122731292522815,-8.250976431909436
+[19:46:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2853ms or 57 ticks behind
+[19:46:43] [Server thread/INFO]: MeRebornRekt has made the advancement [Voluntary Exile]
+[19:50:56] [Server thread/INFO]: Purificador25 has made the advancement [Enchanter]
+[19:52:13] [Server thread/INFO]: Purificador25 has made the advancement [Ice Bucket Challenge]
+[19:52:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[19:52:59] [Server thread/INFO]: [STDOUT]: []
+[19:53:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[19:53:41] [Server thread/ERROR]: Unable to fill loot chest in ResourceKey[minecraft:dimension / minecraft:overworld] at class_2338{x=-646, y=114, z=298} as the loot table 'ctov:pillager_outpost/halloween/tower' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[19:53:41] [Server thread/INFO]: MeRebornRekt has made the advancement [Close Quarters]
+[19:54:01] [Server thread/ERROR]: Unable to fill loot chest in ResourceKey[minecraft:dimension / minecraft:overworld] at class_2338{x=-645, y=114, z=297} as the loot table 'ctov:pillager_outpost/halloween/tower' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[19:54:30] [Server thread/INFO]: [MeRebornRekt: Set the time to 1000]
+[19:54:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[19:54:36] [Server thread/INFO]: [STDOUT]: []
+[19:54:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2254ms or 45 ticks behind
