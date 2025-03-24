@@ -799,12 +799,15 @@
       "minecraft:birch_forest": "2025-03-24 20:02:43 +0000",
       "minecraft:beach": "2025-03-24 04:06:24 +0000",
       "minecraft:dark_forest": "2025-03-24 04:25:33 +0000",
+      "minecraft:sparse_jungle": "2025-03-24 20:04:22 +0000",
       "minecraft:river": "2025-03-24 19:22:22 +0000",
       "minecraft:stony_shore": "2025-03-24 04:06:15 +0000",
       "minecraft:forest": "2025-03-24 19:25:52 +0000",
       "minecraft:lush_caves": "2025-03-24 04:38:34 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-03-24 19:22:33 +0000",
-      "minecraft:old_growth_birch_forest": "2025-03-24 19:18:57 +0000"
+      "minecraft:old_growth_birch_forest": "2025-03-24 19:18:57 +0000",
+      "minecraft:savanna": "2025-03-24 20:07:26 +0000",
+      "minecraft:plains": "2025-03-24 20:04:33 +0000"
     },
     "done": false
   },
@@ -1464,6 +1467,7 @@
       "sweet_berries": "2025-03-24 04:18:06 +0000",
       "apple": "2025-03-24 04:15:03 +0000",
       "bread": "2025-03-24 04:07:01 +0000",
+      "golden_apple": "2025-03-24 20:13:23 +0000",
       "melon_slice": "2025-03-24 04:19:56 +0000"
     },
     "done": false
@@ -6234,9 +6238,21 @@
     },
     "done": true
   },
+  "mcdw:recipes/axes/axe_axe": {
+    "criteria": {
+      "has_iron_axe": "2025-03-24 20:10:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-03-24 19:58:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-03-24 20:04:53 +0000"
     },
     "done": true
   },
@@ -6390,6 +6406,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-03-24 20:10:24 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_masters_katana": {
     "criteria": {
       "has_gold_ingot": "2025-03-24 18:55:44 +0000"
@@ -6538,6 +6560,7 @@
   "artifality:artifact_all": {
     "criteria": {
       "lunar_crystal_wand": "2025-03-24 19:12:13 +0000",
+      "balloon": "2025-03-24 20:11:05 +0000",
       "floral_staff": "2025-03-24 19:11:47 +0000"
     },
     "done": false
@@ -6641,6 +6664,12 @@
   "variantshields:recipes/combat/bamboo_diamond_shield": {
     "criteria": {
       "has_diamond": "2025-03-24 19:11:57 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/jungle_branch_from_jungle_log": {
+    "criteria": {
+      "has_log": "2025-03-24 20:04:53 +0000"
     },
     "done": true
   },
@@ -7178,6 +7207,12 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/verdant_robe_leggings": {
+    "criteria": {
+      "has_evocation_robe_leggings": "2025-03-24 20:12:55 +0000"
+    },
+    "done": true
+  },
   "variantshields:recipes/combat/jungle_golden_shield": {
     "criteria": {
       "has_gold_ingot": "2025-03-24 18:55:44 +0000"
@@ -7259,6 +7294,12 @@
   "mcdw:recipes/swords/sword_iron_sword_var": {
     "criteria": {
       "has_iron_sword": "2025-03-24 19:09:47 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/ember_robe_leggings": {
+    "criteria": {
+      "has_evocation_robe_leggings": "2025-03-24 20:12:55 +0000"
     },
     "done": true
   },
@@ -7604,6 +7645,12 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-03-24 20:03:30 +0000"
+    },
+    "done": false
+  },
   "handcrafted:recipes/misc/birch_couch": {
     "criteria": {
       "has_birch_couch": "2025-03-24 19:58:03 +0000"
@@ -7815,6 +7862,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-03-24 20:04:53 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/crafting_items/skeleton_skull_to_bonemeal": {
     "criteria": {
       "has_the_recipe": "2025-03-24 19:02:24 +0000"
@@ -7884,6 +7937,18 @@
   "mcdw:recipes/swords/sword_the_starless_night": {
     "criteria": {
       "has_amethyst_shard": "2025-03-24 18:55:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-03-24 20:08:46 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/jungle_palisade": {
+    "criteria": {
+      "has_log": "2025-03-24 20:04:53 +0000"
     },
     "done": true
   },

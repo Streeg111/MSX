@@ -6315,6 +6315,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/verglas_block": {
+    "criteria": {
+      "has_item": "2025-03-24 20:03:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-03-24 19:37:09 +0000"
@@ -6411,9 +6417,21 @@
     },
     "done": true
   },
+  "galosphere:recipes/decorations/amethyst_lamp": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-24 20:05:49 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/tools/mending_poppet": {
     "criteria": {
       "has_item": "2025-03-24 19:33:39 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-24 20:05:49 +0000"
     },
     "done": true
   },
@@ -6453,6 +6471,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-24 20:05:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-24 20:05:49 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/mercenary_armor_chestplate": {
     "criteria": {
       "has_iron_chestplate": "2025-03-24 19:09:57 +0000"
@@ -6462,6 +6492,12 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-03-24 19:02:52 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/skofnung_stone": {
+    "criteria": {
+      "has_item": "2025-03-24 20:03:46 +0000"
     },
     "done": true
   },
@@ -6505,6 +6541,12 @@
   "meadow:recipes/patched_bed": {
     "criteria": {
       "has_planks": "2025-03-24 19:41:01 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:verglas": {
+    "criteria": {
+      "item": "2025-03-24 20:03:46 +0000"
     },
     "done": true
   },
@@ -6697,6 +6739,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-03-24 19:10:29 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_purple": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-24 20:05:49 +0000"
     },
     "done": true
   },
@@ -6916,6 +6964,12 @@
     },
     "done": true
   },
+  "soulsweapons:featherlight_recipe": {
+    "criteria": {
+      "has_item": "2025-03-24 20:05:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-03-24 19:02:52 +0000"
@@ -7090,6 +7144,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-03-24 20:04:35 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_cupboard": {
     "criteria": {
       "has_oak_cupboard": "2025-03-24 19:41:01 +0000"
@@ -7105,6 +7165,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/dark_oak_seat": {
     "criteria": {
       "has_plank": "2025-03-24 19:52:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-24 20:05:49 +0000"
     },
     "done": true
   },
@@ -7258,9 +7324,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-24 20:05:49 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_corner_trim": {
     "criteria": {
       "has_oak_corner_trim": "2025-03-24 19:41:01 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/berry_jam_jar": {
+    "criteria": {
+      "has_berry_jam_jar": "2025-03-24 20:04:35 +0000"
     },
     "done": true
   },
@@ -7303,6 +7381,12 @@
   "bewitchment:recipes/tools/protection_poppet": {
     "criteria": {
       "has_item": "2025-03-24 19:33:39 +0000"
+    },
+    "done": true
+  },
+  "chimes:recipes/decorations/amethyst_chimes": {
+    "criteria": {
+      "has_planks": "2025-03-24 20:05:49 +0000"
     },
     "done": true
   },
@@ -7384,6 +7468,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/verglas": {
+    "criteria": {
+      "has_item": "2025-03-24 20:03:46 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/blackwood_fence": {
     "criteria": {
       "has_blackwood_planks": "2025-03-24 19:30:24 +0000"
@@ -7405,6 +7495,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2025-03-24 19:10:29 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/soul_dagger_eternal_knife": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-24 20:05:49 +0000"
     },
     "done": true
   },
@@ -7498,9 +7594,21 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "ghoul": "2025-03-24 20:04:00 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/upgrade_cores/upgrade_core_highland": {
     "criteria": {
       "has_core_specification_item": "2025-03-24 19:52:52 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:sting_recipe": {
+    "criteria": {
+      "has_item": "2025-03-24 20:03:46 +0000"
     },
     "done": true
   },
@@ -7582,6 +7690,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-03-24 20:04:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-03-24 19:37:09 +0000"
@@ -7657,6 +7771,12 @@
   "betterend:recipes/misc/quartz_pedestal": {
     "criteria": {
       "has_quartz_slab": "2025-03-24 19:38:01 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/crystal_ball": {
+    "criteria": {
+      "has_item": "2025-03-24 20:05:49 +0000"
     },
     "done": true
   },
@@ -7960,6 +8080,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sweet_berry_jelly": {
+    "criteria": {
+      "has_sweet_berries": "2025-03-24 20:04:35 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/snow_armor_boots": {
     "criteria": {
       "has_iron_boots": "2025-03-24 19:01:38 +0000"
@@ -8017,6 +8143,12 @@
   "rpg_classes:obtain_arcane_rune": {
     "criteria": {
       "runes": "2025-03-24 18:57:12 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_the_starless_night": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-24 20:05:49 +0000"
     },
     "done": true
   },

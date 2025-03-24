@@ -7035,3 +7035,32 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [20:04:07] [Server thread/INFO]: MeRebornRekt has made the advancement [Source of Evil]
 [20:04:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
 [20:04:26] [Worker-Main-2/WARN]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[20:05:18] [Server thread/INFO]: Villager class_1646['Eloy'/44723, l='ServerLevel[world]', x=-490.70, y=114.02, z=-41.19] died, message: 'Eloy was slain by Zombie'
+[20:05:18] [Server thread/INFO]: Named entity class_1646['Eloy'/44723, l='ServerLevel[world]', x=-490.70, y=114.02, z=-41.19] died: Eloy was slain by Zombie
+[20:05:30] [Server thread/INFO]: Villager class_1646['Janay'/44724, l='ServerLevel[world]', x=-492.70, y=113.05, z=-34.49] died, message: 'Janay was slain by Zombie'
+[20:05:30] [Server thread/INFO]: Named entity class_1646['Janay'/44724, l='ServerLevel[world]', x=-492.70, y=113.05, z=-34.49] died: Janay was slain by Zombie
+[20:06:34] [Worker-Main-4/WARN]: Tried to access a block entity before it was created. class_2338{x=-730, y=126, z=-704}
+[20:06:34] [Worker-Main-4/WARN]: Tried to access a block entity before it was created. class_2338{x=-730, y=126, z=-704}
+[20:07:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[20:07:19] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-773, y=-22, z=-807}
+[20:07:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[20:08:13] [Worker-Main-20/WARN]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[20:08:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2681ms or 53 ticks behind
+[20:08:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5119ms or 102 ticks behind
+[20:08:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3314ms or 66 ticks behind
+[20:09:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[20:09:26] [Server thread/INFO]: Named entity class_1642['Starving Toxic Deflector Lifesteal Zombie'/49206, l='ServerLevel[world]', x=-466.98, y=126.00, z=-24.83] died: Starving Toxic Deflector Lifesteal Zombie was slain by Iron Golem
+[20:09:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[20:09:50] [Worker-Main-20/WARN]: Tried to access a block entity before it was created. class_2338{x=134, y=-17, z=-617}
+[20:09:50] [Worker-Main-20/WARN]: Tried to access a block entity before it was created. class_2338{x=133, y=-17, z=-618}
+[20:09:50] [Worker-Main-20/WARN]: Tried to access a block entity before it was created. class_2338{x=134, y=-17, z=-617}
+[20:09:50] [Worker-Main-20/WARN]: Tried to access a block entity before it was created. class_2338{x=133, y=-17, z=-618}
+[20:09:50] [Worker-Main-20/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;672061792,-366263352,-1752079043,-405291646],type:"minecraft:entity",y_offset:0.36f}}]
+[20:09:51] [Worker-Main-4/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;176865803,-972338229,-2060744252,-623071664],type:"minecraft:entity",y_offset:0.36f}}]
+[20:10:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4792ms or 95 ticks behind
+[20:10:12] [Worker-Main-20/WARN]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[20:10:24] [Server thread/INFO]: Purificador25 has made the advancement [Voluntary Exile]
+[20:10:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[20:12:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[20:12:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[20:14:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
