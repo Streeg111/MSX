@@ -3898,6 +3898,7 @@
       "cooked_beef": "2025-03-24 19:40:19 +0000",
       "apple": "2025-03-24 04:46:29 +0000",
       "bread": "2025-03-24 20:40:12 +0000",
+      "golden_apple": "2025-03-24 21:50:48 +0000",
       "rotten_flesh": "2025-03-24 20:58:56 +0000",
       "glow_berries": "2025-03-24 04:40:29 +0000",
       "melon_slice": "2025-03-24 04:20:08 +0000"
@@ -6461,6 +6462,12 @@
     },
     "done": true
   },
+  "simplyswords:waxweaver": {
+    "criteria": {
+      "requirement": "2025-03-24 21:53:47 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_reed_hanging_sign": {
     "criteria": {
       "has_chain": "2025-03-24 20:44:02 +0000"
@@ -7674,6 +7681,12 @@
     },
     "done": true
   },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-03-24 21:55:01 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/tools/judgment_poppet": {
     "criteria": {
       "has_item": "2025-03-24 19:33:39 +0000"
@@ -8043,6 +8056,12 @@
   "handcrafted:recipes/misc/dark_oak_nightstand": {
     "criteria": {
       "has_dark_oak_nightstand": "2025-03-24 19:52:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-03-24 21:45:54 +0000"
     },
     "done": true
   },
@@ -8535,6 +8554,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-24 19:52:52 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/find_skeleton": {
+    "criteria": {
+      "skeleton": "2025-03-24 21:45:57 +0000"
     },
     "done": true
   },

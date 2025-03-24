@@ -7336,3 +7336,27 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_1
 [21:45:39] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Spectator Mode]
 [21:45:45] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Survival Mode]
 [21:45:57] [Server thread/INFO]: MeRebornRekt has made the advancement [Pseudo Archaeologist]
+[21:47:43] [Server thread/INFO]: Purificador25 drowned
+[21:47:44] [Server thread/INFO]: [STDOUT]: copyFrom?
+[21:47:44] [Server thread/INFO]: [STDOUT]: alive?
+[21:48:05] [Server thread/INFO]: Villager class_1646['Alpha'/724182, l='ServerLevel[world]', x=-491.70, y=123.56, z=28.70] died, message: 'Alpha was slain by Zombie'
+[21:48:05] [Server thread/INFO]: Named entity class_1646['Alpha'/724182, l='ServerLevel[world]', x=-491.70, y=123.56, z=28.70] died: Alpha was slain by Zombie
+[21:48:21] [Server thread/INFO]: <Purificador25> X:-852 Y;6 Z:-537
+[21:48:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21:48:46] [Server thread/INFO]: Villager class_1646['Silva'/724181, l='ServerLevel[world]', x=-475.80, y=121.00, z=25.42] died, message: 'Silva was slain by Zombie'
+[21:48:46] [Server thread/INFO]: Named entity class_1646['Silva'/724181, l='ServerLevel[world]', x=-475.80, y=121.00, z=25.42] died: Silva was slain by Zombie
+[21:49:04] [Server thread/INFO]: [MeRebornRekt: Teleported Purificador25 to -8525.500000, -6.000000, -536.500000]
+[21:49:08] [Worker-Main-10/WARN]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[21:49:10] [Worker-Main-2/WARN]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[21:49:14] [Server thread/INFO]: [MeRebornRekt: Teleported Purificador25 to -851.500000, -6.000000, -536.500000]
+[21:49:14] [Server thread/WARN]: MeRebornRekt moved too quickly! 2.690783237629944,0.0,-9.710414091486655
+[21:49:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11388ms or 227 ticks behind
+[21:49:14] [Server thread/INFO]: <MeRebornRekt> asd
+[21:49:21] [Server thread/INFO]: [MeRebornRekt: Teleported Purificador25 to MeRebornRekt]
+[21:50:30] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Spectator Mode]
+[21:50:35] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Survival Mode]
+[21:51:51] [Server thread/INFO]: Purificador25 claimed a grave belonging to Purificador25 at -852, 6, -537, minecraft:overworld
+[21:52:07] [Server thread/INFO]: [MeRebornRekt: Applied effect Night Vision to MeRebornRekt]
+[21:53:47] [Server thread/INFO]: MeRebornRekt has made the advancement [Wax On]
+[21:55:01] [Server thread/INFO]: MeRebornRekt has completed the challenge [Centennial]
+[21:56:18] [Server thread/INFO]: [MeRebornRekt: Teleported Purificador25 to MeRebornRekt]
