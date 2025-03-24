@@ -1468,7 +1468,8 @@
       "apple": "2025-03-24 04:15:03 +0000",
       "bread": "2025-03-24 04:07:01 +0000",
       "golden_apple": "2025-03-24 20:13:23 +0000",
-      "melon_slice": "2025-03-24 04:19:56 +0000"
+      "melon_slice": "2025-03-24 04:19:56 +0000",
+      "enchanted_golden_apple": "2025-03-24 21:04:02 +0000"
     },
     "done": false
   },
@@ -6214,6 +6215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-24 20:57:03 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/copy_bowl_upgrade": {
     "criteria": {
       "has_diamond": "2025-03-24 19:11:57 +0000"
@@ -6223,6 +6230,12 @@
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2025-03-24 19:33:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-24 20:57:28 +0000"
     },
     "done": true
   },
@@ -6367,6 +6380,12 @@
   "inmis:baby_backpack": {
     "criteria": {
       "backpack": "2025-03-24 19:58:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-24 20:57:28 +0000"
     },
     "done": true
   },
@@ -6587,6 +6606,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-24 20:57:03 +0000"
+    },
+    "done": true
+  },
   "artifality:artifact_all": {
     "criteria": {
       "lunar_crystal_wand": "2025-03-24 19:12:13 +0000",
@@ -6676,6 +6701,12 @@
   "illagerinvasion:recipes/misc/hallowed_gem": {
     "criteria": {
       "has_unusual_dust_and_illusionary_dust": "2025-03-24 19:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-03-24 20:58:39 +0000"
     },
     "done": true
   },
@@ -6787,6 +6818,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-24 20:57:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
       "has_pink_petals": "2025-03-24 18:53:37 +0000"
@@ -6859,6 +6896,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2025-03-24 21:04:34 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/misc/silver_ingot_from_smelting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2025-03-24 20:40:59 +0000"
@@ -6925,6 +6968,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-24 20:57:03 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_fancy_bed": {
     "criteria": {
       "has_birch_fancy_bed": "2025-03-24 19:58:03 +0000"
@@ -6934,6 +6983,12 @@
   "variantshields:recipes/combat/mangrove_golden_shield": {
     "criteria": {
       "has_gold_ingot": "2025-03-24 18:55:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-24 20:57:03 +0000"
     },
     "done": true
   },
@@ -7057,6 +7112,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-24 20:57:03 +0000"
+    },
+    "done": true
+  },
   "variantshields:recipes/combat/acacia_golden_shield": {
     "criteria": {
       "has_gold_ingot": "2025-03-24 18:55:44 +0000"
@@ -7108,6 +7169,12 @@
   "mcdw:recipes/swords/sword_sinister": {
     "criteria": {
       "has_obsidian": "2025-03-24 19:52:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-24 20:57:03 +0000"
     },
     "done": true
   },
@@ -7195,6 +7262,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-24 20:57:03 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_tile_small_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-03-24 19:52:13 +0000"
@@ -7228,6 +7301,12 @@
   "mythicmetals:recipes/carmot_staff_smithing_template": {
     "criteria": {
       "found_template": "2025-03-24 19:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-03-24 20:58:39 +0000"
     },
     "done": true
   },
@@ -7273,6 +7352,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-24 20:57:03 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_diamond_sword_var": {
     "criteria": {
       "has_diamond": "2025-03-24 19:11:57 +0000"
@@ -7291,6 +7376,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-03-24 21:04:34 +0000"
+    },
+    "done": true
+  },
   "variantshields:recipes/combat/jungle_golden_shield": {
     "criteria": {
       "has_gold_ingot": "2025-03-24 18:55:44 +0000"
@@ -7303,6 +7394,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-24 20:57:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-03-24 18:55:44 +0000"
@@ -7312,6 +7409,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-03-24 19:08:23 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-03-24 20:58:39 +0000"
     },
     "done": true
   },
@@ -7375,6 +7478,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-24 20:57:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-03-24 18:55:38 +0000"
@@ -7396,6 +7505,12 @@
   "mcda:recipes/unique_armors/ember_robe_leggings": {
     "criteria": {
       "has_evocation_robe_leggings": "2025-03-24 20:12:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-24 20:57:28 +0000"
     },
     "done": true
   },
@@ -7495,6 +7610,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-24 20:57:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-03-24 19:58:03 +0000"
@@ -7504,6 +7625,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-03-24 20:41:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-24 20:57:03 +0000"
     },
     "done": true
   },
@@ -7543,6 +7670,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-24 20:57:28 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/soul_daggers/soul_dagger_eternal_knife": {
     "criteria": {
       "has_amethyst_shard": "2025-03-24 18:55:38 +0000"
@@ -7555,9 +7688,33 @@
     },
     "done": false
   },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2025-03-24 21:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-24 20:57:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-24 20:57:03 +0000"
+    },
+    "done": true
+  },
   "dimensional_traders:recipes/decorations/end_trader_stall": {
     "criteria": {
       "has_top_slab": "2025-03-24 19:52:13 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_wraith": {
+    "criteria": {
+      "wraith": "2025-03-24 21:00:58 +0000"
     },
     "done": true
   },
@@ -7633,6 +7790,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-24 20:57:03 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/upgrade_cores/upgrade_core_highland": {
     "criteria": {
       "has_core_specification_item": "2025-03-24 19:33:20 +0000"
@@ -7648,6 +7811,12 @@
   "inmis:recipes/gilded_backpack": {
     "criteria": {
       "has_plated_backpack": "2025-03-24 20:24:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-24 20:57:28 +0000"
     },
     "done": true
   },
@@ -7681,6 +7850,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/double_axes/double_axe_double": {
+    "criteria": {
+      "has_iron_block": "2025-03-24 20:58:39 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/tools/curse_poppet": {
     "criteria": {
       "has_item": "2025-03-24 19:25:43 +0000"
@@ -7690,6 +7865,12 @@
   "mcdw:recipes/glaives/spear_glaive_vanilla_sword": {
     "criteria": {
       "has_iron_sword": "2025-03-24 19:09:47 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:guts_sword_recipe": {
+    "criteria": {
+      "has_item": "2025-03-24 20:58:39 +0000"
     },
     "done": true
   },
@@ -7777,6 +7958,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/hammers/hammer_suns_grace": {
+    "criteria": {
+      "has_gold_block": "2025-03-24 21:04:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-03-24 19:32:55 +0000"
@@ -7810,6 +7997,12 @@
   "inmis:recipes/bejeweled_backpack": {
     "criteria": {
       "has_gilded_backpack": "2025-03-24 20:24:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-24 20:57:03 +0000"
     },
     "done": true
   },
@@ -7862,6 +8055,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2025-03-24 21:04:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-03-24 18:54:45 +0000"
@@ -7892,6 +8091,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-24 20:57:03 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/vanilla_piles/white_tulip": {
     "criteria": {
       "has_flower": "2025-03-24 18:54:08 +0000"
@@ -7901,6 +8106,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-03-24 19:32:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-24 20:57:03 +0000"
     },
     "done": true
   },
@@ -7952,6 +8163,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-24 20:57:28 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/unique_armors/gilded_glory_chestplate": {
     "criteria": {
       "has_upgrade_item": "2025-03-24 19:11:34 +0000"
@@ -7964,9 +8181,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-24 20:57:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-24 20:57:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-03-24 18:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-24 20:57:28 +0000"
     },
     "done": true
   },
@@ -7991,6 +8226,12 @@
   "handcrafted:recipes/misc/birch_dining_bench": {
     "criteria": {
       "has_birch_dining_bench": "2025-03-24 19:58:03 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/axes/axe_encrusted_anchor": {
+    "criteria": {
+      "has_gold_block": "2025-03-24 21:04:34 +0000"
     },
     "done": true
   },
@@ -8039,6 +8280,12 @@
   "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
     "criteria": {
       "has_log": "2025-03-24 19:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-24 20:57:03 +0000"
     },
     "done": true
   },
@@ -8132,9 +8379,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-24 20:57:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-24 20:57:28 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/cincinnasite_shovel_diamond": {
     "criteria": {
       "has_item.minecraft.diamond": "2025-03-24 19:11:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2025-03-24 21:04:34 +0000"
     },
     "done": true
   },
@@ -8174,6 +8439,18 @@
     },
     "done": true
   },
+  "mcda:recipes/upgrade_cores/upgrade_core_golden": {
+    "criteria": {
+      "has_core_specification_item": "2025-03-24 21:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-24 20:57:28 +0000"
+    },
+    "done": true
+  },
   "archon:learn_spell": {
     "criteria": {
       "spell": "2025-03-24 19:31:56 +0000"
@@ -8201,6 +8478,12 @@
   "mcda:recipes/unique_armors/royal_guard_armor_leggings": {
     "criteria": {
       "has_upgrade_item": "2025-03-24 19:11:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-24 20:57:03 +0000"
     },
     "done": true
   },
