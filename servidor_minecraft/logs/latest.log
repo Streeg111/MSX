@@ -7360,3 +7360,30 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_1
 [21:53:47] [Server thread/INFO]: MeRebornRekt has made the advancement [Wax On]
 [21:55:01] [Server thread/INFO]: MeRebornRekt has completed the challenge [Centennial]
 [21:56:18] [Server thread/INFO]: [MeRebornRekt: Teleported Purificador25 to MeRebornRekt]
+[21:57:41] [Server thread/INFO]: [MeRebornRekt: Set Purificador25's game mode to Spectator Mode]
+[21:58:00] [Server thread/INFO]: [MeRebornRekt: Set Purificador25's game mode to Survival Mode]
+[21:58:57] [Server thread/INFO]: MeRebornRekt has reached the goal [Pray to the Goddess]
+[21:59:53] [Server thread/INFO]: Purificador25 has reached the goal [Pray to the Goddess]
+[22:00:11] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Creative Mode]
+[22:00:57] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Spectator Mode]
+[22:01:00] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Survival Mode]
+[22:03:07] [Server thread/INFO]: [MeRebornRekt: Teleported Purificador25 to MeRebornRekt]
+[22:03:12] [Server thread/INFO]: [MeRebornRekt: Teleported Purificador25 to MeRebornRekt]
+[22:03:14] [Server thread/INFO]: [MeRebornRekt: Teleported Purificador25 to MeRebornRekt]
+[22:03:22] [Server thread/INFO]: [MeRebornRekt: Teleported Purificador25 to MeRebornRekt]
+[22:03:33] [Server thread/INFO]: [MeRebornRekt: Teleported Purificador25 to MeRebornRekt]
+[22:03:41] [Server thread/INFO]: [MeRebornRekt: Teleported Purificador25 to MeRebornRekt]
+[22:03:44] [Server thread/INFO]: [MeRebornRekt: Teleported Purificador25 to MeRebornRekt]
+[22:03:54] [Server thread/INFO]: [MeRebornRekt: Teleported Purificador25 to MeRebornRekt]
+[22:04:11] [Server thread/INFO]: [MeRebornRekt: Teleported Purificador25 to MeRebornRekt]
+[22:04:16] [Server thread/INFO]: [MeRebornRekt: Teleported Purificador25 to MeRebornRekt]
+[22:04:56] [Server thread/INFO]: MeRebornRekt was slain by Purificador25
+[22:04:57] [Server thread/INFO]: [STDOUT]: copyFrom?
+[22:04:57] [Server thread/INFO]: [STDOUT]: alive?
+[22:05:02] [Server thread/INFO]: MeRebornRekt claimed a grave belonging to MeRebornRekt at -518, 117, 26, minecraft:overworld
+[22:16:41] [Server thread/INFO]: Purificador25 lost connection: Disconnected
+[22:16:41] [Server thread/INFO]: Purificador25 left the game
+[22:16:49] [Server thread/INFO]: Villager class_1646['Raleigh'/727121, l='ServerLevel[world]', x=-481.05, y=123.00, z=19.48] died, message: 'Raleigh was slain by Zombie'
+[22:16:49] [Server thread/INFO]: Named entity class_1646['Raleigh'/727121, l='ServerLevel[world]', x=-481.05, y=123.00, z=19.48] died: Raleigh was slain by Zombie
+[22:16:58] [Server thread/INFO]: Named entity class_1641['Raleigh'/732026, l='ServerLevel[world]', x=-486.63, y=122.00, z=19.60] died: Raleigh was slain by Iron Golem
+[22:26:44] [Server thread/INFO]: Progress has been changed!

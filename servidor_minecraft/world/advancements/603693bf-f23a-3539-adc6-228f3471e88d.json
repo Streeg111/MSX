@@ -6306,6 +6306,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-24 22:10:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2025-03-24 18:55:44 +0000"
@@ -7311,6 +7317,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-03-24 22:10:13 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_sinister": {
     "criteria": {
       "has_obsidian": "2025-03-24 19:52:13 +0000"
@@ -7953,6 +7965,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/glaives/spear_venom_glaive": {
+    "criteria": {
+      "has_poisonous_potato": "2025-03-24 22:07:39 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_desk": {
     "criteria": {
       "has_oak_desk": "2025-03-24 21:05:48 +0000"
@@ -8368,6 +8386,12 @@
     },
     "done": true
   },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-03-24 21:59:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-24 20:57:03 +0000"
@@ -8701,6 +8725,12 @@
   "variantshields:recipes/combat/birch_diamond_shield": {
     "criteria": {
       "has_diamond": "2025-03-24 19:11:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-03-24 22:10:13 +0000"
     },
     "done": true
   },

@@ -6234,6 +6234,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-03-24 22:19:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-03-24 19:31:26 +0000"
@@ -6300,6 +6306,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-03-24 22:19:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_shelf": {
+    "criteria": {
+      "has_birch_shelf": "2025-03-24 22:19:31 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/cincinnasite_hoe_diamond": {
     "criteria": {
       "has_item.minecraft.diamond": "2025-03-24 19:11:47 +0000"
@@ -6309,6 +6327,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/brazier": {
     "criteria": {
       "has_bar": "2025-03-24 19:52:15 +0000"
+    },
+    "done": true
+  },
+  "variantshields:recipes/combat/birch_wood_shield": {
+    "criteria": {
+      "has_plank": "2025-03-24 22:19:31 +0000"
     },
     "done": true
   },
@@ -6396,6 +6420,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-03-24 22:19:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-03-24 19:11:47 +0000"
@@ -6411,6 +6441,18 @@
   "bewitchment:recipes/decorations/obsidian_witch_altar": {
     "criteria": {
       "has_item": "2025-03-24 19:36:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-03-24 21:56:01 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_nightstand": {
+    "criteria": {
+      "has_birch_nightstand": "2025-03-24 22:19:31 +0000"
     },
     "done": true
   },
@@ -6450,6 +6492,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/tools/barometer": {
+    "criteria": {
+      "has_redstone": "2025-03-24 21:55:45 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lucernia_hanging_sign": {
     "criteria": {
       "has_chain": "2025-03-24 20:44:02 +0000"
@@ -6465,6 +6513,12 @@
   "simplyswords:waxweaver": {
     "criteria": {
       "requirement": "2025-03-24 21:53:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-03-24 22:19:31 +0000"
     },
     "done": true
   },
@@ -6531,6 +6585,12 @@
   "mcda:recipes/upgrade_cores/upgrade_core_ember": {
     "criteria": {
       "has_core_specification_item": "2025-03-24 21:32:32 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/birch_wine_rack_small": {
+    "criteria": {
+      "has_birch_planks": "2025-03-24 22:19:31 +0000"
     },
     "done": true
   },
@@ -6685,6 +6745,12 @@
     },
     "done": false
   },
+  "handcrafted:recipes/misc/birch_cupboard": {
+    "criteria": {
+      "has_birch_cupboard": "2025-03-24 22:19:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2025-03-24 19:37:55 +0000"
@@ -6766,6 +6832,18 @@
   "regions_unexplored:recipes/transportation/redwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-24 20:31:59 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/birch_support": {
+    "criteria": {
+      "has_plank": "2025-03-24 22:19:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_counter": {
+    "criteria": {
+      "has_birch_counter": "2025-03-24 22:19:31 +0000"
     },
     "done": true
   },
@@ -6898,6 +6976,12 @@
   "bakery:recipes/wall_cabinet": {
     "criteria": {
       "has_oak_planks": "2025-03-24 19:41:01 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_desk": {
+    "criteria": {
+      "has_birch_desk": "2025-03-24 22:19:31 +0000"
     },
     "done": true
   },
@@ -7087,6 +7171,12 @@
     },
     "done": true
   },
+  "vinery:recipes/birch_wine_rack_big": {
+    "criteria": {
+      "has_birch_planks": "2025-03-24 22:19:31 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/dark_oak_support": {
     "criteria": {
       "has_plank": "2025-03-24 19:52:52 +0000"
@@ -7207,6 +7297,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_fancy_bed": {
+    "criteria": {
+      "has_birch_fancy_bed": "2025-03-24 22:19:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-24 21:20:12 +0000"
@@ -7246,6 +7342,12 @@
   "inmis:plated_backpack": {
     "criteria": {
       "backpack": "2025-03-24 19:59:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-03-24 21:55:45 +0000"
     },
     "done": true
   },
@@ -7579,9 +7681,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-03-24 21:55:45 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/dark_iron": {
     "criteria": {
       "dark_iron": "2025-03-24 21:22:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-24 22:19:31 +0000"
     },
     "done": true
   },
@@ -7612,6 +7726,12 @@
   "betterend:recipes/decorations/end_lotus_hanging_sign": {
     "criteria": {
       "has_chain": "2025-03-24 20:44:02 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_drawer": {
+    "criteria": {
+      "has_birch_drawer": "2025-03-24 22:19:31 +0000"
     },
     "done": true
   },
@@ -7729,6 +7849,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redstone_bud": {
+    "criteria": {
+      "has_redstone": "2025-03-24 21:55:45 +0000"
+    },
+    "done": true
+  },
   "minecells:prison": {
     "criteria": {
       "requirement": "2025-03-24 20:42:17 +0000"
@@ -7753,6 +7879,18 @@
     },
     "done": true
   },
+  "mcda:recipes/crafting_items/gemstone_red": {
+    "criteria": {
+      "has_redstone": "2025-03-24 21:55:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-03-24 21:55:45 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/smooth_amethyst_slab_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-03-24 21:21:07 +0000"
@@ -7762,6 +7900,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/squid_ink_pasta": {
     "criteria": {
       "has_any_ingredient": "2025-03-24 20:35:41 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/birch_seat": {
+    "criteria": {
+      "has_plank": "2025-03-24 22:19:31 +0000"
     },
     "done": true
   },
@@ -7879,6 +8023,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-03-24 21:55:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-03-24 19:55:11 +0000"
@@ -7888,6 +8038,12 @@
   "handcrafted:recipes/misc/oak_fancy_bed": {
     "criteria": {
       "has_oak_fancy_bed": "2025-03-24 19:41:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-03-24 22:19:31 +0000"
     },
     "done": true
   },
@@ -7966,6 +8122,18 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-03-24 19:10:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-24 22:19:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_table": {
+    "criteria": {
+      "has_birch_table": "2025-03-24 22:19:31 +0000"
     },
     "done": true
   },
@@ -8077,6 +8245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-03-24 21:55:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-03-24 19:41:35 +0000"
@@ -8092,6 +8266,12 @@
   "mcda:recipes/base_armors/living_vines_armor_helmet": {
     "criteria": {
       "has_nether_wart": "2025-03-24 20:39:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-24 22:19:31 +0000"
     },
     "done": true
   },
@@ -8257,6 +8437,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/glaives/spear_venom_glaive": {
+    "criteria": {
+      "has_poisonous_potato": "2025-03-24 22:08:11 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_desk": {
     "criteria": {
       "has_oak_desk": "2025-03-24 19:41:01 +0000"
@@ -8266,6 +8452,12 @@
   "graveyard:graveyard/kill_wraith": {
     "criteria": {
       "wraith": "2025-03-24 21:21:48 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_side_table": {
+    "criteria": {
+      "has_birch_side_table": "2025-03-24 22:19:31 +0000"
     },
     "done": true
   },
@@ -8329,6 +8521,12 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/vanilla_piles/poppy": {
+    "criteria": {
+      "has_flower": "2025-03-24 21:56:01 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/blackwood_branch_from_blackwood_log": {
     "criteria": {
       "has_log": "2025-03-24 19:29:46 +0000"
@@ -8356,6 +8554,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-03-24 21:32:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-03-24 21:55:45 +0000"
     },
     "done": true
   },
@@ -8452,6 +8656,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-03-24 19:38:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_corner_trim": {
+    "criteria": {
+      "has_birch_corner_trim": "2025-03-24 22:19:31 +0000"
     },
     "done": true
   },
@@ -8563,6 +8773,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_couch": {
+    "criteria": {
+      "has_birch_couch": "2025-03-24 22:19:31 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/sweet_tooth_boots": {
     "criteria": {
       "has_diamond": "2025-03-24 19:11:47 +0000"
@@ -8671,6 +8887,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-03-24 21:55:45 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/dark_oak_wine_rack_small": {
     "criteria": {
       "has_dark_oak_planks": "2025-03-24 19:52:52 +0000"
@@ -8755,6 +8977,12 @@
     },
     "done": true
   },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-03-24 21:58:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-24 21:20:12 +0000"
@@ -8776,6 +9004,12 @@
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-03-24 19:44:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/raw_redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-03-24 21:55:45 +0000"
     },
     "done": true
   },
@@ -8872,6 +9106,12 @@
   "galosphere:recipes/building_blocks/smooth_amethyst_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-03-24 21:21:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_pillar_trim": {
+    "criteria": {
+      "has_birch_pillar_trim": "2025-03-24 22:19:31 +0000"
     },
     "done": true
   },
@@ -9025,6 +9265,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_dining_bench": {
+    "criteria": {
+      "has_birch_dining_bench": "2025-03-24 22:19:31 +0000"
+    },
+    "done": true
+  },
   "slayersbeasts:recipes/transportation/kapok_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-24 20:31:59 +0000"
@@ -9091,6 +9337,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_chair": {
+    "criteria": {
+      "has_birch_chair": "2025-03-24 22:19:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-03-24 21:33:39 +0000"
@@ -9118,6 +9370,12 @@
   "mcda:recipes/crafting_items/skeleton_skull_to_bonemeal": {
     "criteria": {
       "has_skeleton_skull": "2025-03-24 19:12:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_redstone": "2025-03-24 21:55:45 +0000"
     },
     "done": true
   },
@@ -9217,6 +9475,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_bench": {
+    "criteria": {
+      "has_birch_bench": "2025-03-24 22:19:31 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/dark_cherry_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-24 20:31:59 +0000"
@@ -9301,6 +9565,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/birch_table": {
+    "criteria": {
+      "has_bamboo": "2025-03-24 22:19:31 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/piglin_armor_helmet": {
     "criteria": {
       "has_bone": "2025-03-24 19:09:57 +0000"
@@ -9340,6 +9610,12 @@
   "regions_unexplored:recipes/building_blocks/blackwood_planks": {
     "criteria": {
       "has_logs": "2025-03-24 19:29:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-24 22:19:31 +0000"
     },
     "done": true
   },
