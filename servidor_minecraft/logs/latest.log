@@ -6700,3 +6700,102 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [18:51:40] [Worker-Main-10/WARN]: Tried to access a block entity before it was created. class_2338{x=-744, y=-46, z=249}
 [18:51:40] [Worker-Main-10/WARN]: Tried to access a block entity before it was created. class_2338{x=-744, y=-46, z=249}
 [18:51:58] [Server thread/INFO]: Purificador25 has made the advancement [Stay dead]
+[18:55:02] [Server thread/INFO]: Purificador25 has made the advancement [Path of Frost]
+[18:55:04] [Server thread/INFO]: Purificador25 has made the advancement [Path of Fire]
+[18:55:05] [Server thread/INFO]: Purificador25 has made the advancement [Path of Arcane]
+[18:56:24] [Server thread/INFO]: Named entity class_5762['Thorny Resistant Undying Starving Axolotl'/406, l='ServerLevel[world]', x=-412.01, y=18.00, z=-91.50] died: Thorny Resistant Undying Starving Axolotl died from dehydration
+[18:56:43] [Server thread/INFO]: [Handshake] Sending channel query
+[18:56:43] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[18:56:43] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[18:56:44] [Server thread/INFO]: MeRebornRekt[/127.189.148.44:49125] logged in with entity id 3556 at (-520.9469733259915, 122.0, 25.640442511938996)
+[18:56:44] [Server thread/INFO]: Sending server config values to client
+[18:56:45] [Server thread/INFO]: Syncing config to MeRebornRekt (bca94202-89e4-337a-a0ac-6123b2358471)
+[18:56:45] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18:56:45] [Server thread/INFO]: MeRebornRekt joined the game
+[18:56:45] [Netty Epoll Server IO #3/INFO]: [showmeyourskin] Client of MeRebornRekt accepted server config.
+[18:56:45] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[18:56:48] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player MeRebornRekt. Claiming: GRAVE / Robbing: INVENTORY
+[18:56:48] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18:56:48] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18:56:48] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18:56:48] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18:56:48] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18:56:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18:56:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18:56:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18:56:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18:56:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18:56:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18:56:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18:56:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18:56:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18:56:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18:56:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18:56:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18:56:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18:56:48] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/MSX/servidor_minecraft/bclib-sync (allowDelete=true)
+[18:57:10] [Server thread/INFO]: MeRebornRekt has made the advancement [Path of Fire]
+[18:57:12] [Server thread/INFO]: MeRebornRekt has made the advancement [Path of Arcane]
+[19:00:31] [Server thread/INFO]: Villager class_1646['Sandy'/198, l='ServerLevel[world]', x=-531.96, y=120.00, z=34.63] died, message: 'Sandy was slain by Zombie'
+[19:00:31] [Server thread/INFO]: Named entity class_1646['Sandy'/198, l='ServerLevel[world]', x=-531.96, y=120.00, z=34.63] died: Sandy was slain by Zombie
+[19:00:44] [Server thread/INFO]: Named entity class_1641['Sandy'/4761, l='ServerLevel[world]', x=-512.61, y=122.00, z=27.63] died: Sandy was shot by Marlys
+[19:01:01] [Server thread/INFO]: Named entity GuardEntity['Madison'/295, l='ServerLevel[world]', x=-511.93, y=122.00, z=18.30] died: Madison was slain by Purificador25
+[19:01:38] [Server thread/INFO]: MeRebornRekt has made the advancement [Suit Up]
+[19:01:48] [Server thread/INFO]: Named entity class_1641['Alexis'/278, l='ServerLevel[world]', x=-607.79, y=126.00, z=137.49] died: Alexis burned to death
+[19:02:32] [Server thread/INFO]: Purificador25 has made the advancement [A Seedy Place]
+[19:03:09] [Worker-Main-10/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
+[19:03:09] [Worker-Main-10/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
+[19:03:09] [Worker-Main-10/WARN]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[19:03:19] [Server thread/INFO]: MeRebornRekt has made the advancement [Invitation to the Tea Party]
+[19:03:21] [Worker-Main-20/WARN]: Tried to access a block entity before it was created. class_2338{x=-820, y=-56, z=164}
+[19:03:21] [Worker-Main-20/WARN]: Tried to access a block entity before it was created. class_2338{x=-820, y=-56, z=162}
+[19:03:21] [Worker-Main-20/WARN]: Tried to access a block entity before it was created. class_2338{x=-820, y=-55, z=163}
+[19:03:21] [Worker-Main-20/WARN]: Tried to access a block entity before it was created. class_2338{x=-820, y=-56, z=164}
+[19:03:21] [Worker-Main-20/WARN]: Tried to access a block entity before it was created. class_2338{x=-820, y=-56, z=162}
+[19:03:21] [Worker-Main-20/WARN]: Tried to access a block entity before it was created. class_2338{x=-820, y=-55, z=163}
+[19:03:21] [Worker-Main-10/WARN]: Tried to access a block entity before it was created. class_2338{x=-827, y=-57, z=158}
+[19:03:21] [Worker-Main-10/WARN]: Tried to access a block entity before it was created. class_2338{x=-827, y=-57, z=158}
+[19:03:24] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-837, y=-54, z=181}
+[19:03:24] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-836, y=-53, z=180}
+[19:03:24] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-837, y=-54, z=181}
+[19:03:24] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-836, y=-53, z=180}
+[19:04:39] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Spectator Mode]
+[19:04:40] [Worker-Main-10/WARN]: Tried to access a block entity before it was created. class_2338{x=-859, y=-54, z=234}
+[19:04:40] [Worker-Main-10/WARN]: Tried to access a block entity before it was created. class_2338{x=-859, y=-53, z=234}
+[19:04:40] [Worker-Main-10/WARN]: Tried to access a block entity before it was created. class_2338{x=-859, y=-54, z=234}
+[19:04:40] [Worker-Main-10/WARN]: Tried to access a block entity before it was created. class_2338{x=-859, y=-53, z=234}
+[19:08:23] [Server thread/INFO]: Purificador25 has made the advancement [Wild Grapes]
+[19:09:50] [Server thread/INFO]: <MeRebornRekt> le falta aji :c
+[19:09:53] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Survival Mode]
+[19:10:45] [Server thread/INFO]: MeRebornRekt has made the advancement [What's this?]
+[19:11:06] [Server thread/INFO]: [MeRebornRekt: Teleported Purificador25 to MeRebornRekt]
+[19:11:47] [Server thread/INFO]: MeRebornRekt has made the advancement [Diamonds!]
+[19:11:47] [Server thread/INFO]: Purificador25 has made the advancement [What's this?]
+[19:11:57] [Server thread/INFO]: Purificador25 has made the advancement [Diamonds!]
+[19:14:24] [Server thread/INFO]: [MeRebornRekt: Teleported MeRebornRekt to Purificador25]
+[19:15:39] [Worker-Main-4/WARN]: Tried to access a block entity before it was created. class_2338{x=-940, y=-29, z=161}
+[19:15:39] [Worker-Main-4/WARN]: Tried to access a block entity before it was created. class_2338{x=-940, y=-29, z=161}
+[19:17:40] [Worker-Main-4/WARN]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[19:17:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2155ms or 43 ticks behind
+[19:18:05] [Worker-Main-4/WARN]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[19:18:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[19:18:30] [Server thread/INFO]: Named entity class_1642['Alchemist Ghastly Ender Zombie'/13210, l='ServerLevel[world]', x=-940.08, y=99.00, z=-230.49] died: Alchemist Ghastly Ender Zombie was slain by Purificador25
+[19:18:47] [Worker-Main-4/WARN]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[19:18:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[19:19:21] [Server thread/WARN]: Purificador25 moved too quickly! -9.797588695322247,-0.5061351021062137,2.78816468067825
+[19:19:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2252ms or 45 ticks behind
+[19:19:59] [Worker-Main-20/WARN]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[19:20:05] [Server thread/INFO]: Purificador25 has made the advancement [Smashing Success]
+[19:21:59] [Worker-Main-4/WARN]: Tried to access a block entity before it was created. class_2338{x=-873, y=-3, z=242}
+[19:21:59] [Worker-Main-4/WARN]: Tried to access a block entity before it was created. class_2338{x=-873, y=-3, z=242}
+[19:22:20] [Worker-Main-20/WARN]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[19:22:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[19:22:30] [Worker-Main-10/WARN]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
+[19:22:39] [Worker-Main-2/WARN]: Empty height range: [-33 absolute--50 absolute]
+[19:22:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[19:23:14] [Worker-Main-20/WARN]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[19:23:15] [Worker-Main-10/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[19:23:15] [Worker-Main-10/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:table",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[19:23:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5915ms or 118 ticks behind
+[19:23:20] [Worker-Main-10/WARN]: Tried to access a block entity before it was created. class_2338{x=-1126, y=226, z=24}
+[19:23:20] [Worker-Main-10/WARN]: Tried to access a block entity before it was created. class_2338{x=-1126, y=226, z=24}
