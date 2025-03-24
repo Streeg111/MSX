@@ -550,6 +550,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-03-24 04:50:08 +0000"
+    },
+    "done": true
+  },
   "phantasm:recipes/tools/crystalline_shovel": {
     "criteria": {
       "has_stick": "2025-03-24 04:13:12 +0000"
@@ -577,6 +583,12 @@
   "betternether:recipes/decorations/crimson_chair": {
     "criteria": {
       "has_stick": "2025-03-24 04:13:12 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/calcite_pillar_trim": {
+    "criteria": {
+      "has_calcite_pillar_trim": "2025-03-24 04:48:54 +0000"
     },
     "done": true
   },
@@ -760,6 +772,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/end_stone_brick_weathered_from_moss": {
+    "criteria": {
+      "has_moss_block": "2025-03-24 04:49:44 +0000"
+    },
+    "done": true
+  },
   "xercapaint:recipes/item_easel": {
     "criteria": {
       "has_item": "2025-03-24 04:13:12 +0000"
@@ -859,6 +877,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/rocky_dirt": {
     "criteria": {
       "has_dirt": "2025-03-24 04:03:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-03-24 04:47:30 +0000"
     },
     "done": true
   },
@@ -1117,6 +1141,12 @@
   "mcda:recipes/base_armors/mystery_armor_white_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-03-24 04:21:03 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_moss": {
+    "criteria": {
+      "has_item": "2025-03-24 04:49:44 +0000"
     },
     "done": true
   },
@@ -1384,6 +1414,12 @@
     },
     "done": true
   },
+  "twigs:recipes/calcite/polished_calcite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-03-24 04:48:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-03-24 04:07:10 +0000"
@@ -1435,6 +1471,12 @@
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2025-03-24 04:15:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-03-24 04:47:30 +0000"
     },
     "done": true
   },
@@ -1516,6 +1558,18 @@
     },
     "done": true
   },
+  "twigs:recipes/calcite/calcite_slab": {
+    "criteria": {
+      "has_item": "2025-03-24 04:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-03-24 04:50:08 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/mushroom_fir_taburet": {
     "criteria": {
       "has_stick": "2025-03-24 04:13:12 +0000"
@@ -1585,6 +1639,12 @@
   "mcda:recipes/base_armors/grim_armor_leggings": {
     "criteria": {
       "has_leather": "2025-03-24 04:17:49 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2025-03-24 04:48:54 +0000"
     },
     "done": true
   },
@@ -1723,6 +1783,12 @@
   "mcdw:recipes/shortbows/bow_purple_storm": {
     "criteria": {
       "has_string": "2025-03-24 04:17:44 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/mossy_bricks_from_moss_block": {
+    "criteria": {
+      "has_item": "2025-03-24 04:49:44 +0000"
     },
     "done": true
   },
@@ -2614,6 +2680,12 @@
     },
     "done": true
   },
+  "vinery:recipes/loam": {
+    "criteria": {
+      "has_clay_ball": "2025-03-24 04:47:30 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/flame_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-03-24 04:07:12 +0000"
@@ -2623,6 +2695,12 @@
   "smallships:recipes/transportation/dark_oak_drakkar": {
     "criteria": {
       "in_water": "2025-03-24 04:41:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-03-24 04:50:08 +0000"
     },
     "done": true
   },
@@ -3064,6 +3142,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-03-24 04:49:44 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/mossy_glowshroom_taburet": {
     "criteria": {
       "has_stick": "2025-03-24 04:13:12 +0000"
@@ -3163,6 +3247,12 @@
   "betterend:recipes/misc/luck_of_sea_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-03-24 04:07:11 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/polished_calcite_bricks_from_calcite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-03-24 04:48:54 +0000"
     },
     "done": true
   },
@@ -3718,6 +3808,12 @@
     },
     "done": true
   },
+  "twigs:recipes/calcite/calcite_wall": {
+    "criteria": {
+      "has_item": "2025-03-24 04:48:54 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/riptide_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-03-24 04:07:11 +0000"
@@ -4179,6 +4275,12 @@
   "mcdw:recipes/crossbows/crossbow_harp": {
     "criteria": {
       "has_gold_ingot": "2025-03-24 04:07:10 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2025-03-24 04:48:54 +0000"
     },
     "done": true
   },
@@ -4818,6 +4920,12 @@
     },
     "done": true
   },
+  "twigs:recipes/calcite/polished_calcite": {
+    "criteria": {
+      "has_item": "2025-03-24 04:48:54 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/dark_oak_chair": {
     "criteria": {
       "has_stick": "2025-03-24 04:13:12 +0000"
@@ -4881,6 +4989,12 @@
   "handcrafted:recipes/misc/cherry_corner_trim": {
     "criteria": {
       "has_cherry_corner_trim": "2025-03-24 04:28:44 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_stairs": {
+    "criteria": {
+      "has_item": "2025-03-24 04:48:54 +0000"
     },
     "done": true
   },
@@ -5200,6 +5314,12 @@
     "criteria": {
       "has_the_recipe": "2025-03-24 04:41:29 +0000",
       "in_water": "2025-03-24 04:41:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-03-24 04:49:44 +0000"
     },
     "done": true
   },
@@ -5563,6 +5683,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/calcite_corner_trim": {
+    "criteria": {
+      "has_calcite_corner_trim": "2025-03-24 04:48:54 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/daggers/dagger_tempest_knife": {
     "criteria": {
       "has_iron_ingot": "2025-03-24 04:21:03 +0000"
@@ -5629,6 +5755,12 @@
     },
     "done": true
   },
+  "healpgood:heart_breaker": {
+    "criteria": {
+      "requirement": "2025-03-24 04:48:48 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/cherry_galley": {
     "criteria": {
       "in_water": "2025-03-24 04:41:29 +0000"
@@ -5656,6 +5788,12 @@
   "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-03-24 04:10:25 +0000"
+    },
+    "done": true
+  },
+  "slayersbeasts:recipes/building_blocks/peat": {
+    "criteria": {
+      "has_moss": "2025-03-24 04:49:44 +0000"
     },
     "done": true
   },
@@ -5695,6 +5833,12 @@
     },
     "done": true
   },
+  "twigs:recipes/calcite/calcite_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2025-03-24 04:48:54 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_broadsword": {
     "criteria": {
       "has_iron_ingot": "2025-03-24 04:21:03 +0000"
@@ -5704,6 +5848,12 @@
   "betterend:recipes/misc/power_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-03-24 04:07:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-03-24 04:49:44 +0000"
     },
     "done": true
   },
