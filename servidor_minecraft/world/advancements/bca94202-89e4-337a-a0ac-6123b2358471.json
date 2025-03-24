@@ -419,7 +419,8 @@
       "minecraft:dark_forest": "2025-03-24 04:36:17 +0000",
       "minecraft:stony_shore": "2025-03-24 04:05:13 +0000",
       "minecraft:lush_caves": "2025-03-24 04:35:21 +0000",
-      "minecraft:ocean": "2025-03-24 20:31:55 +0000"
+      "minecraft:ocean": "2025-03-24 20:31:55 +0000",
+      "minecraft:savanna": "2025-03-24 21:25:16 +0000"
     },
     "done": false
   },
@@ -1558,6 +1559,7 @@
       "minecraft:pillager": "2025-03-24 19:03:32 +0000",
       "minecraft:skeleton": "2025-03-24 19:27:47 +0000",
       "minecraft:vindicator": "2025-03-24 19:39:13 +0000",
+      "minecraft:spider": "2025-03-24 21:35:09 +0000",
       "minecraft:zombie": "2025-03-24 04:09:27 +0000",
       "minecraft:zombie_villager": "2025-03-24 19:28:31 +0000"
     },
@@ -6243,6 +6245,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-24 21:32:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-03-24 21:33:39 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/kitchen_hood": {
     "criteria": {
       "has_kitchen_hood": "2025-03-24 19:52:15 +0000"
@@ -6405,6 +6419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-03-24 21:33:39 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/crafting_items/gemstone_white": {
     "criteria": {
       "has_quartz": "2025-03-24 19:02:52 +0000"
@@ -6486,6 +6506,12 @@
   "regions_unexplored:recipes/building_blocks/mossy_stone_from_blasting_mossy_cobblestone": {
     "criteria": {
       "has_mossy_cobblestone": "2025-03-24 19:45:59 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_ember": {
+    "criteria": {
+      "has_core_specification_item": "2025-03-24 21:32:32 +0000"
     },
     "done": true
   },
@@ -7264,6 +7290,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-03-24 21:33:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-03-24 19:02:52 +0000"
@@ -7321,6 +7353,12 @@
   "mcda:recipes/base_armors/piglin_armor_boots": {
     "criteria": {
       "has_bone": "2025-03-24 19:09:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-03-24 21:33:15 +0000"
     },
     "done": true
   },
@@ -7510,6 +7548,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-03-24 21:34:31 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/end_lotus_hanging_sign": {
     "criteria": {
       "has_chain": "2025-03-24 20:44:02 +0000"
@@ -7543,6 +7587,12 @@
   "twigs:recipes/amethyst_blocks/cut_amethyst_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_item": "2025-03-24 21:21:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-03-24 21:33:39 +0000"
     },
     "done": true
   },
@@ -7687,6 +7737,12 @@
   "mcdw:recipes/swords/sword_diamond_sword_var": {
     "criteria": {
       "has_diamond": "2025-03-24 19:11:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-03-24 21:33:39 +0000"
     },
     "done": true
   },
@@ -7864,6 +7920,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-24 21:32:32 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_tile_slab_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-03-24 19:36:10 +0000"
@@ -7891,6 +7953,12 @@
   "chimes:recipes/decorations/amethyst_chimes": {
     "criteria": {
       "has_planks": "2025-03-24 20:05:49 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/compacted_dripstone": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-03-24 21:34:31 +0000"
     },
     "done": true
   },
@@ -8074,6 +8142,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_lightning_harp": {
+    "criteria": {
+      "has_creeper_head": "2025-03-24 21:33:15 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_dining_bench": {
     "criteria": {
       "has_oak_dining_bench": "2025-03-24 19:41:01 +0000"
@@ -8191,6 +8265,12 @@
   "graveyard:graveyard/kill_graveyard_mob": {
     "criteria": {
       "ghoul": "2025-03-24 20:04:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-24 21:32:32 +0000"
     },
     "done": true
   },
@@ -8884,6 +8964,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-03-24 21:33:39 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/cypress_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-24 20:31:59 +0000"
@@ -8935,6 +9021,12 @@
   "minecells:book/mobs/grenadier": {
     "criteria": {
       "requirement": "2025-03-24 20:44:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-03-24 21:33:39 +0000"
     },
     "done": true
   },
