@@ -3,8 +3,8 @@
   "enableMod": true,
   "showNCRButton": false,
   "showReloadButton": false,
-  "verifiedIconEnabled": false,
-  "showServerSafety": false,
+  "verifiedIconEnabled": true,
+  "showServerSafety": true,
   "hideInsecureMessageIndicators": true,
   "hideModifiedMessageIndicators": true,
   "hideSystemMessageIndicators": true,
@@ -15,6 +15,6 @@
   "disableTelemetry": true,
   "removeTelemetryButton": true,
   "demandOnServer": false,
-  "verifiedIconOffsetX": 0,
+  "verifiedIconOffsetX": -15,
   "verifiedIconOffsetY": 0
 }

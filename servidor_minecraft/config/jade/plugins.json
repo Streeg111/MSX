@@ -3,6 +3,7 @@
     "item_storage.show_name_amount": 5,
     "furnace": true,
     "harvest_tool.show_unbreakable": false,
+    "travelerscompass": true,
     "animal_owner": true,
     "animal_owner.fetch_names": true,
     "harvest_tool.effective_tool": true,
@@ -64,43 +65,10 @@
     "registry_name": "OFF",
     "mod_name": true
   },
-  "apotheosis": {
-    "adventure": true,
-    "ench": true,
-    "spawner": true
+  "nameplate": {
+    "mob_level_info": true
   },
-  "ars_nouveau": {
-    "mob_jar": true
-  },
-  "autoleveling": {
-    "level": true
-  },
-  "delightful": {
-    "crop_progress": true,
-    "pie_icons": true
-  },
-  "twilightforest": {
-    "quest_ram_wool": true
-  },
-  "jadecolonies": {
-    "colony.citizens": true,
-    "colony.pack": true,
-    "colony.visitor_cost": true,
-    "colony.colonist": true,
-    "domum.materials": true
-  },
-  "supplementaries": {
-    "hat_stand": true
-  },
-  "waystones": {
-    "waystone": true
-  },
-  "corpse": {
-    "corpse": true
-  },
-  "drinkbeer": {
-    "mixed_beer": true,
-    "trade_box": true,
-    "beer_barrel": true
+  "globalxp": {
+    "display": true
   }
 }

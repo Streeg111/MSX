@@ -102,15 +102,5 @@
       "item_id_regex": "sword|blade",
       "weapon_attributes": "bettercombat:sword"
     }
-  ],
-  "ranged_weapons": [
-    {
-      "item_id_regex": "two_handed_crossbow",
-      "weapon_attributes": "bettercombat:crossbow_two_handed_heavy"
-    },
-    {
-      "item_id_regex": "two_handed_bow",
-      "weapon_attributes": "bettercombat:bow_two_handed_heavy"
-    }
   ]
 }
