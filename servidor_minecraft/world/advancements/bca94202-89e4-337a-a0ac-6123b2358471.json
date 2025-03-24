@@ -6291,6 +6291,12 @@
     },
     "done": true
   },
+  "inmis:baby_backpack": {
+    "criteria": {
+      "backpack": "2025-03-24 19:57:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
       "has_deepslate_bricks": "2025-03-24 19:10:29 +0000"
@@ -6459,6 +6465,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-03-24 19:55:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-03-24 19:41:01 +0000"
@@ -6585,6 +6597,12 @@
       "meadow:umbra_wool": "2025-03-24 19:22:34 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-03-24 19:55:35 +0000"
+    },
+    "done": true
   },
   "variantshields:recipes/combat/oak_diamond_shield": {
     "criteria": {
@@ -6784,6 +6802,12 @@
     },
     "done": true
   },
+  "inmis:frayed_backpack": {
+    "criteria": {
+      "backpack": "2025-03-24 19:59:00 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_bench": {
     "criteria": {
       "has_dark_oak_bench": "2025-03-24 19:52:52 +0000"
@@ -6817,6 +6841,12 @@
   "mcda:recipes/base_armors/reinforced_mail_chestplate": {
     "criteria": {
       "has_iron_chestplate": "2025-03-24 19:09:57 +0000"
+    },
+    "done": true
+  },
+  "inmis:plated_backpack": {
+    "criteria": {
+      "backpack": "2025-03-24 19:59:52 +0000"
     },
     "done": true
   },
@@ -6859,6 +6889,12 @@
   "variantshields:recipes/combat/cherry_diamond_shield": {
     "criteria": {
       "has_diamond": "2025-03-24 19:11:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-24 19:55:35 +0000"
     },
     "done": true
   },
@@ -7192,6 +7228,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-03-24 19:55:11 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_fancy_bed": {
     "criteria": {
       "has_oak_fancy_bed": "2025-03-24 19:41:01 +0000"
@@ -7324,6 +7366,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-03-24 19:55:11 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/oak_support": {
     "criteria": {
       "has_plank": "2025-03-24 19:41:01 +0000"
@@ -7339,6 +7387,12 @@
   "regions_unexplored:recipes/decorations/blackwood_fence": {
     "criteria": {
       "has_blackwood_planks": "2025-03-24 19:30:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-03-24 19:55:11 +0000"
     },
     "done": true
   },
@@ -7387,6 +7441,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-03-24 19:31:10 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-03-24 19:53:41 +0000"
     },
     "done": true
   },
@@ -7441,6 +7501,12 @@
   "mcda:recipes/upgrade_cores/upgrade_core_highland": {
     "criteria": {
       "has_core_specification_item": "2025-03-24 19:52:52 +0000"
+    },
+    "done": true
+  },
+  "inmis:recipes/gilded_backpack": {
+    "criteria": {
+      "has_plated_backpack": "2025-03-24 19:59:52 +0000"
     },
     "done": true
   },
@@ -7642,6 +7708,12 @@
     },
     "done": true
   },
+  "inmis:recipes/plated_backpack": {
+    "criteria": {
+      "has_frayed_backpack": "2025-03-24 19:59:00 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-03-24 19:36:10 +0000"
@@ -7741,6 +7813,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-03-24 19:41:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-03-24 19:55:35 +0000"
     },
     "done": true
   },
