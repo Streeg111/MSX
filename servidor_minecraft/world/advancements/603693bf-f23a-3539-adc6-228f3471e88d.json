@@ -9749,6 +9749,12 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/verdant_robe_helmet": {
+    "criteria": {
+      "has_evocation_robe_helmet": "2025-03-25 15:51:03 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/kitchen_hood": {
     "criteria": {
       "has_kitchen_hood": "2025-03-25 15:15:58 +0000"
@@ -9776,6 +9782,12 @@
   "mcda:recipes/base_armors/goat_gear_leggings": {
     "criteria": {
       "has_leather_leggings": "2025-03-25 15:14:49 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/ember_robe_helmet": {
+    "criteria": {
+      "has_evocation_robe_helmet": "2025-03-25 15:51:03 +0000"
     },
     "done": true
   },
