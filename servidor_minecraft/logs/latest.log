@@ -7088,3 +7088,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [15:25:28] [Worker-Main-28/WARN]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
 [15:25:49] [Worker-Main-30/WARN]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
 [15:29:21] [Server thread/INFO]: There are 1 of a max of 10 players online: Purificador25
+[15:35:52] [Server thread/INFO]: [Purificador25: Set own game mode to Creative Mode]
+[15:36:03] [Server thread/INFO]: [Purificador25: Set own game mode to Survival Mode]
+[15:44:28] [Worker-Main-51/WARN]: Tried to access a block entity before it was created. class_2338{x=-2176, y=-54, z=-3836}
+[15:44:28] [Worker-Main-51/WARN]: Tried to access a block entity before it was created. class_2338{x=-2176, y=-54, z=-3836}
+[15:44:54] [Worker-Main-28/INFO]: [STDOUT]: []
+[15:44:54] [Worker-Main-30/WARN]: Tried to access a block entity before it was created. class_2338{x=-2265, y=-53, z=-3777}
+[15:44:54] [Worker-Main-30/WARN]: Tried to access a block entity before it was created. class_2338{x=-2265, y=-53, z=-3777}
+[15:45:06] [Worker-Main-51/WARN]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[15:45:18] [Server thread/WARN]: Purificador25 moved too quickly! -10.440331818596405,0.7254000306129456,1.4511282061284874
+[15:45:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2287ms or 45 ticks behind
