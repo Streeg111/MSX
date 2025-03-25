@@ -402,6 +402,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "mauve_hills": "2025-03-25 05:23:39 +0000",
       "pine_taiga": "2025-03-24 19:17:04 +0000",
       "blackwood_taiga": "2025-03-24 04:06:38 +0000",
       "highland_fields": "2025-03-24 19:27:58 +0000",
@@ -414,6 +415,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "mauve_hills": "2025-03-25 05:23:39 +0000",
       "pine_taiga": "2025-03-24 19:17:04 +0000",
       "blackwood_taiga": "2025-03-24 04:06:38 +0000",
       "highland_fields": "2025-03-24 19:27:58 +0000",
@@ -9004,6 +9006,12 @@
   "bewitchment:recipes/decorations/juniper_poppet_shelf": {
     "criteria": {
       "has_item": "2025-03-25 05:01:07 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2025-03-25 05:21:02 +0000"
     },
     "done": true
   },
