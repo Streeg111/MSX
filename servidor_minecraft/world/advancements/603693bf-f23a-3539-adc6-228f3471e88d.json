@@ -8953,6 +8953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-03-25 06:21:21 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/spruce_table": {
     "criteria": {
       "has_bamboo": "2025-03-25 05:42:22 +0000"
@@ -8995,6 +9001,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-03-25 06:21:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-03-25 06:20:35 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_corner_trim": {
     "criteria": {
       "has_spruce_corner_trim": "2025-03-25 05:42:22 +0000"
@@ -9004,6 +9022,12 @@
   "handcrafted:recipes/misc/spruce_desk": {
     "criteria": {
       "has_spruce_desk": "2025-03-25 05:42:22 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/stackable_log": {
+    "criteria": {
+      "has_oak_log": "2025-03-25 06:20:35 +0000"
     },
     "done": true
   },
@@ -9022,6 +9046,18 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-03-25 05:42:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-03-25 06:02:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-25 06:21:21 +0000"
     },
     "done": true
   },
@@ -9133,6 +9169,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
+    "criteria": {
+      "has_log": "2025-03-25 06:20:35 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/jungle_poppet_shelf": {
     "criteria": {
       "has_item": "2025-03-25 05:01:07 +0000"
@@ -9142,6 +9184,12 @@
   "variantshields:recipes/combat/spruce_wood_shield": {
     "criteria": {
       "has_plank": "2025-03-25 05:42:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-25 06:20:35 +0000"
     },
     "done": true
   },
@@ -9160,6 +9208,18 @@
   "decorative_blocks:recipes/decorative_blocks.general/spruce_support": {
     "criteria": {
       "has_plank": "2025-03-25 05:42:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-03-25 06:21:21 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/oak_palisade": {
+    "criteria": {
+      "has_log": "2025-03-25 06:20:35 +0000"
     },
     "done": true
   },
@@ -9190,6 +9250,12 @@
   "handcrafted:recipes/misc/spruce_nightstand": {
     "criteria": {
       "has_spruce_nightstand": "2025-03-25 05:42:22 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grapevine_stem": {
+    "criteria": {
+      "has_oak_log": "2025-03-25 06:20:35 +0000"
     },
     "done": true
   },
