@@ -7009,3 +7009,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [14:53:00] [Worker-Main-52/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
 [14:53:36] [Worker-Main-29/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
 [14:53:36] [Worker-Main-29/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
+[14:57:46] [Worker-Main-29/WARN]: Empty height range: [-33 absolute--50 absolute]
+[14:57:47] [Server thread/WARN]: Purificador25 moved too quickly! -9.907440648896,1.5644703076359434,2.1900004627727867
+[14:57:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4061ms or 81 ticks behind
+[15:02:08] [Server thread/INFO]: Purificador25 has made the advancement [Hot Stuff]
+[15:04:00] [Worker-Main-51/WARN]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[15:04:18] [Server thread/INFO]: Purificador25 lost connection: Disconnected
+[15:04:18] [Server thread/INFO]: Purificador25 left the game
