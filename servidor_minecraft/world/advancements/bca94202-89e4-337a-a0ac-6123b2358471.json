@@ -363,7 +363,9 @@
       "mauve_hills": "2025-03-25 05:18:22 +0000",
       "silver_birch_forest": "2025-03-25 06:11:10 +0000",
       "pine_taiga": "2025-03-24 20:31:49 +0000",
+      "grassy_beach": "2025-03-25 06:23:45 +0000",
       "blackwood_taiga": "2025-03-24 04:13:00 +0000",
+      "ochard": "2025-03-25 06:23:49 +0000",
       "highland_fields": "2025-03-25 05:22:35 +0000",
       "magnolia_highlands": "2025-03-25 05:19:30 +0000",
       "sparse_redwoods": "2025-03-24 04:00:06 +0000",
@@ -378,7 +380,9 @@
       "mauve_hills": "2025-03-25 05:18:22 +0000",
       "silver_birch_forest": "2025-03-25 06:11:10 +0000",
       "pine_taiga": "2025-03-24 20:31:49 +0000",
+      "grassy_beach": "2025-03-25 06:23:45 +0000",
       "blackwood_taiga": "2025-03-24 04:13:00 +0000",
+      "ochard": "2025-03-25 06:23:49 +0000",
       "highland_fields": "2025-03-25 05:22:35 +0000",
       "magnolia_highlands": "2025-03-25 05:19:30 +0000",
       "sparse_redwoods": "2025-03-24 04:00:06 +0000",
@@ -428,6 +432,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-03-25 05:38:48 +0000",
       "minecraft:deep_ocean": "2025-03-24 20:32:22 +0000",
+      "minecraft:sunflower_plains": "2025-03-25 06:21:32 +0000",
       "minecraft:savanna_plateau": "2025-03-25 05:17:35 +0000",
       "minecraft:beach": "2025-03-24 04:06:17 +0000",
       "minecraft:dark_forest": "2025-03-24 04:36:17 +0000",
@@ -9781,9 +9786,33 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-03-25 06:25:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-25 06:25:18 +0000"
+    },
+    "done": true
+  },
+  "mythicmobs:kobold_trade": {
+    "criteria": {
+      "requirement": "2025-03-25 06:25:03 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/basalt_brick_stonecutting": {
     "criteria": {
       "has_block.minecraft.basalt": "2025-03-25 05:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-03-25 06:22:25 +0000"
     },
     "done": true
   },
@@ -9793,9 +9822,45 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-25 06:25:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-03-25 06:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2025-03-25 06:22:06 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/archers_helmet": {
+    "criteria": {
+      "has_leather_helmet": "2025-03-25 06:22:21 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/basalt_brick_slabs_stonecutting": {
     "criteria": {
       "has_block.minecraft.basalt": "2025-03-25 05:47:23 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/prismarine": {
+    "criteria": {
+      "has_item": "2025-03-25 06:22:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-03-25 06:22:25 +0000"
     },
     "done": true
   },
@@ -9805,15 +9870,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-03-25 06:22:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/stalagnate_bowl_mushroom": {
+    "criteria": {
+      "has_red_mushroom": "2025-03-25 06:25:18 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/scale_mail_leggings": {
     "criteria": {
       "has_leather_leggings": "2025-03-25 06:20:21 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-03-25 06:22:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-03-25 06:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-03-25 06:25:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-25 06:25:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-03-25 06:22:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-03-25 06:22:06 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/basalt_brick_stairs_stonecutting": {
     "criteria": {
       "has_block.minecraft.basalt": "2025-03-25 05:47:23 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/climbing_gear_helmet": {
+    "criteria": {
+      "has_leather_helmet": "2025-03-25 06:22:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-03-25 06:22:06 +0000"
     },
     "done": true
   },
@@ -9835,9 +9960,69 @@
     },
     "done": true
   },
+  "twigs:recipes/silt/silt_from_sand": {
+    "criteria": {
+      "has_item": "2025-03-25 06:22:34 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/building_blocks/prismarine_torch": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-03-25 06:22:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-03-25 05:47:23 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/prismarine_witch_altar": {
+    "criteria": {
+      "has_item": "2025-03-25 06:22:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-03-25 06:22:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/wall_red_brown": {
+    "criteria": {
+      "has_red_mushroom": "2025-03-25 06:25:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-03-25 06:22:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-03-25 06:25:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2025-03-25 06:22:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-03-25 06:22:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-03-25 06:22:25 +0000"
     },
     "done": true
   },
@@ -9850,6 +10035,18 @@
   "mcda:recipes/unique_armors/archers_leggings": {
     "criteria": {
       "has_leather_leggings": "2025-03-25 06:20:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-03-25 06:25:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2025-03-25 06:22:06 +0000"
     },
     "done": true
   },
