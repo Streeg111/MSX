@@ -6994,3 +6994,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [14:39:42] [Server thread/INFO]: Villager class_1646['Leonard'/1882, l='ServerLevel[world]', x=-502.43, y=124.00, z=-0.33] died, message: 'Leonard was slain by Zombie'
 [14:39:42] [Server thread/INFO]: Named entity class_1646['Leonard'/1882, l='ServerLevel[world]', x=-502.43, y=124.00, z=-0.33] died: Leonard was slain by Zombie
 [14:39:50] [Server thread/INFO]: Named entity class_1641['Leonard'/2551, l='ServerLevel[world]', x=-492.56, y=124.00, z=-9.63] died: Leonard was slain by Iron Golem
+[14:44:59] [Server thread/INFO]: There are 1 of a max of 10 players online: Purificador25
+[14:48:07] [Server thread/INFO]: Villager class_1646['Ruthanne'/1915, l='ServerLevel[world]', x=-544.70, y=125.00, z=-13.40] died, message: 'Ruthanne was slain by Zombie'
+[14:48:07] [Server thread/INFO]: Named entity class_1646['Ruthanne'/1915, l='ServerLevel[world]', x=-544.70, y=125.00, z=-13.40] died: Ruthanne was slain by Zombie
+[14:51:31] [Server thread/INFO]: Made Purificador25 a server operator
+[14:51:43] [Server thread/INFO]: [Purificador25: Teleported Purificador25 to -1401.500000, 87.500000, -2848.500000]
+[14:51:46] [Server thread/INFO]: [Purificador25: Set own game mode to Creative Mode]
+[14:51:56] [Server thread/INFO]: Purificador25 claimed a grave belonging to Purificador25 at -1401, 87, -2849, minecraft:overworld
+[14:51:57] [Server thread/INFO]: [Purificador25: Set own game mode to Survival Mode]
+[14:51:59] [Server thread/INFO]: [Purificador25: Set own game mode to Spectator Mode]
+[14:52:03] [Server thread/INFO]: [Purificador25: Set own game mode to Survival Mode]
+[14:52:32] [Server thread/INFO]: [Purificador25: Gamerule keepInventory is now set to: true]
+[14:52:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[14:53:00] [Worker-Main-52/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[14:53:36] [Worker-Main-29/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
+[14:53:36] [Worker-Main-29/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
