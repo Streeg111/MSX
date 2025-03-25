@@ -7008,3 +7008,29 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [06:32:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5759ms or 115 ticks behind
 [06:32:38] [Server thread/INFO]: There are 1 of a max of 10 players online: Purificador25
 [06:33:51] [Server thread/INFO]: Purificador25 has made the advancement [Fallen Sorcerer]
+[06:35:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[06:35:58] [Worker-Main-38/WARN]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[06:36:49] [Worker-Main-11/WARN]: Tried to access a block entity before it was created. class_2338{x=-1520, y=80, z=-2970}
+[06:36:49] [Worker-Main-11/WARN]: Tried to access a block entity before it was created. class_2338{x=-1520, y=80, z=-2970}
+[06:36:53] [Worker-Main-38/WARN]: Skipping Entity with id create:super_glue
+[06:36:53] [Worker-Main-38/WARN]: Skipping Entity with id create:super_glue
+[06:36:53] [Worker-Main-38/WARN]: Skipping Entity with id create:super_glue
+[06:36:53] [Worker-Main-38/WARN]: Skipping Entity with id create:super_glue
+[06:36:57] [Worker-Main-38/WARN]: Skipping Entity with id create:super_glue
+[06:36:57] [Worker-Main-38/WARN]: Skipping Entity with id create:super_glue
+[06:36:57] [Worker-Main-38/WARN]: Skipping Entity with id create:super_glue
+[06:36:57] [Worker-Main-38/WARN]: Skipping Entity with id create:super_glue
+[06:36:57] [Worker-Main-38/WARN]: Skipping Entity with id create:super_glue
+[06:36:57] [Worker-Main-38/WARN]: Skipping Entity with id create:super_glue
+[06:36:57] [Worker-Main-37/WARN]: Skipping Entity with id create:super_glue
+[06:36:57] [Worker-Main-37/WARN]: Skipping Entity with id create:super_glue
+[06:36:57] [Worker-Main-37/WARN]: Skipping Entity with id create:super_glue
+[06:36:57] [Worker-Main-37/WARN]: Skipping Entity with id create:super_glue
+[06:36:57] [Worker-Main-37/WARN]: Skipping Entity with id create:super_glue
+[06:36:57] [Worker-Main-37/WARN]: Skipping Entity with id create:super_glue
+[06:38:07] [Worker-Main-38/WARN]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[06:41:25] [Server thread/INFO]: Purificador25 was blown up by Creeper
+[06:41:28] [Server thread/INFO]: [STDOUT]: copyFrom?
+[06:41:28] [Server thread/INFO]: [STDOUT]: alive?
+[06:41:33] [Server thread/INFO]: Purificador25 lost connection: Disconnected
+[06:41:33] [Server thread/INFO]: Purificador25 left the game
