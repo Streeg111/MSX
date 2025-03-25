@@ -559,9 +559,11 @@
       "minecraft:creeper": "2025-03-24 04:34:42 +0000",
       "minecraft:evoker": "2025-03-24 19:11:34 +0000",
       "minecraft:witch": "2025-03-24 19:11:27 +0000",
+      "minecraft:husk": "2025-03-25 15:14:04 +0000",
       "minecraft:cave_spider": "2025-03-24 21:17:22 +0000",
       "minecraft:vex": "2025-03-24 19:11:28 +0000",
       "minecraft:zombie": "2025-03-24 04:09:29 +0000",
+      "minecraft:drowned": "2025-03-25 15:24:18 +0000",
       "minecraft:zombie_villager": "2025-03-24 18:51:07 +0000"
     },
     "done": false
@@ -1481,6 +1483,7 @@
     "criteria": {
       "cooked_porkchop": "2025-03-24 19:24:22 +0000",
       "sweet_berries": "2025-03-24 04:18:06 +0000",
+      "cooked_beef": "2025-03-25 15:20:21 +0000",
       "apple": "2025-03-24 04:15:03 +0000",
       "bread": "2025-03-24 04:07:01 +0000",
       "golden_apple": "2025-03-24 20:13:23 +0000",
@@ -6912,6 +6915,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "potato": "2025-03-24 19:06:43 +0000",
+      "nether_wart": "2025-03-25 15:29:09 +0000",
       "wheat": "2025-03-24 19:02:32 +0000"
     },
     "done": false
@@ -9529,15 +9533,57 @@
     },
     "done": true
   },
-  "mcda:recipes/base_armors/sprout_armor_boots": {
+  "mcda:recipes/upgrade_cores/upgrade_core_depth": {
     "criteria": {
-      "has_nether_wart": "2025-03-25 15:02:27 +0000"
+      "has_core_specification_item": "2025-03-25 14:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-03-25 14:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-03-25 14:53:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-25 14:53:03 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:temples": {
+    "criteria": {
+      "in_temple_taiga": "2025-03-25 14:53:32 +0000"
+    },
+    "done": false
+  },
+  "dramaticdoors:recipes/redstone/short_iron_door": {
+    "criteria": {
+      "has_items": "2025-03-25 15:00:15 +0000"
+    },
+    "done": true
+  },
+  "dramaticdoors:recipes/redstone/tall_iron_door": {
+    "criteria": {
+      "has_items": "2025-03-25 15:00:15 +0000"
     },
     "done": true
   },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-03-25 15:02:08 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/sprout_armor_boots": {
+    "criteria": {
+      "has_nether_wart": "2025-03-25 15:02:27 +0000"
     },
     "done": true
   },
@@ -9548,6 +9594,60 @@
     "done": true
   },
   "mcda:recipes/base_armors/sprout_armor_leggings": {
+    "criteria": {
+      "has_nether_wart": "2025-03-25 15:02:27 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/stalagnate_bowl_wart": {
+    "criteria": {
+      "has_nether_wart": "2025-03-25 15:02:27 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/living_vines_armor_leggings": {
+    "criteria": {
+      "has_nether_wart": "2025-03-25 15:02:27 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/living_vines_armor_chestplate": {
+    "criteria": {
+      "has_nether_wart": "2025-03-25 15:02:27 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/living_vines_armor_helmet": {
+    "criteria": {
+      "has_nether_wart": "2025-03-25 15:02:27 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/sprout_armor_helmet": {
+    "criteria": {
+      "has_nether_wart": "2025-03-25 15:02:27 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/sprout_armor_chestplate": {
+    "criteria": {
+      "has_nether_wart": "2025-03-25 15:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-03-25 15:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-03-25 15:02:27 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/herbal_medicine": {
     "criteria": {
       "has_nether_wart": "2025-03-25 15:02:27 +0000"
     },
@@ -9565,18 +9665,6 @@
     },
     "done": true
   },
-  "betternether:recipes/food/stalagnate_bowl_wart": {
-    "criteria": {
-      "has_nether_wart": "2025-03-25 15:02:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2025-03-25 14:53:03 +0000"
-    },
-    "done": true
-  },
   "mcdw:recipes/crossbows/crossbow_soul_hunter": {
     "criteria": {
       "has_soul_sand": "2025-03-25 15:02:29 +0000"
@@ -9586,18 +9674,6 @@
   "mcda:recipes/base_armors/soul_robe_leggings": {
     "criteria": {
       "has_soul_sand": "2025-03-25 15:02:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2025-03-25 14:53:03 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_depth": {
-    "criteria": {
-      "has_core_specification_item": "2025-03-25 14:51:54 +0000"
     },
     "done": true
   },
@@ -9619,33 +9695,15 @@
     },
     "done": true
   },
-  "mcda:recipes/base_armors/living_vines_armor_leggings": {
-    "criteria": {
-      "has_nether_wart": "2025-03-25 15:02:27 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/brick_pot": {
     "criteria": {
       "has_soul_sand": "2025-03-25 15:02:29 +0000"
     },
     "done": true
   },
-  "mcda:recipes/base_armors/living_vines_armor_chestplate": {
-    "criteria": {
-      "has_nether_wart": "2025-03-25 15:02:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-03-25 15:02:29 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/living_vines_armor_helmet": {
-    "criteria": {
-      "has_nether_wart": "2025-03-25 15:02:27 +0000"
     },
     "done": true
   },
@@ -9661,27 +9719,9 @@
     },
     "done": true
   },
-  "mcda:recipes/base_armors/sprout_armor_helmet": {
-    "criteria": {
-      "has_nether_wart": "2025-03-25 15:02:27 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/lost_soul": {
     "criteria": {
       "has_item": "2025-03-25 15:02:29 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/sprout_armor_chestplate": {
-    "criteria": {
-      "has_nether_wart": "2025-03-25 15:02:27 +0000"
-    },
-    "done": true
-  },
-  "dramaticdoors:recipes/redstone/short_iron_door": {
-    "criteria": {
-      "has_items": "2025-03-25 15:00:15 +0000"
     },
     "done": true
   },
@@ -9691,45 +9731,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2025-03-25 14:51:54 +0000"
-    },
-    "done": true
-  },
-  "dramaticdoors:recipes/redstone/tall_iron_door": {
-    "criteria": {
-      "has_items": "2025-03-25 15:00:15 +0000"
-    },
-    "done": true
-  },
-  "repurposed_structures:temples": {
-    "criteria": {
-      "in_temple_taiga": "2025-03-25 14:53:32 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2025-03-25 15:02:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
-    "criteria": {
-      "has_nether_wart": "2025-03-25 15:02:27 +0000"
-    },
-    "done": true
-  },
   "mcda:recipes/base_armors/soul_robe_boots": {
     "criteria": {
       "has_soul_sand": "2025-03-25 15:02:29 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/food/herbal_medicine": {
-    "criteria": {
-      "has_nether_wart": "2025-03-25 15:02:27 +0000"
     },
     "done": true
   },
@@ -9742,6 +9746,90 @@
   "mcda:recipes/upgrade_cores/upgrade_core_soul": {
     "criteria": {
       "has_core_specification_item": "2025-03-25 15:02:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-03-25 15:15:58 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/brazier": {
+    "criteria": {
+      "has_bar": "2025-03-25 15:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-03-25 15:18:50 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/goat_gear_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-03-25 15:14:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-03-25 15:15:58 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/scale_mail_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-03-25 15:14:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-03-25 15:19:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-03-25 15:19:31 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-03-25 15:14:49 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/wine_press": {
+    "criteria": {
+      "has_iron_trapdoor": "2025-03-25 15:15:51 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/soul_brazier": {
+    "criteria": {
+      "has_bar": "2025-03-25 15:15:58 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/climbing_gear_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-03-25 15:14:49 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/archers_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-03-25 15:14:49 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-03-25 15:14:49 +0000"
     },
     "done": true
   },

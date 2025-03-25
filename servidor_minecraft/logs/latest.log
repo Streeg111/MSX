@@ -7016,3 +7016,75 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [15:04:00] [Worker-Main-51/WARN]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
 [15:04:18] [Server thread/INFO]: Purificador25 lost connection: Disconnected
 [15:04:18] [Server thread/INFO]: Purificador25 left the game
+[15:04:56] [Server thread/INFO]: [Handshake] Sending channel query
+[15:04:56] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[15:04:56] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[15:04:57] [Server thread/INFO]: Purificador25[/127.252.100.173:54147] logged in with entity id 9590 at (-1608.9731293682316, 81.0, -3109.4760942666726)
+[15:04:57] [Server thread/INFO]: Sending server config values to client
+[15:04:57] [Server thread/INFO]: Syncing config to Purificador25 (603693bf-f23a-3539-adc6-228f3471e88d)
+[15:04:57] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[15:04:57] [Server thread/INFO]: Purificador25 joined the game
+[15:04:58] [Netty Epoll Server IO #3/INFO]: [showmeyourskin] Client of Purificador25 accepted server config.
+[15:04:58] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[15:04:59] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player Purificador25. Claiming: GRAVE / Robbing: INVENTORY
+[15:04:59] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[15:04:59] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[15:04:59] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[15:04:59] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[15:04:59] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[15:04:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[15:04:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[15:04:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[15:04:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[15:04:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[15:04:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[15:04:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[15:04:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[15:04:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[15:04:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[15:04:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[15:04:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[15:04:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[15:04:59] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/MSX/servidor_minecraft/bclib-sync (allowDelete=true)
+[15:05:01] [Worker-Main-30/WARN]: Empty or non-existent pool: minecraft:minecraft_empty
+[15:05:01] [Worker-Main-30/WARN]: Empty or non-existent pool: minecraft:minecraft_empty
+[15:05:09] [Worker-Main-52/WARN]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[15:05:11] [Worker-Main-29/WARN]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[15:05:11] [Worker-Main-29/WARN]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[15:05:24] [Worker-Main-30/WARN]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[15:05:59] [Worker-Main-28/WARN]: Empty or non-existent pool: totw_reworked:bottom
+[15:06:02] [Worker-Main-30/WARN]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[15:06:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2653ms or 53 ticks behind
+[15:08:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4357ms or 87 ticks behind
+[15:11:52] [Worker-Main-51/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[15:11:52] [Worker-Main-51/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[15:11:52] [Worker-Main-51/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[15:11:52] [Worker-Main-51/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[15:11:52] [Worker-Main-51/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[15:13:28] [Server thread/INFO]: [Purificador25: Set own game mode to Spectator Mode]
+[15:13:42] [Worker-Main-51/WARN]: Empty or non-existent pool: kaisyn:village/exclusives/mediterranean/villager_bishop
+[15:13:44] [Server thread/INFO]: [Purificador25: Set own game mode to Survival Mode]
+[15:13:45] [Worker-Main-30/WARN]: Tried to access a block entity before it was created. class_2338{x=-1929, y=81, z=-3475}
+[15:13:45] [Worker-Main-30/WARN]: Tried to access a block entity before it was created. class_2338{x=-1929, y=81, z=-3475}
+[15:13:53] [Worker-Main-30/WARN]: Skipping Entity with id 
+[15:13:53] [Worker-Main-28/WARN]: Skipping Entity with id 
+[15:13:54] [Worker-Main-51/WARN]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[15:13:55] [Worker-Main-52/WARN]: Skipping Entity with id 
+[15:13:55] [Worker-Main-28/WARN]: Skipping Entity with id 
+[15:16:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3319ms or 66 ticks behind
+[15:16:40] [Worker-Main-28/WARN]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[15:16:56] [Worker-Main-30/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[15:16:56] [Worker-Main-30/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:table",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[15:21:32] [Server thread/INFO]: Villager class_1646['Jarrod'/16571, l='ServerLevel[world]', x=-1748.13, y=99.00, z=-3425.31] died, message: 'Jarrod was slain by Husk'
+[15:21:32] [Server thread/INFO]: Named entity class_1646['Jarrod'/16571, l='ServerLevel[world]', x=-1748.13, y=99.00, z=-3425.31] died: Jarrod was slain by Husk
+[15:21:37] [Server thread/INFO]: Villager class_1646['Nanci'/16570, l='ServerLevel[world]', x=-1748.04, y=75.00, z=-3420.20] died, message: 'Nanci hit the ground too hard whilst trying to escape Husk'
+[15:21:37] [Server thread/INFO]: Named entity class_1646['Nanci'/16570, l='ServerLevel[world]', x=-1748.04, y=75.00, z=-3420.20] died: Nanci was doomed to fall by Husk
+[15:22:49] [Worker-Main-30/WARN]: Skipping Entity with id 
+[15:23:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2218ms or 44 ticks behind
+[15:24:23] [Server thread/INFO]: Named entity class_1576['Stormy Gravity Husk'/17050, l='ServerLevel[world]', x=-1780.94, y=62.00, z=-3447.86] died: Stormy Gravity Husk was slain by Purificador25
+[15:24:56] [Worker-Main-51/WARN]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[15:25:11] [Worker-Main-29/WARN]: Tried to access a block entity before it was created. class_2338{x=-1522, y=75, z=-3758}
+[15:25:11] [Worker-Main-29/WARN]: Tried to access a block entity before it was created. class_2338{x=-1522, y=75, z=-3758}
+[15:25:28] [Worker-Main-28/WARN]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[15:25:49] [Worker-Main-30/WARN]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[15:29:21] [Server thread/INFO]: There are 1 of a max of 10 players online: Purificador25
