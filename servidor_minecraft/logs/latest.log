@@ -6709,3 +6709,63 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [05:42:03] [Server thread/INFO]: MeRebornRekt lost connection: Disconnected
 [05:42:03] [Server thread/INFO]: MeRebornRekt left the game
 [05:43:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2206ms or 44 ticks behind
+[05:46:25] [Server thread/INFO]: [Handshake] Sending channel query
+[05:46:25] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[05:46:25] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[05:46:26] [Server thread/INFO]: MeRebornRekt[/127.189.148.44:51689] logged in with entity id 30593 at (-454.519141716223, 176.0, -1744.6105636443863)
+[05:46:26] [Server thread/INFO]: Sending server config values to client
+[05:46:26] [Server thread/INFO]: Syncing config to MeRebornRekt (bca94202-89e4-337a-a0ac-6123b2358471)
+[05:46:26] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05:46:26] [Server thread/INFO]: MeRebornRekt joined the game
+[05:46:26] [Netty Epoll Server IO #0/INFO]: [showmeyourskin] Client of MeRebornRekt accepted server config.
+[05:46:26] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[05:46:26] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player MeRebornRekt. Claiming: GRAVE / Robbing: INVENTORY
+[05:46:26] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05:46:26] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[05:46:26] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[05:46:26] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[05:46:26] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[05:46:26] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[05:46:26] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[05:46:26] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[05:46:26] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[05:46:26] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[05:46:26] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[05:46:26] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[05:46:26] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[05:46:26] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[05:46:26] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[05:46:26] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[05:46:26] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[05:46:26] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[05:46:26] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/MSX/servidor_minecraft/bclib-sync (allowDelete=true)
+[05:46:30] [Server thread/INFO]: <Purificador25> xd}
+[05:46:32] [Server thread/INFO]: MeRebornRekt froze to death
+[05:46:34] [Server thread/INFO]: [STDOUT]: copyFrom?
+[05:46:34] [Server thread/INFO]: [STDOUT]: alive?
+[05:46:46] [Server thread/INFO]: [MeRebornRekt: Gave 41 experience levels to MeRebornRekt]
+[05:46:48] [Server thread/INFO]: <MeRebornRekt> na
+[05:46:51] [Server thread/INFO]: <MeRebornRekt> me quede afk
+[05:46:52] [Server thread/INFO]: <MeRebornRekt> mrd
+[05:46:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[05:46:58] [Server thread/INFO]: <MeRebornRekt> ya habia revivido
+[05:47:01] [Server thread/INFO]: <Purificador25> xdd
+[05:47:09] [Server thread/INFO]: MeRebornRekt claimed a grave belonging to MeRebornRekt at -455, 176, -1745, minecraft:overworld
+[05:47:09] [Server thread/INFO]: <Purificador25> ire a preparar mi cena vuelvo xd
+[05:47:25] [Server thread/INFO]: <Purificador25> eso si hay xd
+[05:51:07] [Server thread/INFO]: <Purificador25> si hubo xd
+[05:51:41] [Server thread/INFO]: <Purificador25> ya encontraste zona ?
+[05:51:44] [Server thread/INFO]: <Purificador25> o nel?
+[05:53:49] [Server thread/INFO]: <MeRebornRekt> nel
+[05:53:53] [Server thread/INFO]: <MeRebornRekt> ando vivito en repo
+[05:53:55] [Server thread/INFO]: <MeRebornRekt> muero y sigo buscnado
+[05:54:07] [Server thread/INFO]: <Purificador25> no hay dungueon xd, ire a minar creo
+[05:56:42] [Server thread/INFO]: <MeRebornRekt> ya ta
+[05:56:43] [Server thread/INFO]: <MeRebornRekt> me mori
+[05:57:28] [Worker-Main-12/WARN]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[05:57:53] [Worker-Main-37/WARN]: Tried to access a block entity before it was created. class_2338{x=-152, y=176, z=-1822}
+[05:57:53] [Worker-Main-37/WARN]: Tried to access a block entity before it was created. class_2338{x=-152, y=176, z=-1822}
+[05:58:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[06:01:20] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Spectator Mode]
+[06:02:55] [Server thread/INFO]: Named entity class_1642['Yeeter Burning Zombie'/34754, l='ServerLevel[world]', x=-1247.17, y=216.00, z=-2095.86] died: Yeeter Burning Zombie was slain by Tarah
+[06:04:28] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Survival Mode]
