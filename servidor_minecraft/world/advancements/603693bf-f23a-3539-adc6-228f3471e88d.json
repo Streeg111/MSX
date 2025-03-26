@@ -10289,5 +10289,131 @@
     },
     "done": true
   },
+  "promenade:recipes/stonecutting/blunite/stairs": {
+    "criteria": {
+      "has_blunite": "2025-03-26 02:07:31 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/blunite/wall": {
+    "criteria": {
+      "has_blunite": "2025-03-26 02:07:31 +0000"
+    },
+    "done": true
+  },
+  "slayersbeasts:recipes/building_blocks/pegmatite_slab": {
+    "criteria": {
+      "has_pegmatite": "2025-03-26 02:07:03 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/blunite/polished_slab": {
+    "criteria": {
+      "has_blunite": "2025-03-26 02:07:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pegmatite_wall_from_pegmatite_stonecutting": {
+    "criteria": {
+      "has_pegmatite": "2025-03-26 02:07:03 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/blunite/stairs": {
+    "criteria": {
+      "has_blunite": "2025-03-26 02:07:31 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/blunite/slab": {
+    "criteria": {
+      "has_blunite": "2025-03-26 02:07:31 +0000"
+    },
+    "done": true
+  },
+  "slayersbeasts:recipes/building_blocks/polished_pegmatite": {
+    "criteria": {
+      "has_pegmatite": "2025-03-26 02:07:03 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/blunite/polished_stairs": {
+    "criteria": {
+      "has_blunite": "2025-03-26 02:07:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_pegmatite_from_pegmatite_stonecutting": {
+    "criteria": {
+      "has_pegmatite": "2025-03-26 02:07:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pegmatite_slab_from_pegmatite_stonecutting": {
+    "criteria": {
+      "has_pegmatite": "2025-03-26 02:07:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pegmatite_stairs_from_pegmatite_stonecutting": {
+    "criteria": {
+      "has_pegmatite": "2025-03-26 02:07:03 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/blunite/polished_block": {
+    "criteria": {
+      "has_blunite": "2025-03-26 02:07:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_pegmatite_stairs_from_pegmatite_stonecutting": {
+    "criteria": {
+      "has_pegmatite": "2025-03-26 02:07:03 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/blunite/polished_block": {
+    "criteria": {
+      "has_blunite": "2025-03-26 02:07:31 +0000"
+    },
+    "done": true
+  },
+  "slayersbeasts:recipes/building_blocks/pegmatite_stairs": {
+    "criteria": {
+      "has_pegmatite": "2025-03-26 02:07:03 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/yellow_coffin": {
+    "criteria": {
+      "has_item": "2025-03-26 01:58:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_pegmatite_slab_from_pegmatite_stonecutting": {
+    "criteria": {
+      "has_pegmatite": "2025-03-26 02:07:03 +0000"
+    },
+    "done": true
+  },
+  "slayersbeasts:recipes/decorations/pegmatite_wall": {
+    "criteria": {
+      "has_pegmatite": "2025-03-26 02:07:03 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/blunite/slab": {
+    "criteria": {
+      "has_blunite": "2025-03-26 02:07:31 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/blunite/wall": {
+    "criteria": {
+      "has_blunite": "2025-03-26 02:07:31 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

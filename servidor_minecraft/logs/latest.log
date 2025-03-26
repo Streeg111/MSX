@@ -3823,3 +3823,16 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [01:53:36] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
 [01:53:36] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [01:53:36] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/MSX/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:01:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2418ms or 48 ticks behind
+[02:03:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[02:03:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[02:04:54] [Worker-Main-3/WARN]: Empty height range: [-33 absolute--50 absolute]
+[02:05:05] [Server thread/WARN]: Purificador25 moved too quickly! 2.9630912118711876,-3.0523555912525495,-9.333894072477051
+[02:05:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7229ms or 144 ticks behind
+[02:05:10] [Worker-Main-2/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
+[02:05:10] [Worker-Main-2/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
+[02:05:16] [Worker-Main-3/WARN]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[02:05:18] [Worker-Main-4/WARN]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[02:05:26] [Worker-Main-2/WARN]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[02:07:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4230ms or 84 ticks behind
+[02:11:26] [Server thread/INFO]: Named entity class_1628['Lifesteal Toxic Spider'/5105, l='ServerLevel[world]', x=1548.35, y=4.93, z=-3996.66] died: Lifesteal Toxic Spider was slain by Purificador25
